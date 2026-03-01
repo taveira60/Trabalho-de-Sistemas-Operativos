@@ -1,0 +1,74 @@
+/*typedef struct index
+{
+    char titulo[200];
+    char autores[200];
+    char ano[4];
+    char path[64];
+    int key;
+} Index;
+
+/*int indexa(char *titulo, char *autores, char *ano, char *path)
+{
+    int fd_index = open(FILENAME, O_CREAT|O_RDWR, 0660);
+    Index ind;
+    if(fd_index < 0)
+    {
+        perror("Erro na abertura ou criação do Ficheiro\n");
+        return EXIT_FAIL;
+    }
+
+    printf("open: fd = %d\n", fd_index);
+    
+    while(read(fd_index,&ind,sizeof(Index)) > 0)
+    {
+        if(strcmp(ind.titulo,titulo) == 0 && strcmp(ind.path,path) == 0)
+        {
+            printf("O File já está indexado\n");
+            close(fd_index);
+            return EXIT_FAIL;
+        }
+    }
+    
+    memset(&ind, 0, sizeof(Index));
+
+    strcpy(ind.titulo,titulo); 
+    strcpy(ind.autores,autores);
+    strcpy(ind.ano,ano);
+    strcpy(ind.path,path);
+   
+    off_t offset = lseek(fd_index, 0, SEEK_END);
+    if(offset == -1)
+    {
+        perror("Erro a encontrar o fim do ficheiro");
+        close(fd_index);
+        return EXIT_FAIL;
+    }
+
+    ind.key = (offset/sizeof(Index))+1;
+    
+    if(write(fd_index,&ind,sizeof(Index)) < 0)
+    {
+        perror("Erro a escrever");
+        close(fd_index);
+        return EXIT_FAIL;
+    }
+    printf("Registo %ld\n", (offset/sizeof(Index))+1);
+    close(fd_index);
+
+    return ind.key;
+}*/
+
+/*int le_index()
+{   
+    int fd = open(FILENAME,O_RDONLY);
+    Index ind;
+    while(read(fd,&ind,sizeof(Index)))
+    {
+        printf("->Título: %s\n",ind.titulo);
+        printf("->Autores: %s\n",ind.autores);
+        printf("->Ano: %s\n",ind.ano);    
+        printf("->Path: %s\n",ind.path);
+        printf("->Key: %d\n",ind.key);
+    }
+    return EXIT_SUCCESS;
+}*/

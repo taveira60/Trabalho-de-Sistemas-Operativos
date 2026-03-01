@@ -1,0 +1,6861 @@
+Max Cache_Size: 250
+Servidor On
+-----------
+->Título: The Lure of the Dim Trails
+->Autores: B. M. Bower
+->Ano: 1997
+->Path: 1014.txt
+->Key: -7039005586062885802
+Bytes lidos: 496
+-----------
+->Título: The Mirror of Kong Ho
+->Autores: Ernest Bramah
+->Ano: 1997
+->Path: 1077.txt
+->Key: 5270470638035745771
+Bytes lidos: 496
+-----------
+->Título: The Turmoil
+->Autores: Booth Tarkington
+->Ano: 1997
+->Path: 1098.txt
+->Key: -8321724648142196012
+Bytes lidos: 496
+-----------
+->Título: The Research Magnificent
+->Autores: H. G. Wells
+->Ano: 1997
+->Path: 1138.txt
+->Key: -5935742444992647558
+Bytes lidos: 496
+-----------
+->Título: United States Census Figures back to 1630
+->Autores: U.S. Census of Population and Housing
+->Ano: 2008
+->Path: 115.txt
+->Key: -7126624648079160564
+Bytes lidos: 496
+-----------
+->Título: The Game
+->Autores: Jack London
+->Ano: 2005
+->Path: 1160.txt
+->Key: 710895059511224627
+Bytes lidos: 496
+-----------
+->Título: Agesilaus
+->Autores: Xenophon
+->Ano: 1998
+->Path: 1169.txt
+->Key: -995315407033032508
+Bytes lidos: 496
+-----------
+->Título: The Economist
+->Autores: Xenophon
+->Ano: 1998
+->Path: 1173.txt
+->Key: 2026521171938906905
+Bytes lidos: 496
+-----------
+->Título: On Revenues
+->Autores: Xenophon
+->Ano: 2008
+->Path: 1179.txt
+->Key: -1006970686369969238
+Bytes lidos: 496
+-----------
+->Título: Decline of Science in England
+->Autores: Charles Babbage
+->Ano: 1998
+->Path: 1216.txt
+->Key: -6577253744421514612
+Bytes lidos: 496
+-----------
+->Título: At the Earth's Core
+->Autores: Edgar Rice Burroughs
+->Ano: 2008
+->Path: 123.txt
+->Key: -4768626605887941876
+Bytes lidos: 496
+-----------
+->Título: The Prince
+->Autores: Nicolo Machiavelli
+->Ano: 2006
+->Path: 1232.txt
+->Key: 5727792584741720812
+Bytes lidos: 496
+-----------
+->Título: The Well of the Saints
+->Autores: J. M. Synge
+->Ano: 1998
+->Path: 1241.txt
+->Key: -6218521517634431286
+Bytes lidos: 496
+-----------
+->Título: Hearts of Controversy
+->Autores: Alice Meynell
+->Ano: 2005
+->Path: 1243.txt
+->Key: 2017720274229239814
+Bytes lidos: 496
+-----------
+->Título: Anthem
+->Autores: Ayn Rand
+->Ano: 1998
+->Path: 1250.txt
+->Key: 4898681425086762307
+Bytes lidos: 496
+-----------
+->Título: The Poison Belt
+->Autores: Arthur Conan Doyle
+->Ano: 2008
+->Path: 126.txt
+->Key: -7330884986213478790
+Bytes lidos: 496
+-----------
+->Título: The Rhythm of Life
+->Autores: Alice Meynell
+->Ano: 2005
+->Path: 1276.txt
+->Key: -6428683194960316290
+Bytes lidos: 496
+-----------
+->Título: Melmoth Reconciled
+->Autores: Honore de Balzac
+->Ano: 1998
+->Path: 1277.txt
+->Key: 7903846665644825853
+Bytes lidos: 496
+-----------
+->Título: Tom Swift Among The Diamond Makers
+->Autores: Victor Appleton
+->Ano: 1998
+->Path: 1282.txt
+->Key: -4481164067743856960
+Bytes lidos: 496
+-----------
+->Título: The Square Root of Two, to 5 Million Digits
+->Autores: Robert Nemiroff
+->Ano: 2008
+->Path: 129.txt
+->Key: -460035026465222865
+Bytes lidos: 496
+-----------
+->Título: The Heritage of the Sioux
+->Autores: B.M. Bower
+->Ano: 1998
+->Path: 1299.txt
+->Key: 2297127686057978334
+Bytes lidos: 496
+-----------
+->Título: Enemies of Books
+->Autores: William Blades
+->Ano: 1998
+->Path: 1302.txt
+->Key: 2577364200586757294
+Bytes lidos: 496
+-----------
+->Título: If
+->Autores: Lord Dunsany
+->Ano: 1998
+->Path: 1311.txt
+->Key: -3345935510623105535
+Bytes lidos: 496
+-----------
+->Título: Over the Sliprails
+->Autores: Henry Lawson
+->Ano: 1998
+->Path: 1313.txt
+->Key: 2301298882088917275
+Bytes lidos: 496
+-----------
+->Título: The Malefactor
+->Autores: E. Phillips Oppenheim
+->Ano: 1998
+->Path: 1314.txt
+->Key: -5271734444517296156
+Bytes lidos: 496
+-----------
+->Título: Some Reminiscences
+->Autores: Joseph Conrad
+->Ano: 2006
+->Path: 1316.txt
+->Key: 7778654709239093533
+Bytes lidos: 496
+-----------
+->Título: The Twin Hells
+->Autores: John N. Reynolds
+->Ano: 1997
+->Path: 1318.txt
+->Key: -211778817171042369
+Bytes lidos: 496
+-----------
+->Título: Robert F. Murray
+->Autores: Robert F. Murray
+->Ano: 2007
+->Path: 1333.txt
+->Key: 2306374879561693821
+Bytes lidos: 496
+-----------
+->Título: Paul Kelver
+->Autores: Jerome Klapka
+->Ano: 1998
+->Path: 1334.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 103112 terminou normalmente com status 0
+PID 103113 terminou normalmente com status 0
+->5421169219436865515
+
+PID 103114 terminou normalmente com status 0
+PID 103115 terminou normalmente com status 0
+->-5566273752174951022
+
+PID 103116 terminou normalmente com status 0
+PID 103117 terminou normalmente com status 0
+->101100545784803240
+
+PID 103118 terminou normalmente com status 0
+PID 103119 terminou normalmente com status 0
+->-6266468884641367978
+
+PID 103120 terminou normalmente com status 0
+PID 103121 terminou normalmente com status 0
+->1816464265713397096
+
+PID 103122 terminou normalmente com status 0
+PID 103123 terminou normalmente com status 0
+->894585514504947921
+
+PID 103124 terminou normalmente com status 0
+PID 103125 terminou normalmente com status 0
+->8378914680805363749
+
+PID 103126 terminou normalmente com status 0
+PID 103127 terminou normalmente com status 0
+->-7039005586062885802
+
+PID 103128 terminou normalmente com status 0
+PID 103129 terminou normalmente com status 0
+->-4100846541035692777
+
+PID 103130 terminou normalmente com status 0
+PID 103131 terminou normalmente com status 0
+->-8167212457236497865
+
+PID 103132 terminou normalmente com status 0
+PID 103133 terminou normalmente com status 0
+->7013883536578469406
+
+PID 103134 terminou normalmente com status 0
+PID 103135 terminou normalmente com status 0
+->-8424356281683108926
+
+PID 103136 terminou normalmente com status 0
+PID 103137 terminou normalmente com status 0
+->1508075438675435827
+
+PID 103138 terminou normalmente com status 0
+PID 103139 terminou normalmente com status 0
+->325759857073620191
+
+PID 103140 terminou normalmente com status 0
+PID 103141 terminou normalmente com status 0
+->-4206028689739711794
+
+PID 103142 terminou normalmente com status 0
+PID 103143 terminou normalmente com status 0
+->1656502321581663039
+
+PID 103144 terminou normalmente com status 0
+PID 103145 terminou normalmente com status 0
+->-1726044508443179308
+
+PID 103146 terminou normalmente com status 0
+PID 103147 terminou normalmente com status 0
+->1332467535079937886
+
+PID 103148 terminou normalmente com status 0
+PID 103149 terminou normalmente com status 0
+->-5805068088943953995
+
+PID 103150 terminou normalmente com status 0
+PID 103151 terminou normalmente com status 0
+->4870946382102208054
+
+PID 103152 terminou normalmente com status 0
+PID 103153 terminou normalmente com status 0
+->-6021643422870068468
+
+PID 103154 terminou normalmente com status 0
+PID 103155 terminou normalmente com status 0
+->1953577415063500980
+
+PID 103156 terminou normalmente com status 0
+PID 103157 terminou normalmente com status 0
+->-6485854223426351848
+
+PID 103158 terminou normalmente com status 0
+PID 103159 terminou normalmente com status 0
+->-607357014700626479
+
+PID 103160 terminou normalmente com status 0
+PID 103161 terminou normalmente com status 0
+->3742897762501460727
+
+PID 103162 terminou normalmente com status 0
+PID 103163 terminou normalmente com status 0
+->7215005639643776372
+
+PID 103164 terminou normalmente com status 0
+PID 103165 terminou normalmente com status 0
+->-7403496918372783982
+
+PID 103166 terminou normalmente com status 0
+PID 103167 terminou normalmente com status 0
+->-1313604438929178475
+
+PID 103168 terminou normalmente com status 0
+PID 103169 terminou normalmente com status 0
+->-9073299060608235745
+
+PID 103170 terminou normalmente com status 0
+PID 103171 terminou normalmente com status 0
+->-1683213638964081327
+
+PID 103172 terminou normalmente com status 0
+PID 103173 terminou normalmente com status 0
+->-1396817019744252833
+
+PID 103174 terminou normalmente com status 0
+PID 103175 terminou normalmente com status 0
+->-2743045904077517052
+
+PID 103176 terminou normalmente com status 0
+PID 103177 terminou normalmente com status 0
+->8324469136842564804
+
+PID 103178 terminou normalmente com status 0
+PID 103179 terminou normalmente com status 0
+->5621050212413687833
+
+PID 103180 terminou normalmente com status 0
+PID 103181 terminou normalmente com status 0
+->3379660501864047296
+
+PID 103182 terminou normalmente com status 0
+PID 103183 terminou normalmente com status 0
+->-9117420415459303655
+
+PID 103184 terminou normalmente com status 0
+PID 103185 terminou normalmente com status 0
+->-8326323498769803329
+
+PID 103186 terminou normalmente com status 0
+PID 103187 terminou normalmente com status 0
+->-4181529149145720382
+
+PID 103188 terminou normalmente com status 0
+PID 103189 terminou normalmente com status 0
+->5834579868215423896
+
+PID 103190 terminou normalmente com status 0
+PID 103191 terminou normalmente com status 0
+->-2857487639635872645
+
+PID 103192 terminou normalmente com status 0
+PID 103193 terminou normalmente com status 0
+->5488449696985504529
+
+PID 103194 terminou normalmente com status 0
+PID 103195 terminou normalmente com status 0
+->7948905256305190903
+
+PID 103196 terminou normalmente com status 0
+PID 103197 terminou normalmente com status 0
+->-3101808449177598261
+
+PID 103198 terminou normalmente com status 0
+PID 103199 terminou normalmente com status 0
+->-4815488215073021490
+
+PID 103200 terminou normalmente com status 0
+PID 103201 terminou normalmente com status 0
+->7418123413572888963
+
+PID 103202 terminou normalmente com status 0
+PID 103203 terminou normalmente com status 0
+->6841517178775180964
+
+PID 103204 terminou normalmente com status 0
+PID 103205 terminou normalmente com status 0
+->2433473677372840074
+
+PID 103206 terminou normalmente com status 0
+PID 103207 terminou normalmente com status 0
+->-900451128517482526
+
+PID 103208 terminou normalmente com status 0
+PID 103209 terminou normalmente com status 0
+->-3119946969835940475
+
+PID 103210 terminou normalmente com status 0
+PID 103211 terminou normalmente com status 0
+->3742431011050818542
+
+PID 103212 terminou normalmente com status 0
+PID 103213 terminou normalmente com status 0
+->-5530038037147483435
+
+PID 103214 terminou normalmente com status 0
+PID 103215 terminou normalmente com status 0
+->7337207256429259140
+
+PID 103216 terminou normalmente com status 0
+PID 103217 terminou normalmente com status 0
+->-3140765903078171741
+
+PID 103218 terminou normalmente com status 0
+PID 103219 terminou normalmente com status 0
+->5270470638035745771
+
+PID 103220 terminou normalmente com status 0
+PID 103221 terminou normalmente com status 0
+->-7794135933127735570
+
+PID 103222 terminou normalmente com status 0
+PID 103223 terminou normalmente com status 0
+->4175676773564504983
+
+PID 103224 terminou normalmente com status 0
+PID 103225 terminou normalmente com status 0
+->4116373298120015260
+
+PID 103226 terminou normalmente com status 0
+PID 103227 terminou normalmente com status 0
+->4526199547915819642
+
+PID 103228 terminou normalmente com status 0
+PID 103229 terminou normalmente com status 0
+->8727078961588720875
+
+PID 103230 terminou normalmente com status 0
+PID 103231 terminou normalmente com status 0
+->4236242766562588626
+
+PID 103232 terminou normalmente com status 0
+PID 103233 terminou normalmente com status 0
+->7221079526127161665
+
+PID 103234 terminou normalmente com status 0
+PID 103235 terminou normalmente com status 0
+->7938846797218200289
+
+PID 103236 terminou normalmente com status 0
+PID 103237 terminou normalmente com status 0
+->-7891628215768073016
+
+PID 103238 terminou normalmente com status 0
+PID 103239 terminou normalmente com status 0
+->4353403263265590687
+
+PID 103240 terminou normalmente com status 0
+PID 103241 terminou normalmente com status 0
+->1067542794731062785
+
+PID 103242 terminou normalmente com status 0
+PID 103243 terminou normalmente com status 0
+->5781809218021271486
+
+PID 103244 terminou normalmente com status 0
+PID 103245 terminou normalmente com status 0
+->-2031870381215796441
+
+PID 103246 terminou normalmente com status 0
+PID 103247 terminou normalmente com status 0
+->-5898716477634392881
+
+PID 103248 terminou normalmente com status 0
+PID 103249 terminou normalmente com status 0
+->-8321724648142196012
+
+PID 103250 terminou normalmente com status 0
+PID 103251 terminou normalmente com status 0
+->-4235669030659036097
+
+PID 103252 terminou normalmente com status 0
+PID 103253 terminou normalmente com status 0
+->-4467880421060424977
+
+PID 103254 terminou normalmente com status 0
+PID 103255 terminou normalmente com status 0
+->6507411704709298306
+
+PID 103256 terminou normalmente com status 0
+PID 103257 terminou normalmente com status 0
+->7124748436590140745
+
+PID 103258 terminou normalmente com status 0
+PID 103259 terminou normalmente com status 0
+->108864596906530424
+
+PID 103260 terminou normalmente com status 0
+PID 103261 terminou normalmente com status 0
+->-6190283561283249238
+
+PID 103262 terminou normalmente com status 0
+PID 103263 terminou normalmente com status 0
+->-4735776251952461209
+
+PID 103264 terminou normalmente com status 0
+PID 103265 terminou normalmente com status 0
+->-3053073244548004934
+
+PID 103266 terminou normalmente com status 0
+PID 103267 terminou normalmente com status 0
+->790972304982300329
+
+PID 103268 terminou normalmente com status 0
+PID 103269 terminou normalmente com status 0
+->-5703086083363826847
+
+PID 103270 terminou normalmente com status 0
+PID 103271 terminou normalmente com status 0
+->-5935742444992647558
+
+PID 103272 terminou normalmente com status 0
+PID 103273 terminou normalmente com status 0
+->3752811383516545980
+
+PID 103274 terminou normalmente com status 0
+PID 103275 terminou normalmente com status 0
+->105351458309432306
+
+PID 103276 terminou normalmente com status 0
+PID 103277 terminou normalmente com status 0
+->7670802480189319491
+
+PID 103278 terminou normalmente com status 0
+PID 103279 terminou normalmente com status 0
+->3748891679286447687
+
+PID 103280 terminou normalmente com status 0
+PID 103281 terminou normalmente com status 0
+->-7424973333266653713
+
+PID 103282 terminou normalmente com status 0
+PID 103283 terminou normalmente com status 0
+->-166725219174934365
+
+PID 103284 terminou normalmente com status 0
+PID 103285 terminou normalmente com status 0
+->-8996877393878544036
+
+PID 103286 terminou normalmente com status 0
+PID 103287 terminou normalmente com status 0
+->254039411178779836
+
+PID 103288 terminou normalmente com status 0
+PID 103289 terminou normalmente com status 0
+->8314354473664838660
+
+PID 103290 terminou normalmente com status 0
+PID 103291 terminou normalmente com status 0
+->-7126624648079160564
+
+PID 103292 terminou normalmente com status 0
+PID 103293 terminou normalmente com status 0
+->-7171339706386589409
+
+PID 103294 terminou normalmente com status 0
+PID 103295 terminou normalmente com status 0
+->-219118998601700099
+
+PID 103296 terminou normalmente com status 0
+PID 103297 terminou normalmente com status 0
+->-5448947563917679951
+
+PID 103298 terminou normalmente com status 0
+PID 103299 terminou normalmente com status 0
+->-5274012306720510571
+
+PID 103300 terminou normalmente com status 0
+PID 103301 terminou normalmente com status 0
+->8104741478627955532
+
+PID 103302 terminou normalmente com status 0
+PID 103303 terminou normalmente com status 0
+->-2740511092030148891
+
+PID 103304 terminou normalmente com status 0
+PID 103305 terminou normalmente com status 0
+->-1453837294623553300
+
+PID 103306 terminou normalmente com status 0
+PID 103307 terminou normalmente com status 0
+->710895059511224627
+
+PID 103308 terminou normalmente com status 0
+PID 103309 terminou normalmente com status 0
+->-6020040878677778708
+
+PID 103310 terminou normalmente com status 0
+PID 103311 terminou normalmente com status 0
+->-305398312056839746
+
+PID 103312 terminou normalmente com status 0
+PID 103313 terminou normalmente com status 0
+->-8957297686389898324
+
+PID 103314 terminou normalmente com status 0
+PID 103315 terminou normalmente com status 0
+->-8423967707347853899
+
+PID 103316 terminou normalmente com status 0
+PID 103317 terminou normalmente com status 0
+->-7762102842653778818
+
+PID 103318 terminou normalmente com status 0
+PID 103319 terminou normalmente com status 0
+->8863427931628017550
+
+PID 103320 terminou normalmente com status 0
+PID 103321 terminou normalmente com status 0
+->-995315407033032508
+
+PID 103322 terminou normalmente com status 0
+PID 103323 terminou normalmente com status 0
+->4041236581112904317
+
+PID 103324 terminou normalmente com status 0
+PID 103325 terminou normalmente com status 0
+->-5600120421851880849
+
+PID 103326 terminou normalmente com status 0
+PID 103327 terminou normalmente com status 0
+->-9078737140387205298
+
+PID 103328 terminou normalmente com status 0
+PID 103329 terminou normalmente com status 0
+->-4929683402855423408
+
+PID 103330 terminou normalmente com status 0
+PID 103331 terminou normalmente com status 0
+->2026521171938906905
+
+PID 103332 terminou normalmente com status 0
+PID 103333 terminou normalmente com status 0
+->-2635164909350270946
+
+PID 103334 terminou normalmente com status 0
+PID 103335 terminou normalmente com status 0
+->-3885657574380809957
+
+PID 103336 terminou normalmente com status 0
+PID 103337 terminou normalmente com status 0
+->8134275224923779113
+
+PID 103338 terminou normalmente com status 0
+PID 103339 terminou normalmente com status 0
+->-5506686445792457982
+
+PID 103340 terminou normalmente com status 0
+PID 103341 terminou normalmente com status 0
+->5217255326430290718
+
+PID 103342 terminou normalmente com status 0
+PID 103343 terminou normalmente com status 0
+->-1006970686369969238
+
+PID 103344 terminou normalmente com status 0
+PID 103345 terminou normalmente com status 0
+->5275696197978020325
+
+PID 103346 terminou normalmente com status 0
+PID 103347 terminou normalmente com status 0
+->1820144654652313876
+
+PID 103348 terminou normalmente com status 0
+PID 103349 terminou normalmente com status 0
+->8426215874964923413
+
+PID 103350 terminou normalmente com status 0
+PID 103351 terminou normalmente com status 0
+->-8238463944813712424
+
+PID 103352 terminou normalmente com status 0
+PID 103353 terminou normalmente com status 0
+->7699666051484077373
+
+PID 103354 terminou normalmente com status 0
+PID 103355 terminou normalmente com status 0
+->2464268208961387028
+
+PID 103356 terminou normalmente com status 0
+PID 103357 terminou normalmente com status 0
+->2689113897549335902
+
+PID 103358 terminou normalmente com status 0
+PID 103359 terminou normalmente com status 0
+->4299352330103346964
+
+PID 103360 terminou normalmente com status 0
+PID 103361 terminou normalmente com status 0
+->3296195290539836743
+
+PID 103362 terminou normalmente com status 0
+PID 103363 terminou normalmente com status 0
+->4444780147720869436
+
+PID 103364 terminou normalmente com status 0
+PID 103365 terminou normalmente com status 0
+->903266781608965726
+
+PID 103366 terminou normalmente com status 0
+PID 103367 terminou normalmente com status 0
+->2368503950715550002
+
+PID 103368 terminou normalmente com status 0
+PID 103369 terminou normalmente com status 0
+->2915627399279091238
+
+PID 103370 terminou normalmente com status 0
+PID 103371 terminou normalmente com status 0
+->860850111245394545
+
+PID 103372 terminou normalmente com status 0
+PID 103373 terminou normalmente com status 0
+->-2074604884331914395
+
+PID 103374 terminou normalmente com status 0
+PID 103375 terminou normalmente com status 0
+->8821274162762682340
+
+PID 103376 terminou normalmente com status 0
+PID 103377 terminou normalmente com status 0
+->-8623769955901299901
+
+PID 103378 terminou normalmente com status 0
+PID 103379 terminou normalmente com status 0
+->7534656349013008390
+
+PID 103380 terminou normalmente com status 0
+PID 103381 terminou normalmente com status 0
+->932824612644789498
+
+PID 103382 terminou normalmente com status 0
+PID 103383 terminou normalmente com status 0
+->-3145626824889458261
+
+PID 103384 terminou normalmente com status 0
+PID 103385 terminou normalmente com status 0
+->309760652959742024
+
+PID 103386 terminou normalmente com status 0
+PID 103387 terminou normalmente com status 0
+->-7103068105239842157
+
+PID 103388 terminou normalmente com status 0
+PID 103389 terminou normalmente com status 0
+->-5358239991478871848
+
+PID 103390 terminou normalmente com status 0
+PID 103391 terminou normalmente com status 0
+->-233392892125078809
+
+PID 103392 terminou normalmente com status 0
+PID 103393 terminou normalmente com status 0
+->-6813763563556328926
+
+PID 103394 terminou normalmente com status 0
+PID 103395 terminou normalmente com status 0
+->3763325728743950982
+
+PID 103396 terminou normalmente com status 0
+PID 103397 terminou normalmente com status 0
+->5885765764469471939
+
+PID 103398 terminou normalmente com status 0
+PID 103399 terminou normalmente com status 0
+->-170685468649137524
+
+PID 103400 terminou normalmente com status 0
+PID 103401 terminou normalmente com status 0
+->2183837635098993627
+
+PID 103402 terminou normalmente com status 0
+PID 103403 terminou normalmente com status 0
+->8296919747012755429
+
+PID 103404 terminou normalmente com status 0
+PID 103405 terminou normalmente com status 0
+->-3209693820530084532
+
+PID 103406 terminou normalmente com status 0
+PID 103407 terminou normalmente com status 0
+->-7083985513375857186
+
+PID 103408 terminou normalmente com status 0
+PID 103409 terminou normalmente com status 0
+->8671576895171953296
+
+PID 103410 terminou normalmente com status 0
+PID 103411 terminou normalmente com status 0
+->-8763159719996338861
+
+PID 103412 terminou normalmente com status 0
+PID 103413 terminou normalmente com status 0
+->-6577253744421514612
+
+PID 103414 terminou normalmente com status 0
+PID 103415 terminou normalmente com status 0
+->8977930482653164515
+
+PID 103416 terminou normalmente com status 0
+PID 103417 terminou normalmente com status 0
+->-132102622342135715
+
+PID 103418 terminou normalmente com status 0
+PID 103419 terminou normalmente com status 0
+->-4355363926716364804
+
+PID 103420 terminou normalmente com status 0
+PID 103421 terminou normalmente com status 0
+->4763698978115888302
+
+PID 103422 terminou normalmente com status 0
+PID 103423 terminou normalmente com status 0
+->-1538601328243523201
+
+PID 103424 terminou normalmente com status 0
+PID 103425 terminou normalmente com status 0
+->5210821554986415121
+
+PID 103426 terminou normalmente com status 0
+PID 103427 terminou normalmente com status 0
+->-2226035934179930422
+
+PID 103428 terminou normalmente com status 0
+PID 103429 terminou normalmente com status 0
+->5866578602522588137
+
+PID 103430 terminou normalmente com status 0
+PID 103431 terminou normalmente com status 0
+->-712836386913531545
+
+PID 103432 terminou normalmente com status 0
+PID 103433 terminou normalmente com status 0
+->-3257593084024778176
+
+PID 103434 terminou normalmente com status 0
+PID 103435 terminou normalmente com status 0
+->-4768626605887941876
+
+PID 103436 terminou normalmente com status 0
+PID 103437 terminou normalmente com status 0
+->6143203764008066657
+
+PID 103438 terminou normalmente com status 0
+PID 103439 terminou normalmente com status 0
+->-558335660595971239
+
+PID 103440 terminou normalmente com status 0
+PID 103441 terminou normalmente com status 0
+->5727792584741720812
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 103443 terminou normalmente com status 0
+PID 103444 terminou normalmente com status 0
+->-1187082986950019794
+
+PID 103445 terminou normalmente com status 0
+PID 103446 terminou normalmente com status 0
+->-8332090636966444896
+
+PID 103447 terminou normalmente com status 0
+PID 103448 terminou normalmente com status 0
+->5330389327879905380
+
+PID 103449 terminou normalmente com status 0
+PID 103450 terminou normalmente com status 0
+->5323606719677071052
+
+PID 103451 terminou normalmente com status 0
+PID 103452 terminou normalmente com status 0
+->882199351801107712
+
+PID 103453 terminou normalmente com status 0
+PID 103454 terminou normalmente com status 0
+->5773467275248272146
+
+PID 103455 terminou normalmente com status 0
+PID 103456 terminou normalmente com status 0
+->2719296102403126566
+
+PID 103457 terminou normalmente com status 0
+PID 103458 terminou normalmente com status 0
+->-6218521517634431286
+
+PID 103459 terminou normalmente com status 0
+PID 103460 terminou normalmente com status 0
+->-7806186197268244530
+
+PID 103461 terminou normalmente com status 0
+PID 103462 terminou normalmente com status 0
+->2017720274229239814
+
+PID 103463 terminou normalmente com status 0
+PID 103464 terminou normalmente com status 0
+->221339879106278076
+
+PID 103465 terminou normalmente com status 0
+PID 103466 terminou normalmente com status 0
+->2186348562261006802
+
+PID 103467 terminou normalmente com status 0
+PID 103468 terminou normalmente com status 0
+->1285926487687781263
+
+PID 103469 terminou normalmente com status 0
+PID 103470 terminou normalmente com status 0
+->7069102852799285304
+
+PID 103471 terminou normalmente com status 0
+PID 103472 terminou normalmente com status 0
+->-3420001245494613464
+
+PID 103473 terminou normalmente com status 0
+PID 103474 terminou normalmente com status 0
+->4898681425086762307
+
+PID 103475 terminou normalmente com status 0
+PID 103476 terminou normalmente com status 0
+->3925291317583262356
+
+PID 103477 terminou normalmente com status 0
+PID 103478 terminou normalmente com status 0
+->-2847965883422079185
+
+PID 103479 terminou normalmente com status 0
+PID 103480 terminou normalmente com status 0
+->4203242312581199162
+
+PID 103481 terminou normalmente com status 0
+PID 103482 terminou normalmente com status 0
+->-9119574130808089934
+
+PID 103483 terminou normalmente com status 0
+PID 103484 terminou normalmente com status 0
+->4776900564011031508
+
+PID 103485 terminou normalmente com status 0
+PID 103486 terminou normalmente com status 0
+->3020454271663947166
+
+PID 103487 terminou normalmente com status 0
+PID 103488 terminou normalmente com status 0
+->-1745624818090391631
+
+PID 103489 terminou normalmente com status 0
+PID 103490 terminou normalmente com status 0
+->-7330884986213478790
+
+PID 103491 terminou normalmente com status 0
+PID 103492 terminou normalmente com status 0
+->-8188313247923380343
+
+PID 103493 terminou normalmente com status 0
+PID 103494 terminou normalmente com status 0
+->4719114003077200667
+
+PID 103495 terminou normalmente com status 0
+PID 103496 terminou normalmente com status 0
+->-6622368717250083807
+
+PID 103497 terminou normalmente com status 0
+PID 103498 terminou normalmente com status 0
+->4959490216839712639
+
+PID 103499 terminou normalmente com status 0
+PID 103500 terminou normalmente com status 0
+->-8958771296031922762
+
+PID 103501 terminou normalmente com status 0
+PID 103502 terminou normalmente com status 0
+->831007884951697220
+
+PID 103503 terminou normalmente com status 0
+PID 103504 terminou normalmente com status 0
+->3884486367664202897
+
+PID 103505 terminou normalmente com status 0
+PID 103506 terminou normalmente com status 0
+->-1845325172149887844
+
+PID 103507 terminou normalmente com status 0
+PID 103508 terminou normalmente com status 0
+->3094114215814762765
+
+PID 103509 terminou normalmente com status 0
+PID 103510 terminou normalmente com status 0
+->-2845570428909624256
+
+PID 103511 terminou normalmente com status 0
+PID 103512 terminou normalmente com status 0
+->923776452098671619
+
+PID 103513 terminou normalmente com status 0
+PID 103514 terminou normalmente com status 0
+->-1125270185883110451
+
+PID 103515 terminou normalmente com status 0
+PID 103516 terminou normalmente com status 0
+->-3281433237525137997
+
+PID 103517 terminou normalmente com status 0
+PID 103518 terminou normalmente com status 0
+->3205174382842756457
+
+PID 103519 terminou normalmente com status 0
+PID 103520 terminou normalmente com status 0
+->-6428683194960316290
+
+PID 103521 terminou normalmente com status 0
+PID 103522 terminou normalmente com status 0
+->7903846665644825853
+
+PID 103523 terminou normalmente com status 0
+PID 103524 terminou normalmente com status 0
+->7262902941974428192
+
+PID 103525 terminou normalmente com status 0
+PID 103526 terminou normalmente com status 0
+->6457873492291516645
+
+PID 103527 terminou normalmente com status 0
+PID 103528 terminou normalmente com status 0
+->-8131965431047421493
+
+PID 103529 terminou normalmente com status 0
+PID 103530 terminou normalmente com status 0
+->6045655193998838811
+
+PID 103531 terminou normalmente com status 0
+PID 103532 terminou normalmente com status 0
+->-4481164067743856960
+
+PID 103533 terminou normalmente com status 0
+PID 103534 terminou normalmente com status 0
+->5130874374666243442
+
+PID 103535 terminou normalmente com status 0
+PID 103536 terminou normalmente com status 0
+->8547400353804025755
+
+PID 103537 terminou normalmente com status 0
+PID 103538 terminou normalmente com status 0
+->-5683523628577840622
+
+PID 103539 terminou normalmente com status 0
+PID 103540 terminou normalmente com status 0
+->4424921316416682532
+
+PID 103541 terminou normalmente com status 0
+PID 103542 terminou normalmente com status 0
+->-460035026465222865
+
+PID 103543 terminou normalmente com status 0
+PID 103544 terminou normalmente com status 0
+->-8823059420951231782
+
+PID 103545 terminou normalmente com status 0
+PID 103546 terminou normalmente com status 0
+->-8378039923636690217
+
+PID 103547 terminou normalmente com status 0
+PID 103548 terminou normalmente com status 0
+->-4151952911714998128
+
+PID 103549 terminou normalmente com status 0
+PID 103550 terminou normalmente com status 0
+->4045574918766192207
+
+PID 103551 terminou normalmente com status 0
+PID 103552 terminou normalmente com status 0
+->1263745950470061748
+
+PID 103553 terminou normalmente com status 0
+PID 103554 terminou normalmente com status 0
+->-1849751302990881252
+
+PID 103555 terminou normalmente com status 0
+PID 103556 terminou normalmente com status 0
+->2297127686057978334
+
+PID 103557 terminou normalmente com status 0
+PID 103558 terminou normalmente com status 0
+->6351689075060252717
+
+PID 103559 terminou normalmente com status 0
+PID 103560 terminou normalmente com status 0
+->2842145380641236723
+
+PID 103561 terminou normalmente com status 0
+PID 103562 terminou normalmente com status 0
+->9126658372153540413
+
+PID 103563 terminou normalmente com status 0
+PID 103564 terminou normalmente com status 0
+->2577364200586757294
+
+PID 103565 terminou normalmente com status 0
+PID 103566 terminou normalmente com status 0
+->6422318700426601605
+
+PID 103567 terminou normalmente com status 0
+PID 103568 terminou normalmente com status 0
+->-6970105493755520739
+
+PID 103569 terminou normalmente com status 0
+PID 103570 terminou normalmente com status 0
+->5773965612198930765
+
+PID 103571 terminou normalmente com status 0
+PID 103572 terminou normalmente com status 0
+->137015145044105136
+
+PID 103573 terminou normalmente com status 0
+PID 103574 terminou normalmente com status 0
+->-3659806341567093264
+
+PID 103575 terminou normalmente com status 0
+PID 103576 terminou normalmente com status 0
+->-5446188719761206087
+
+PID 103577 terminou normalmente com status 0
+PID 103578 terminou normalmente com status 0
+->-3345935510623105535
+
+PID 103579 terminou normalmente com status 0
+PID 103580 terminou normalmente com status 0
+->2301298882088917275
+
+PID 103581 terminou normalmente com status 0
+PID 103582 terminou normalmente com status 0
+->-5271734444517296156
+
+PID 103583 terminou normalmente com status 0
+PID 103584 terminou normalmente com status 0
+->-5983883132007270804
+
+PID 103585 terminou normalmente com status 0
+PID 103586 terminou normalmente com status 0
+->7778654709239093533
+
+PID 103587 terminou normalmente com status 0
+PID 103588 terminou normalmente com status 0
+->-2313577511088904058
+
+PID 103589 terminou normalmente com status 0
+PID 103590 terminou normalmente com status 0
+->-211778817171042369
+
+PID 103591 terminou normalmente com status 0
+PID 103592 terminou normalmente com status 0
+->-9076415640713322552
+
+PID 103593 terminou normalmente com status 0
+PID 103594 terminou normalmente com status 0
+->-4383596513893532273
+
+PID 103595 terminou normalmente com status 0
+PID 103596 terminou normalmente com status 0
+->3004266504075680619
+
+PID 103597 terminou normalmente com status 0
+PID 103598 terminou normalmente com status 0
+->9090469050174831751
+
+PID 103599 terminou normalmente com status 0
+PID 103600 terminou normalmente com status 0
+->781275673297252938
+
+PID 103601 terminou normalmente com status 0
+PID 103602 terminou normalmente com status 0
+->1201253706323224032
+
+PID 103603 terminou normalmente com status 0
+PID 103604 terminou normalmente com status 0
+->-1149548124190078311
+
+PID 103605 terminou normalmente com status 0
+PID 103606 terminou normalmente com status 0
+->-6020719884468051421
+
+PID 103607 terminou normalmente com status 0
+PID 103608 terminou normalmente com status 0
+->2306374879561693821
+
+PID 103609 terminou normalmente com status 0
+PID 103610 terminou normalmente com status 0
+->161468179213344740
+
+PID 103611 terminou normalmente com status 0
+PID 103612 terminou normalmente com status 0
+->-3512904883036835972
+
+PID 103613 terminou normalmente com status 0
+PID 103614 terminou normalmente com status 0
+->-1497598071620311447
+
+PID 103615 terminou normalmente com status 0
+PID 103616 terminou normalmente com status 0
+->6270303328703510613
+
+PID 103617 terminou normalmente com status 0
+PID 103618 terminou normalmente com status 0
+->8790932328540290783
+
+PID 103619 terminou normalmente com status 0
+PID 103620 terminou normalmente com status 0
+->5856488115745075436
+
+PID 103621 terminou normalmente com status 0
+PID 103622 terminou normalmente com status 0
+->-6005530651790438299
+
+PID 103623 terminou normalmente com status 0
+PID 103624 terminou normalmente com status 0
+->-9086759460060617398
+
+PID 103625 terminou normalmente com status 0
+PID 103626 terminou normalmente com status 0
+->2303449078558443652
+
+PID 103627 terminou normalmente com status 0
+PID 103628 terminou normalmente com status 0
+->2520746102688443811
+
+PID 103629 terminou normalmente com status 0
+PID 103630 terminou normalmente com status 0
+->-9036368901299643929
+
+PID 103631 terminou normalmente com status 0
+PID 103632 terminou normalmente com status 0
+->-6530765506812851136
+
+PID 103633 terminou normalmente com status 0
+PID 103634 terminou normalmente com status 0
+->-2178769856845675006
+
+PID 103635 terminou normalmente com status 0
+PID 103636 terminou normalmente com status 0
+->-8336215622233305242
+
+PID 103637 terminou normalmente com status 0
+PID 103638 terminou normalmente com status 0
+->-4062421866045722332
+
+PID 103639 terminou normalmente com status 0
+PID 103640 terminou normalmente com status 0
+->2212510198570177184
+
+PID 103641 terminou normalmente com status 0
+PID 103642 terminou normalmente com status 0
+->-5630473943729361930
+
+PID 103643 terminou normalmente com status 0
+PID 103644 terminou normalmente com status 0
+->-5947229606592948025
+
+PID 103645 terminou normalmente com status 0
+PID 103646 terminou normalmente com status 0
+->6153987913074603515
+
+PID 103647 terminou normalmente com status 0
+PID 103648 terminou normalmente com status 0
+->-6521331742321149231
+
+PID 103649 terminou normalmente com status 0
+PID 103650 terminou normalmente com status 0
+->3336167237021664899
+
+PID 103651 terminou normalmente com status 0
+PID 103652 terminou normalmente com status 0
+->212156372634052866
+
+PID 103653 terminou normalmente com status 0
+PID 103654 terminou normalmente com status 0
+->5452913204989082635
+
+PID 103655 terminou normalmente com status 0
+PID 103656 terminou normalmente com status 0
+->1659667353662129962
+
+PID 103657 terminou normalmente com status 0
+PID 103658 terminou normalmente com status 0
+->-7465976888474046479
+
+PID 103659 terminou normalmente com status 0
+PID 103660 terminou normalmente com status 0
+->-79229642534315711
+
+PID 103661 terminou normalmente com status 0
+PID 103662 terminou normalmente com status 0
+->3042063560284190987
+
+PID 103663 terminou normalmente com status 0
+PID 103664 terminou normalmente com status 0
+->-5768606552328684639
+
+PID 103665 terminou normalmente com status 0
+PID 103666 terminou normalmente com status 0
+->-397695281334379068
+
+PID 103667 terminou normalmente com status 0
+PID 103668 terminou normalmente com status 0
+->-6479007127954472011
+
+PID 103669 terminou normalmente com status 0
+PID 103670 terminou normalmente com status 0
+->-2935976394531463902
+
+PID 103671 terminou normalmente com status 0
+PID 103672 terminou normalmente com status 0
+->-6479360540053680630
+
+PID 103673 terminou normalmente com status 0
+PID 103674 terminou normalmente com status 0
+->1260130852215283574
+
+PID 103675 terminou normalmente com status 0
+PID 103676 terminou normalmente com status 0
+->3640279247322723637
+
+PID 103677 terminou normalmente com status 0
+PID 103678 terminou normalmente com status 0
+->183269226881766213
+
+PID 103679 terminou normalmente com status 0
+PID 103680 terminou normalmente com status 0
+->-2716109591805126684
+
+PID 103681 terminou normalmente com status 0
+PID 103682 terminou normalmente com status 0
+->7960530548962775522
+
+PID 103683 terminou normalmente com status 0
+PID 103684 terminou normalmente com status 0
+->4371142070425717566
+
+PID 103685 terminou normalmente com status 0
+PID 103686 terminou normalmente com status 0
+->-6047192658937833302
+
+PID 103687 terminou normalmente com status 0
+PID 103688 terminou normalmente com status 0
+->2411984935774285786
+
+PID 103689 terminou normalmente com status 0
+PID 103690 terminou normalmente com status 0
+->8670033623439436591
+
+PID 103691 terminou normalmente com status 0
+PID 103692 terminou normalmente com status 0
+->-3147003020577012767
+
+PID 103693 terminou normalmente com status 0
+PID 103694 terminou normalmente com status 0
+->5357446391006804513
+
+PID 103695 terminou normalmente com status 0
+PID 103696 terminou normalmente com status 0
+->5416026468256858315
+
+PID 103697 terminou normalmente com status 0
+PID 103698 terminou normalmente com status 0
+->-3142029651168081815
+
+PID 103699 terminou normalmente com status 0
+PID 103700 terminou normalmente com status 0
+->-568938105765102133
+
+PID 103701 terminou normalmente com status 0
+PID 103702 terminou normalmente com status 0
+->2646218710900616143
+
+PID 103703 terminou normalmente com status 0
+PID 103704 terminou normalmente com status 0
+->1879230490548206168
+
+PID 103705 terminou normalmente com status 0
+PID 103706 terminou normalmente com status 0
+->-2689018164621609234
+
+PID 103707 terminou normalmente com status 0
+PID 103708 terminou normalmente com status 0
+->637922994375430836
+
+PID 103709 terminou normalmente com status 0
+PID 103710 terminou normalmente com status 0
+->-294731549419815111
+
+PID 103711 terminou normalmente com status 0
+PID 103712 terminou normalmente com status 0
+->4313800795751485726
+
+PID 103713 terminou normalmente com status 0
+PID 103714 terminou normalmente com status 0
+->-5421742921936388353
+
+PID 103715 terminou normalmente com status 0
+PID 103716 terminou normalmente com status 0
+->-7650946168442588863
+
+PID 103717 terminou normalmente com status 0
+PID 103718 terminou normalmente com status 0
+->3242941397794937636
+
+PID 103719 terminou normalmente com status 0
+PID 103720 terminou normalmente com status 0
+->-2756575060022684959
+
+PID 103721 terminou normalmente com status 0
+PID 103722 terminou normalmente com status 0
+->7719579742824931496
+
+PID 103723 terminou normalmente com status 0
+PID 103724 terminou normalmente com status 0
+->-3301872544064166062
+
+PID 103725 terminou normalmente com status 0
+PID 103726 terminou normalmente com status 0
+->3146173409703830221
+
+PID 103727 terminou normalmente com status 0
+PID 103728 terminou normalmente com status 0
+->-6249395734377430092
+
+PID 103729 terminou normalmente com status 0
+PID 103730 terminou normalmente com status 0
+->3003400893613113115
+
+PID 103731 terminou normalmente com status 0
+PID 103732 terminou normalmente com status 0
+->230524193649000178
+
+PID 103733 terminou normalmente com status 0
+PID 103734 terminou normalmente com status 0
+->-6944695567189641874
+
+PID 103735 terminou normalmente com status 0
+PID 103736 terminou normalmente com status 0
+->-4148537975793142934
+
+PID 103737 terminou normalmente com status 0
+PID 103738 terminou normalmente com status 0
+->-3687069810084445281
+
+PID 103739 terminou normalmente com status 0
+PID 103740 terminou normalmente com status 0
+->-5032068565681795100
+
+PID 103741 terminou normalmente com status 0
+PID 103742 terminou normalmente com status 0
+->-6792573690208280100
+
+PID 103743 terminou normalmente com status 0
+PID 103744 terminou normalmente com status 0
+->-5277925858706039499
+
+PID 103745 terminou normalmente com status 0
+PID 103746 terminou normalmente com status 0
+->7197546525322782848
+
+PID 103747 terminou normalmente com status 0
+PID 103748 terminou normalmente com status 0
+->-7997994223205705585
+
+PID 103749 terminou normalmente com status 0
+PID 103750 terminou normalmente com status 0
+->3080943292089902542
+
+PID 103751 terminou normalmente com status 0
+PID 103752 terminou normalmente com status 0
+->-6548428687715608537
+
+PID 103753 terminou normalmente com status 0
+PID 103754 terminou normalmente com status 0
+->-181127967377435348
+
+PID 103755 terminou normalmente com status 0
+PID 103756 terminou normalmente com status 0
+->-223427025812881653
+
+PID 103757 terminou normalmente com status 0
+PID 103758 terminou normalmente com status 0
+->-4059630860107215219
+
+PID 103759 terminou normalmente com status 0
+PID 103760 terminou normalmente com status 0
+->-160899190149038702
+
+PID 103761 terminou normalmente com status 0
+PID 103762 terminou normalmente com status 0
+->6961588738106274546
+
+PID 103763 terminou normalmente com status 0
+PID 103764 terminou normalmente com status 0
+->1958693665800754177
+
+PID 103765 terminou normalmente com status 0
+PID 103766 terminou normalmente com status 0
+->4318261701260167551
+
+PID 103767 terminou normalmente com status 0
+PID 103768 terminou normalmente com status 0
+->-7117045709681383960
+
+PID 103769 terminou normalmente com status 0
+PID 103770 terminou normalmente com status 0
+->3046806937550753615
+
+PID 103771 terminou normalmente com status 0
+PID 103772 terminou normalmente com status 0
+->-3543737802146845983
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 103774 terminou normalmente com status 0
+PID 103775 terminou normalmente com status 0
+->1100412206309113492
+
+PID 103776 terminou normalmente com status 0
+PID 103777 terminou normalmente com status 0
+->-3207864409223193382
+
+PID 103778 terminou normalmente com status 0
+PID 103779 terminou normalmente com status 0
+->7956481979852599507
+
+PID 103780 terminou normalmente com status 0
+PID 103781 terminou normalmente com status 0
+->347939250765410343
+
+PID 103782 terminou normalmente com status 0
+PID 103783 terminou normalmente com status 0
+->549554917637314107
+
+PID 103784 terminou normalmente com status 0
+PID 103785 terminou normalmente com status 0
+->7640436814325148176
+
+PID 103786 terminou normalmente com status 0
+PID 103787 terminou normalmente com status 0
+->-96145746952423488
+
+PID 103788 terminou normalmente com status 0
+PID 103789 terminou normalmente com status 0
+->-4108405215722687018
+
+PID 103790 terminou normalmente com status 0
+PID 103791 terminou normalmente com status 0
+->2109565292986508462
+
+PID 103792 terminou normalmente com status 0
+PID 103793 terminou normalmente com status 0
+->1489222629845827106
+
+PID 103794 terminou normalmente com status 0
+PID 103795 terminou normalmente com status 0
+->8872691038503652406
+
+PID 103796 terminou normalmente com status 0
+PID 103797 terminou normalmente com status 0
+->-3403446132706927738
+
+PID 103798 terminou normalmente com status 0
+PID 103799 terminou normalmente com status 0
+->1151651838936281798
+
+PID 103800 terminou normalmente com status 0
+PID 103801 terminou normalmente com status 0
+->-3577790494900924505
+
+PID 103802 terminou normalmente com status 0
+PID 103803 terminou normalmente com status 0
+->-4683917792242997239
+
+PID 103804 terminou normalmente com status 0
+PID 103805 terminou normalmente com status 0
+->-648646674538482935
+
+PID 103806 terminou normalmente com status 0
+PID 103807 terminou normalmente com status 0
+->-4468712715016447729
+
+PID 103808 terminou normalmente com status 0
+PID 103809 terminou normalmente com status 0
+->-8096141599238339332
+
+PID 103810 terminou normalmente com status 0
+PID 103811 terminou normalmente com status 0
+->-420303380435108514
+
+PID 103812 terminou normalmente com status 0
+PID 103813 terminou normalmente com status 0
+->812150790527799445
+
+PID 103814 terminou normalmente com status 0
+PID 103815 terminou normalmente com status 0
+->1243699097835586386
+
+PID 103816 terminou normalmente com status 0
+PID 103817 terminou normalmente com status 0
+->-1856542791883293197
+
+PID 103818 terminou normalmente com status 0
+PID 103819 terminou normalmente com status 0
+->1601254540229550684
+
+PID 103820 terminou normalmente com status 0
+PID 103821 terminou normalmente com status 0
+->9054306748681371175
+
+PID 103822 terminou normalmente com status 0
+PID 103823 terminou normalmente com status 0
+->2386261531377906844
+
+PID 103824 terminou normalmente com status 0
+PID 103825 terminou normalmente com status 0
+->-3995857488620856867
+
+PID 103826 terminou normalmente com status 0
+PID 103827 terminou normalmente com status 0
+->7652541446344085825
+
+PID 103828 terminou normalmente com status 0
+PID 103829 terminou normalmente com status 0
+->-6005997959014723825
+
+PID 103830 terminou normalmente com status 0
+PID 103831 terminou normalmente com status 0
+->1007126953445219936
+
+PID 103832 terminou normalmente com status 0
+PID 103833 terminou normalmente com status 0
+->-1628981859333369495
+
+PID 103834 terminou normalmente com status 0
+PID 103835 terminou normalmente com status 0
+->408932095226491689
+
+PID 103836 terminou normalmente com status 0
+PID 103837 terminou normalmente com status 0
+->-6068909393769342685
+
+PID 103838 terminou normalmente com status 0
+PID 103839 terminou normalmente com status 0
+->-802735014931628365
+
+PID 103840 terminou normalmente com status 0
+PID 103841 terminou normalmente com status 0
+->-1171588645390036364
+
+PID 103842 terminou normalmente com status 0
+PID 103843 terminou normalmente com status 0
+->1554677134551049104
+
+PID 103844 terminou normalmente com status 0
+PID 103845 terminou normalmente com status 0
+->4999471094011609987
+
+PID 103846 terminou normalmente com status 0
+PID 103847 terminou normalmente com status 0
+->-2568044921959598359
+
+PID 103848 terminou normalmente com status 0
+PID 103849 terminou normalmente com status 0
+->-4308086472150764177
+
+PID 103850 terminou normalmente com status 0
+PID 103851 terminou normalmente com status 0
+->3960058383048325657
+
+PID 103852 terminou normalmente com status 0
+PID 103853 terminou normalmente com status 0
+->-5162010503510667175
+
+PID 103854 terminou normalmente com status 0
+PID 103855 terminou normalmente com status 0
+->5449337470217907660
+
+PID 103856 terminou normalmente com status 0
+PID 103857 terminou normalmente com status 0
+->-7213864981493778335
+
+PID 103858 terminou normalmente com status 0
+PID 103859 terminou normalmente com status 0
+->-1199269852553075162
+
+PID 103860 terminou normalmente com status 0
+PID 103861 terminou normalmente com status 0
+->-279477758252690050
+
+PID 103862 terminou normalmente com status 0
+PID 103863 terminou normalmente com status 0
+->-1311147436171287988
+
+PID 103864 terminou normalmente com status 0
+PID 103865 terminou normalmente com status 0
+->8777861592933659609
+
+PID 103866 terminou normalmente com status 0
+PID 103867 terminou normalmente com status 0
+->-3875378021232140648
+
+PID 103868 terminou normalmente com status 0
+PID 103869 terminou normalmente com status 0
+->-2035435848293037800
+
+PID 103870 terminou normalmente com status 0
+PID 103871 terminou normalmente com status 0
+->-1860802431850304899
+
+PID 103872 terminou normalmente com status 0
+PID 103873 terminou normalmente com status 0
+->239661877669196540
+
+PID 103874 terminou normalmente com status 0
+PID 103875 terminou normalmente com status 0
+->-523916525702599569
+
+PID 103876 terminou normalmente com status 0
+PID 103877 terminou normalmente com status 0
+->-7860877699596350487
+
+PID 103878 terminou normalmente com status 0
+PID 103879 terminou normalmente com status 0
+->5425495878461809291
+
+PID 103880 terminou normalmente com status 0
+PID 103881 terminou normalmente com status 0
+->6393781799414881277
+
+PID 103882 terminou normalmente com status 0
+PID 103883 terminou normalmente com status 0
+->8308175234549318332
+
+PID 103884 terminou normalmente com status 0
+PID 103885 terminou normalmente com status 0
+->565234718544953325
+
+PID 103886 terminou normalmente com status 0
+PID 103887 terminou normalmente com status 0
+->3156148755104679372
+
+PID 103888 terminou normalmente com status 0
+PID 103889 terminou normalmente com status 0
+->7888959689294413684
+
+PID 103890 terminou normalmente com status 0
+PID 103891 terminou normalmente com status 0
+->-7806641123257036205
+
+PID 103892 terminou normalmente com status 0
+PID 103893 terminou normalmente com status 0
+->-8556712668355500756
+
+PID 103894 terminou normalmente com status 0
+PID 103895 terminou normalmente com status 0
+->3393644761605319843
+
+PID 103896 terminou normalmente com status 0
+PID 103897 terminou normalmente com status 0
+->-6980899076445789364
+
+PID 103898 terminou normalmente com status 0
+PID 103899 terminou normalmente com status 0
+->-1063119151744695306
+
+PID 103900 terminou normalmente com status 0
+PID 103901 terminou normalmente com status 0
+->8451982915862114732
+
+PID 103902 terminou normalmente com status 0
+PID 103903 terminou normalmente com status 0
+->6224321378337092137
+
+PID 103904 terminou normalmente com status 0
+PID 103905 terminou normalmente com status 0
+->-1890829370246896277
+
+PID 103906 terminou normalmente com status 0
+PID 103907 terminou normalmente com status 0
+->6615785417085765247
+
+PID 103908 terminou normalmente com status 0
+PID 103909 terminou normalmente com status 0
+->-5290812589111662996
+
+PID 103910 terminou normalmente com status 0
+PID 103911 terminou normalmente com status 0
+->654376115655257811
+
+PID 103912 terminou normalmente com status 0
+PID 103913 terminou normalmente com status 0
+->-6907192247755293116
+
+PID 103914 terminou normalmente com status 0
+PID 103915 terminou normalmente com status 0
+->668306992414013740
+
+PID 103916 terminou normalmente com status 0
+PID 103917 terminou normalmente com status 0
+->-1305934371864378377
+
+PID 103918 terminou normalmente com status 0
+PID 103919 terminou normalmente com status 0
+->-3621041238411066512
+
+PID 103920 terminou normalmente com status 0
+PID 103921 terminou normalmente com status 0
+->4193172221732992349
+
+PID 103922 terminou normalmente com status 0
+PID 103923 terminou normalmente com status 0
+->3263783470239642946
+
+PID 103924 terminou normalmente com status 0
+PID 103925 terminou normalmente com status 0
+->8366771964561366233
+
+PID 103926 terminou normalmente com status 0
+PID 103927 terminou normalmente com status 0
+->-4145605414228404700
+
+PID 103928 terminou normalmente com status 0
+PID 103929 terminou normalmente com status 0
+->2845008769858024658
+
+PID 103930 terminou normalmente com status 0
+PID 103931 terminou normalmente com status 0
+->6642301477642877715
+
+PID 103932 terminou normalmente com status 0
+PID 103933 terminou normalmente com status 0
+->210001744122530955
+
+PID 103934 terminou normalmente com status 0
+PID 103935 terminou normalmente com status 0
+->-7848742776445913039
+
+PID 103936 terminou normalmente com status 0
+PID 103937 terminou normalmente com status 0
+->6757430094062365279
+
+PID 103938 terminou normalmente com status 0
+PID 103939 terminou normalmente com status 0
+->-2238103150980513228
+
+PID 103940 terminou normalmente com status 0
+PID 103941 terminou normalmente com status 0
+->-5546495867406247982
+
+PID 103942 terminou normalmente com status 0
+PID 103943 terminou normalmente com status 0
+->2782027140164249593
+
+PID 103944 terminou normalmente com status 0
+PID 103945 terminou normalmente com status 0
+->-5853733777080608826
+
+PID 103946 terminou normalmente com status 0
+PID 103947 terminou normalmente com status 0
+->4480891681548781652
+
+PID 103948 terminou normalmente com status 0
+PID 103949 terminou normalmente com status 0
+->6134072204680603599
+
+PID 103950 terminou normalmente com status 0
+PID 103951 terminou normalmente com status 0
+->-787497492883505689
+
+PID 103952 terminou normalmente com status 0
+PID 103953 terminou normalmente com status 0
+->-4605589493528186005
+
+PID 103954 terminou normalmente com status 0
+PID 103955 terminou normalmente com status 0
+->5304444620194045095
+
+PID 103956 terminou normalmente com status 0
+PID 103957 terminou normalmente com status 0
+->5343751577900549401
+
+PID 103958 terminou normalmente com status 0
+PID 103959 terminou normalmente com status 0
+->4881916226971960526
+
+PID 103960 terminou normalmente com status 0
+PID 103961 terminou normalmente com status 0
+->4781920809522807401
+
+PID 103962 terminou normalmente com status 0
+PID 103963 terminou normalmente com status 0
+->-7736343466196464806
+
+PID 103964 terminou normalmente com status 0
+PID 103965 terminou normalmente com status 0
+->-4677476968036968464
+
+PID 103966 terminou normalmente com status 0
+PID 103967 terminou normalmente com status 0
+->5720764605536201913
+
+PID 103968 terminou normalmente com status 0
+PID 103969 terminou normalmente com status 0
+->-2545131505731669024
+
+PID 103970 terminou normalmente com status 0
+PID 103971 terminou normalmente com status 0
+->-6592021055356018864
+
+PID 103972 terminou normalmente com status 0
+PID 103973 terminou normalmente com status 0
+->3233750646809837832
+
+PID 103974 terminou normalmente com status 0
+PID 103975 terminou normalmente com status 0
+->-81910305881034631
+
+PID 103976 terminou normalmente com status 0
+PID 103977 terminou normalmente com status 0
+->5971113683387767570
+
+PID 103978 terminou normalmente com status 0
+PID 103979 terminou normalmente com status 0
+->6154366174126312976
+
+PID 103980 terminou normalmente com status 0
+PID 103981 terminou normalmente com status 0
+->6574579939569446150
+
+PID 103982 terminou normalmente com status 0
+PID 103983 terminou normalmente com status 0
+->4623249849677620791
+
+PID 103984 terminou normalmente com status 0
+PID 103985 terminou normalmente com status 0
+->457665281319356142
+
+PID 103986 terminou normalmente com status 0
+PID 103987 terminou normalmente com status 0
+->-4160795626143536870
+
+PID 103988 terminou normalmente com status 0
+PID 103989 terminou normalmente com status 0
+->3955913042786248223
+
+PID 103990 terminou normalmente com status 0
+PID 103991 terminou normalmente com status 0
+->333293211792944310
+
+PID 103992 terminou normalmente com status 0
+PID 103993 terminou normalmente com status 0
+->5068335623025454700
+
+PID 103994 terminou normalmente com status 0
+PID 103995 terminou normalmente com status 0
+->6372340100113091886
+
+PID 103996 terminou normalmente com status 0
+PID 103997 terminou normalmente com status 0
+->5153794370243492867
+
+PID 103998 terminou normalmente com status 0
+PID 103999 terminou normalmente com status 0
+->8709025578043058076
+
+PID 104000 terminou normalmente com status 0
+PID 104001 terminou normalmente com status 0
+->7582992989730126235
+
+PID 104002 terminou normalmente com status 0
+PID 104003 terminou normalmente com status 0
+->8179680514609751959
+
+PID 104004 terminou normalmente com status 0
+PID 104005 terminou normalmente com status 0
+->3579027339873141626
+
+PID 104006 terminou normalmente com status 0
+PID 104007 terminou normalmente com status 0
+->-167440625138765768
+
+PID 104008 terminou normalmente com status 0
+PID 104009 terminou normalmente com status 0
+->-1901338546392897121
+
+PID 104010 terminou normalmente com status 0
+PID 104011 terminou normalmente com status 0
+->4782624545695987446
+
+PID 104012 terminou normalmente com status 0
+PID 104013 terminou normalmente com status 0
+->-1835040012262558393
+
+PID 104014 terminou normalmente com status 0
+PID 104015 terminou normalmente com status 0
+->3596213280240756170
+
+PID 104016 terminou normalmente com status 0
+PID 104017 terminou normalmente com status 0
+->-8227605863527796095
+
+PID 104018 terminou normalmente com status 0
+PID 104019 terminou normalmente com status 0
+->1164159857003968626
+
+PID 104020 terminou normalmente com status 0
+PID 104021 terminou normalmente com status 0
+->144701605631196688
+
+PID 104022 terminou normalmente com status 0
+PID 104023 terminou normalmente com status 0
+->-7480984689577004605
+
+PID 104024 terminou normalmente com status 0
+PID 104025 terminou normalmente com status 0
+->8194537632305019486
+
+PID 104026 terminou normalmente com status 0
+PID 104027 terminou normalmente com status 0
+->1080832307189435143
+
+PID 104028 terminou normalmente com status 0
+PID 104029 terminou normalmente com status 0
+->7196102283636073618
+
+PID 104030 terminou normalmente com status 0
+PID 104031 terminou normalmente com status 0
+->6015618755254075302
+
+PID 104032 terminou normalmente com status 0
+PID 104033 terminou normalmente com status 0
+->4381988142300657176
+
+PID 104034 terminou normalmente com status 0
+PID 104035 terminou normalmente com status 0
+->5802324806018374242
+
+PID 104036 terminou normalmente com status 0
+PID 104037 terminou normalmente com status 0
+->-3764256307767451336
+
+PID 104038 terminou normalmente com status 0
+PID 104039 terminou normalmente com status 0
+->-2852522341783389734
+
+PID 104040 terminou normalmente com status 0
+PID 104041 terminou normalmente com status 0
+->911672816165474295
+
+PID 104042 terminou normalmente com status 0
+PID 104043 terminou normalmente com status 0
+->-8558632545856615443
+
+PID 104044 terminou normalmente com status 0
+PID 104045 terminou normalmente com status 0
+->-3982104693805335366
+
+PID 104046 terminou normalmente com status 0
+PID 104047 terminou normalmente com status 0
+->1018715159095082003
+
+PID 104048 terminou normalmente com status 0
+PID 104049 terminou normalmente com status 0
+->-520762518855915868
+
+PID 104050 terminou normalmente com status 0
+PID 104051 terminou normalmente com status 0
+->-628499970163676416
+
+PID 104052 terminou normalmente com status 0
+PID 104053 terminou normalmente com status 0
+->6125617093897392756
+
+PID 104054 terminou normalmente com status 0
+PID 104055 terminou normalmente com status 0
+->-8385732281590067461
+
+PID 104056 terminou normalmente com status 0
+PID 104057 terminou normalmente com status 0
+->4458835315196972525
+
+PID 104058 terminou normalmente com status 0
+PID 104059 terminou normalmente com status 0
+->4215990926300992502
+
+PID 104060 terminou normalmente com status 0
+PID 104061 terminou normalmente com status 0
+->6530515195955175647
+
+PID 104062 terminou normalmente com status 0
+PID 104063 terminou normalmente com status 0
+->-2265117904306626699
+
+PID 104064 terminou normalmente com status 0
+PID 104065 terminou normalmente com status 0
+->413067384300340006
+
+PID 104066 terminou normalmente com status 0
+PID 104067 terminou normalmente com status 0
+->7287299939923011683
+
+PID 104068 terminou normalmente com status 0
+PID 104069 terminou normalmente com status 0
+->6805885482154022601
+
+PID 104070 terminou normalmente com status 0
+PID 104071 terminou normalmente com status 0
+->-4272694999002283544
+
+PID 104072 terminou normalmente com status 0
+PID 104073 terminou normalmente com status 0
+->-2494480722810148050
+
+PID 104074 terminou normalmente com status 0
+PID 104075 terminou normalmente com status 0
+->-3404823709230131667
+
+PID 104076 terminou normalmente com status 0
+PID 104077 terminou normalmente com status 0
+->-3592803299368697589
+
+PID 104078 terminou normalmente com status 0
+PID 104079 terminou normalmente com status 0
+->4113871117941123686
+
+PID 104080 terminou normalmente com status 0
+PID 104081 terminou normalmente com status 0
+->4399954640053221074
+
+PID 104082 terminou normalmente com status 0
+PID 104083 terminou normalmente com status 0
+->-5000623601341893251
+
+PID 104084 terminou normalmente com status 0
+PID 104085 terminou normalmente com status 0
+->-4594245841857516119
+
+PID 104086 terminou normalmente com status 0
+PID 104087 terminou normalmente com status 0
+->4477820478206437274
+
+PID 104088 terminou normalmente com status 0
+PID 104089 terminou normalmente com status 0
+->-2442756248046449485
+
+PID 104090 terminou normalmente com status 0
+PID 104091 terminou normalmente com status 0
+->-6423336692352226846
+
+PID 104092 terminou normalmente com status 0
+PID 104093 terminou normalmente com status 0
+->-2772729692445786997
+
+PID 104094 terminou normalmente com status 0
+PID 104095 terminou normalmente com status 0
+->-8451173929829820830
+
+PID 104096 terminou normalmente com status 0
+PID 104097 terminou normalmente com status 0
+->-3994565092355807637
+
+PID 104098 terminou normalmente com status 0
+PID 104099 terminou normalmente com status 0
+->-6990473029438927355
+
+PID 104100 terminou normalmente com status 0
+PID 104101 terminou normalmente com status 0
+->-7196727872366659698
+
+PID 104102 terminou normalmente com status 0
+PID 104103 terminou normalmente com status 0
+->5469990507210692419
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 104105 terminou normalmente com status 0
+PID 104106 terminou normalmente com status 0
+->-3171223520039372253
+
+PID 104107 terminou normalmente com status 0
+PID 104108 terminou normalmente com status 0
+->-1299755965974422532
+
+PID 104109 terminou normalmente com status 0
+PID 104110 terminou normalmente com status 0
+->-1111287920619461496
+
+PID 104111 terminou normalmente com status 0
+PID 104112 terminou normalmente com status 0
+->1692728189246460339
+
+PID 104113 terminou normalmente com status 0
+PID 104114 terminou normalmente com status 0
+->3452278528621637413
+
+PID 104115 terminou normalmente com status 0
+PID 104116 terminou normalmente com status 0
+->-3532449606146808329
+
+PID 104117 terminou normalmente com status 0
+PID 104118 terminou normalmente com status 0
+->965013918572209112
+
+PID 104119 terminou normalmente com status 0
+PID 104120 terminou normalmente com status 0
+->319231791040419857
+
+PID 104121 terminou normalmente com status 0
+PID 104122 terminou normalmente com status 0
+->4595565149298075860
+
+PID 104123 terminou normalmente com status 0
+PID 104124 terminou normalmente com status 0
+->-4469907225088221912
+
+PID 104125 terminou normalmente com status 0
+PID 104126 terminou normalmente com status 0
+->-2116081157310741706
+
+PID 104127 terminou normalmente com status 0
+PID 104128 terminou normalmente com status 0
+->7918169461461997992
+
+PID 104129 terminou normalmente com status 0
+PID 104130 terminou normalmente com status 0
+->3148557899845577277
+
+PID 104133 terminou normalmente com status 0
+PID 104134 terminou normalmente com status 0
+->-6351118380899990482
+
+PID 104136 terminou normalmente com status 0
+PID 104137 terminou normalmente com status 0
+->-2255214405141733059
+
+PID 104138 terminou normalmente com status 0
+PID 104139 terminou normalmente com status 0
+->7346923525623595007
+
+PID 104140 terminou normalmente com status 0
+PID 104141 terminou normalmente com status 0
+->1215079285025664467
+
+PID 104142 terminou normalmente com status 0
+PID 104143 terminou normalmente com status 0
+->728918157242874304
+
+PID 104144 terminou normalmente com status 0
+PID 104145 terminou normalmente com status 0
+->-2722268369173623078
+
+PID 104146 terminou normalmente com status 0
+PID 104147 terminou normalmente com status 0
+->2351361962014190426
+
+PID 104148 terminou normalmente com status 0
+PID 104149 terminou normalmente com status 0
+->-5089415933308764140
+
+PID 104150 terminou normalmente com status 0
+PID 104151 terminou normalmente com status 0
+->3196249318364731969
+
+PID 104152 terminou normalmente com status 0
+PID 104153 terminou normalmente com status 0
+->2923420454452718317
+
+PID 104154 terminou normalmente com status 0
+PID 104155 terminou normalmente com status 0
+->-403562167861153443
+
+PID 104156 terminou normalmente com status 0
+PID 104157 terminou normalmente com status 0
+->9218614492898259367
+
+PID 104158 terminou normalmente com status 0
+PID 104159 terminou normalmente com status 0
+->7581486208561492647
+
+PID 104160 terminou normalmente com status 0
+PID 104161 terminou normalmente com status 0
+->-3205493909680838643
+
+PID 104162 terminou normalmente com status 0
+PID 104163 terminou normalmente com status 0
+->6124586377258300931
+
+PID 104164 terminou normalmente com status 0
+PID 104165 terminou normalmente com status 0
+->7635716710548209725
+
+PID 104166 terminou normalmente com status 0
+PID 104167 terminou normalmente com status 0
+->7480220968387792114
+
+PID 104168 terminou normalmente com status 0
+PID 104169 terminou normalmente com status 0
+->-8373422240399552422
+
+PID 104170 terminou normalmente com status 0
+PID 104171 terminou normalmente com status 0
+->-4104847904260050634
+
+PID 104172 terminou normalmente com status 0
+PID 104173 terminou normalmente com status 0
+->-5417203492064173672
+
+PID 104174 terminou normalmente com status 0
+PID 104175 terminou normalmente com status 0
+->3547704896467442868
+
+PID 104176 terminou normalmente com status 0
+PID 104177 terminou normalmente com status 0
+->-78418077476212664
+
+PID 104178 terminou normalmente com status 0
+PID 104179 terminou normalmente com status 0
+->9108791262179296354
+
+PID 104181 terminou normalmente com status 0
+PID 104182 terminou normalmente com status 0
+->-876390946171631579
+
+PID 104185 terminou normalmente com status 0
+PID 104186 terminou normalmente com status 0
+->3181823971018482845
+
+PID 104188 terminou normalmente com status 0
+PID 104189 terminou normalmente com status 0
+->-4579379665700491603
+
+PID 104190 terminou normalmente com status 0
+PID 104191 terminou normalmente com status 0
+->2794510128059052211
+
+PID 104192 terminou normalmente com status 0
+PID 104193 terminou normalmente com status 0
+->-1917405055203960211
+
+PID 104194 terminou normalmente com status 0
+PID 104195 terminou normalmente com status 0
+->2694539710273067633
+
+PID 104196 terminou normalmente com status 0
+PID 104197 terminou normalmente com status 0
+->6253744921345515622
+
+PID 104198 terminou normalmente com status 0
+PID 104199 terminou normalmente com status 0
+->1489816587805180469
+
+PID 104200 terminou normalmente com status 0
+PID 104201 terminou normalmente com status 0
+->-6017068463082908443
+
+PID 104202 terminou normalmente com status 0
+PID 104203 terminou normalmente com status 0
+->-3146475191067339123
+
+PID 104206 terminou normalmente com status 0
+PID 104207 terminou normalmente com status 0
+->-7906361825439340284
+
+PID 104210 terminou normalmente com status 0
+PID 104211 terminou normalmente com status 0
+->-3332830614215605770
+
+PID 104214 terminou normalmente com status 0
+PID 104215 terminou normalmente com status 0
+->-1205482337921194369
+
+PID 104216 terminou normalmente com status 0
+PID 104217 terminou normalmente com status 0
+->2519714990671890944
+
+PID 104218 terminou normalmente com status 0
+PID 104219 terminou normalmente com status 0
+->-8192033259638007601
+
+PID 104220 terminou normalmente com status 0
+PID 104221 terminou normalmente com status 0
+->9118319422851157167
+
+PID 104222 terminou normalmente com status 0
+PID 104223 terminou normalmente com status 0
+->7933515059125373641
+
+PID 104224 terminou normalmente com status 0
+PID 104225 terminou normalmente com status 0
+->-3587542932215257016
+
+PID 104226 terminou normalmente com status 0
+PID 104227 terminou normalmente com status 0
+->-565007440712631473
+
+PID 104228 terminou normalmente com status 0
+PID 104229 terminou normalmente com status 0
+->-6460870021216303183
+
+PID 104230 terminou normalmente com status 0
+PID 104231 terminou normalmente com status 0
+->-7542329668552836298
+
+PID 104232 terminou normalmente com status 0
+PID 104233 terminou normalmente com status 0
+->-7850846241890647721
+
+PID 104234 terminou normalmente com status 0
+PID 104235 terminou normalmente com status 0
+->-5588428379230509750
+
+PID 104236 terminou normalmente com status 0
+PID 104237 terminou normalmente com status 0
+->661102998399441455
+
+PID 104238 terminou normalmente com status 0
+PID 104239 terminou normalmente com status 0
+->-83855859909601094
+
+PID 104240 terminou normalmente com status 0
+PID 104241 terminou normalmente com status 0
+->-3210262424521528638
+
+PID 104242 terminou normalmente com status 0
+PID 104243 terminou normalmente com status 0
+->2317824582712329861
+
+PID 104244 terminou normalmente com status 0
+PID 104245 terminou normalmente com status 0
+->6241664967176884303
+
+PID 104246 terminou normalmente com status 0
+PID 104247 terminou normalmente com status 0
+->2263261188169731297
+
+PID 104248 terminou normalmente com status 0
+PID 104249 terminou normalmente com status 0
+->2981295220609888288
+
+PID 104250 terminou normalmente com status 0
+PID 104251 terminou normalmente com status 0
+->-3455307463089517923
+
+PID 104252 terminou normalmente com status 0
+PID 104253 terminou normalmente com status 0
+->8869347819774289529
+
+PID 104254 terminou normalmente com status 0
+PID 104255 terminou normalmente com status 0
+->4244633339392502133
+
+PID 104256 terminou normalmente com status 0
+PID 104257 terminou normalmente com status 0
+->8317869157419644883
+
+PID 104258 terminou normalmente com status 0
+PID 104259 terminou normalmente com status 0
+->8107657252458732364
+
+PID 104260 terminou normalmente com status 0
+PID 104261 terminou normalmente com status 0
+->6422387007540965441
+
+PID 104262 terminou normalmente com status 0
+PID 104263 terminou normalmente com status 0
+->9008602704319221183
+
+PID 104264 terminou normalmente com status 0
+PID 104265 terminou normalmente com status 0
+->-8513917419274511416
+
+PID 104266 terminou normalmente com status 0
+PID 104267 terminou normalmente com status 0
+->5827456387380391245
+
+PID 104268 terminou normalmente com status 0
+PID 104269 terminou normalmente com status 0
+->-4418358500400303048
+
+PID 104270 terminou normalmente com status 0
+PID 104271 terminou normalmente com status 0
+->-7928014293981034105
+
+PID 104272 terminou normalmente com status 0
+PID 104273 terminou normalmente com status 0
+->-6190528653281012678
+
+PID 104274 terminou normalmente com status 0
+PID 104275 terminou normalmente com status 0
+->206607885336852029
+
+PID 104276 terminou normalmente com status 0
+PID 104277 terminou normalmente com status 0
+->-1194908538810107028
+
+PID 104278 terminou normalmente com status 0
+PID 104279 terminou normalmente com status 0
+->297418649657958933
+
+PID 104280 terminou normalmente com status 0
+PID 104281 terminou normalmente com status 0
+->8210565336538957101
+
+PID 104282 terminou normalmente com status 0
+PID 104283 terminou normalmente com status 0
+->3223706850890287206
+
+PID 104284 terminou normalmente com status 0
+PID 104285 terminou normalmente com status 0
+->-1924324907035712822
+
+PID 104286 terminou normalmente com status 0
+PID 104287 terminou normalmente com status 0
+->3917446239828146988
+
+PID 104288 terminou normalmente com status 0
+PID 104289 terminou normalmente com status 0
+->-8090798515069101803
+
+PID 104290 terminou normalmente com status 0
+PID 104291 terminou normalmente com status 0
+->451639872245392529
+
+PID 104292 terminou normalmente com status 0
+PID 104293 terminou normalmente com status 0
+->-5909767407993951009
+
+PID 104294 terminou normalmente com status 0
+PID 104295 terminou normalmente com status 0
+->7737534998875843892
+
+PID 104296 terminou normalmente com status 0
+PID 104297 terminou normalmente com status 0
+->262930061305477635
+
+PID 104298 terminou normalmente com status 0
+PID 104299 terminou normalmente com status 0
+->414396367890636379
+
+PID 104301 terminou normalmente com status 0
+PID 104302 terminou normalmente com status 0
+->-5460146482241680170
+
+PID 104303 terminou normalmente com status 0
+PID 104304 terminou normalmente com status 0
+->-1513702054983068074
+
+PID 104305 terminou normalmente com status 0
+PID 104306 terminou normalmente com status 0
+->8373441052485058248
+
+PID 104307 terminou normalmente com status 0
+PID 104308 terminou normalmente com status 0
+->5913252019447678290
+
+PID 104309 terminou normalmente com status 0
+PID 104310 terminou normalmente com status 0
+->5734778527058639632
+
+PID 104311 terminou normalmente com status 0
+PID 104312 terminou normalmente com status 0
+->9191208488160706323
+
+PID 104313 terminou normalmente com status 0
+PID 104314 terminou normalmente com status 0
+->580041084376573636
+
+PID 104315 terminou normalmente com status 0
+PID 104316 terminou normalmente com status 0
+->-2053264272976689660
+
+PID 104317 terminou normalmente com status 0
+PID 104318 terminou normalmente com status 0
+->-590266734925704646
+
+PID 104319 terminou normalmente com status 0
+PID 104320 terminou normalmente com status 0
+->597638584080904701
+
+PID 104321 terminou normalmente com status 0
+PID 104322 terminou normalmente com status 0
+->1328153550906080082
+
+PID 104323 terminou normalmente com status 0
+PID 104324 terminou normalmente com status 0
+->6681715062211053189
+
+PID 104325 terminou normalmente com status 0
+PID 104326 terminou normalmente com status 0
+->-3176134736118063525
+
+PID 104327 terminou normalmente com status 0
+PID 104328 terminou normalmente com status 0
+->8204983220561228710
+
+PID 104329 terminou normalmente com status 0
+PID 104330 terminou normalmente com status 0
+->-3509198995092380187
+
+PID 104331 terminou normalmente com status 0
+PID 104332 terminou normalmente com status 0
+->7031834349268192129
+
+PID 104333 terminou normalmente com status 0
+PID 104334 terminou normalmente com status 0
+->-6785854878808683716
+
+PID 104335 terminou normalmente com status 0
+PID 104336 terminou normalmente com status 0
+->-742176592036624265
+
+PID 104337 terminou normalmente com status 0
+PID 104338 terminou normalmente com status 0
+->-532854162444205735
+
+PID 104339 terminou normalmente com status 0
+PID 104340 terminou normalmente com status 0
+->4673132618168895959
+
+PID 104341 terminou normalmente com status 0
+PID 104342 terminou normalmente com status 0
+->-5757922046510504178
+
+PID 104343 terminou normalmente com status 0
+PID 104344 terminou normalmente com status 0
+->1008566924158953813
+
+PID 104345 terminou normalmente com status 0
+PID 104346 terminou normalmente com status 0
+->6626386604942636180
+
+PID 104347 terminou normalmente com status 0
+PID 104348 terminou normalmente com status 0
+->-8473778108740492223
+
+PID 104349 terminou normalmente com status 0
+PID 104350 terminou normalmente com status 0
+->2305255025019261721
+
+PID 104351 terminou normalmente com status 0
+PID 104352 terminou normalmente com status 0
+->8259512958992321554
+
+PID 104353 terminou normalmente com status 0
+PID 104354 terminou normalmente com status 0
+->3195199239642380527
+
+PID 104355 terminou normalmente com status 0
+PID 104356 terminou normalmente com status 0
+->-6665904110133187521
+
+PID 104357 terminou normalmente com status 0
+PID 104358 terminou normalmente com status 0
+->1957177949634974726
+
+PID 104359 terminou normalmente com status 0
+PID 104360 terminou normalmente com status 0
+->1548489863673181324
+
+PID 104361 terminou normalmente com status 0
+PID 104362 terminou normalmente com status 0
+->5008986199355167818
+
+PID 104363 terminou normalmente com status 0
+PID 104364 terminou normalmente com status 0
+->778053994967528055
+
+PID 104365 terminou normalmente com status 0
+PID 104366 terminou normalmente com status 0
+->3575649978189105387
+
+PID 104367 terminou normalmente com status 0
+PID 104368 terminou normalmente com status 0
+->-1794321455343470375
+
+PID 104369 terminou normalmente com status 0
+PID 104370 terminou normalmente com status 0
+->1693762604587109842
+
+PID 104371 terminou normalmente com status 0
+PID 104372 terminou normalmente com status 0
+->-5959370664424782651
+
+PID 104373 terminou normalmente com status 0
+PID 104374 terminou normalmente com status 0
+->-2188777450383422716
+
+PID 104375 terminou normalmente com status 0
+PID 104376 terminou normalmente com status 0
+->4262122786304167895
+
+PID 104377 terminou normalmente com status 0
+PID 104378 terminou normalmente com status 0
+->4186330153463556899
+
+PID 104379 terminou normalmente com status 0
+PID 104380 terminou normalmente com status 0
+->551495645306738342
+
+PID 104381 terminou normalmente com status 0
+PID 104382 terminou normalmente com status 0
+->3943493528239846731
+
+PID 104383 terminou normalmente com status 0
+PID 104384 terminou normalmente com status 0
+->8542433494941851536
+
+PID 104385 terminou normalmente com status 0
+PID 104386 terminou normalmente com status 0
+->-7842976793792393983
+
+PID 104387 terminou normalmente com status 0
+PID 104388 terminou normalmente com status 0
+->-3055869256169687892
+
+PID 104389 terminou normalmente com status 0
+PID 104390 terminou normalmente com status 0
+->-8155532831973004952
+
+PID 104391 terminou normalmente com status 0
+PID 104392 terminou normalmente com status 0
+->-5426306862461957628
+
+PID 104393 terminou normalmente com status 0
+PID 104394 terminou normalmente com status 0
+->3671103402572036418
+
+PID 104395 terminou normalmente com status 0
+PID 104396 terminou normalmente com status 0
+->8997382753253425790
+
+PID 104397 terminou normalmente com status 0
+PID 104398 terminou normalmente com status 0
+->-2113753388162039728
+
+PID 104399 terminou normalmente com status 0
+PID 104400 terminou normalmente com status 0
+->-768796702586770123
+
+PID 104401 terminou normalmente com status 0
+PID 104402 terminou normalmente com status 0
+->-4450020420113863411
+
+PID 104403 terminou normalmente com status 0
+PID 104404 terminou normalmente com status 0
+->6923802584997528844
+
+PID 104405 terminou normalmente com status 0
+PID 104406 terminou normalmente com status 0
+->-2900953135945481197
+
+PID 104407 terminou normalmente com status 0
+PID 104408 terminou normalmente com status 0
+->4169890635065844376
+
+PID 104409 terminou normalmente com status 0
+PID 104410 terminou normalmente com status 0
+->-1793432920942903070
+
+PID 104411 terminou normalmente com status 0
+PID 104412 terminou normalmente com status 0
+->-1172741363595489154
+
+PID 104413 terminou normalmente com status 0
+PID 104414 terminou normalmente com status 0
+->6553261206506376845
+
+PID 104415 terminou normalmente com status 0
+PID 104416 terminou normalmente com status 0
+->-7772212613717867473
+
+PID 104417 terminou normalmente com status 0
+PID 104418 terminou normalmente com status 0
+->-8042685906806613266
+
+PID 104419 terminou normalmente com status 0
+PID 104420 terminou normalmente com status 0
+->92543484484836871
+
+PID 104421 terminou normalmente com status 0
+PID 104422 terminou normalmente com status 0
+->-2966702817263942242
+
+PID 104423 terminou normalmente com status 0
+PID 104424 terminou normalmente com status 0
+->3310890297420376256
+
+PID 104425 terminou normalmente com status 0
+PID 104426 terminou normalmente com status 0
+->-2622298206389104174
+
+PID 104427 terminou normalmente com status 0
+PID 104428 terminou normalmente com status 0
+->-637772536622292003
+
+PID 104429 terminou normalmente com status 0
+PID 104430 terminou normalmente com status 0
+->4609499737974164586
+
+PID 104431 terminou normalmente com status 0
+PID 104432 terminou normalmente com status 0
+->4172123976294162170
+
+PID 104433 terminou normalmente com status 0
+PID 104434 terminou normalmente com status 0
+->8112889662083221481
+
+PID 104435 terminou normalmente com status 0
+PID 104436 terminou normalmente com status 0
+->-6443398564226301976
+
+PID 104437 terminou normalmente com status 0
+PID 104438 terminou normalmente com status 0
+->2089350545295053170
+
+PID 104439 terminou normalmente com status 0
+PID 104440 terminou normalmente com status 0
+->535554181054060132
+
+PID 104441 terminou normalmente com status 0
+PID 104442 terminou normalmente com status 0
+->788658046159545787
+
+PID 104443 terminou normalmente com status 0
+PID 104444 terminou normalmente com status 0
+->-3816100673411477819
+
+PID 104445 terminou normalmente com status 0
+PID 104446 terminou normalmente com status 0
+->1545426077910170775
+
+PID 104447 terminou normalmente com status 0
+PID 104448 terminou normalmente com status 0
+->-1530107684991964520
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 104450 terminou normalmente com status 0
+PID 104451 terminou normalmente com status 0
+->3229983069530463400
+
+PID 104452 terminou normalmente com status 0
+PID 104453 terminou normalmente com status 0
+->-176386262542433408
+
+PID 104454 terminou normalmente com status 0
+PID 104455 terminou normalmente com status 0
+->-8818527868395379418
+
+PID 104456 terminou normalmente com status 0
+PID 104457 terminou normalmente com status 0
+->3783649256693766636
+
+PID 104458 terminou normalmente com status 0
+PID 104459 terminou normalmente com status 0
+->6688124222116009976
+
+PID 104460 terminou normalmente com status 0
+PID 104461 terminou normalmente com status 0
+->-3494320070035119917
+
+PID 104462 terminou normalmente com status 0
+PID 104463 terminou normalmente com status 0
+->-8083069424470342736
+
+PID 104464 terminou normalmente com status 0
+PID 104465 terminou normalmente com status 0
+->737446757898288772
+
+PID 104466 terminou normalmente com status 0
+PID 104467 terminou normalmente com status 0
+->-3670178798031375661
+
+PID 104468 terminou normalmente com status 0
+PID 104469 terminou normalmente com status 0
+->5027447118042764258
+
+PID 104470 terminou normalmente com status 0
+PID 104471 terminou normalmente com status 0
+->104876741805426250
+
+PID 104472 terminou normalmente com status 0
+PID 104473 terminou normalmente com status 0
+->-6731966809307615057
+
+PID 104474 terminou normalmente com status 0
+PID 104475 terminou normalmente com status 0
+->5633833285284519542
+
+PID 104476 terminou normalmente com status 0
+PID 104477 terminou normalmente com status 0
+->-5282979288992721864
+
+PID 104478 terminou normalmente com status 0
+PID 104479 terminou normalmente com status 0
+->-834166080865336616
+
+PID 104480 terminou normalmente com status 0
+PID 104481 terminou normalmente com status 0
+->5260180246797400121
+
+PID 104482 terminou normalmente com status 0
+PID 104483 terminou normalmente com status 0
+->-4400172879692424487
+
+PID 104484 terminou normalmente com status 0
+PID 104485 terminou normalmente com status 0
+->603160465589987253
+
+PID 104486 terminou normalmente com status 0
+PID 104487 terminou normalmente com status 0
+->-8427714454449816079
+
+PID 104488 terminou normalmente com status 0
+PID 104489 terminou normalmente com status 0
+->-4402776417080922186
+
+PID 104490 terminou normalmente com status 0
+PID 104491 terminou normalmente com status 0
+->9199769303027527899
+
+PID 104492 terminou normalmente com status 0
+PID 104493 terminou normalmente com status 0
+->-6831577503074193745
+
+PID 104494 terminou normalmente com status 0
+PID 104495 terminou normalmente com status 0
+->7277997733856166279
+
+PID 104496 terminou normalmente com status 0
+PID 104497 terminou normalmente com status 0
+->-5319835151435957259
+
+PID 104498 terminou normalmente com status 0
+PID 104499 terminou normalmente com status 0
+->-8044355868879194261
+
+PID 104500 terminou normalmente com status 0
+PID 104501 terminou normalmente com status 0
+->7574538710346692021
+
+PID 104502 terminou normalmente com status 0
+PID 104503 terminou normalmente com status 0
+->3045761112578842646
+
+PID 104504 terminou normalmente com status 0
+PID 104505 terminou normalmente com status 0
+->-3340896033832950692
+
+PID 104506 terminou normalmente com status 0
+PID 104507 terminou normalmente com status 0
+->5222237250127487665
+
+PID 104508 terminou normalmente com status 0
+PID 104509 terminou normalmente com status 0
+->-2739105625258184441
+
+PID 104510 terminou normalmente com status 0
+PID 104511 terminou normalmente com status 0
+->-7041263293462101478
+
+PID 104512 terminou normalmente com status 0
+PID 104513 terminou normalmente com status 0
+->3655802590808614812
+
+PID 104514 terminou normalmente com status 0
+PID 104515 terminou normalmente com status 0
+->-7041475737059883093
+
+PID 104516 terminou normalmente com status 0
+PID 104517 terminou normalmente com status 0
+->2702028027944775207
+
+PID 104518 terminou normalmente com status 0
+PID 104519 terminou normalmente com status 0
+->3961743551761066503
+
+PID 104520 terminou normalmente com status 0
+PID 104521 terminou normalmente com status 0
+->-812986792981071141
+
+PID 104522 terminou normalmente com status 0
+PID 104523 terminou normalmente com status 0
+->3736682940209693339
+
+PID 104524 terminou normalmente com status 0
+PID 104525 terminou normalmente com status 0
+->7817704102920952506
+
+PID 104526 terminou normalmente com status 0
+PID 104527 terminou normalmente com status 0
+->4066589549094307349
+
+PID 104528 terminou normalmente com status 0
+PID 104529 terminou normalmente com status 0
+->1308703546730303517
+
+PID 104530 terminou normalmente com status 0
+PID 104531 terminou normalmente com status 0
+->-9222444168013627415
+
+PID 104532 terminou normalmente com status 0
+PID 104533 terminou normalmente com status 0
+->-1943561831804940511
+
+PID 104534 terminou normalmente com status 0
+PID 104535 terminou normalmente com status 0
+->-6094013211217226095
+
+PID 104536 terminou normalmente com status 0
+PID 104537 terminou normalmente com status 0
+->1612048787601824133
+
+PID 104538 terminou normalmente com status 0
+PID 104539 terminou normalmente com status 0
+->-9028502742007592742
+
+PID 104540 terminou normalmente com status 0
+PID 104541 terminou normalmente com status 0
+->4259898281783862069
+
+PID 104542 terminou normalmente com status 0
+PID 104543 terminou normalmente com status 0
+->-4924917572262057222
+
+PID 104544 terminou normalmente com status 0
+PID 104545 terminou normalmente com status 0
+->-8589432590091887354
+
+PID 104546 terminou normalmente com status 0
+PID 104547 terminou normalmente com status 0
+->-1861879604690161901
+
+PID 104548 terminou normalmente com status 0
+PID 104549 terminou normalmente com status 0
+->-4992067968116464404
+
+PID 104550 terminou normalmente com status 0
+PID 104551 terminou normalmente com status 0
+->8169273610614317137
+
+PID 104552 terminou normalmente com status 0
+PID 104553 terminou normalmente com status 0
+->-8754194020152934781
+
+PID 104554 terminou normalmente com status 0
+PID 104555 terminou normalmente com status 0
+->4359574585304252068
+
+PID 104556 terminou normalmente com status 0
+PID 104557 terminou normalmente com status 0
+->-6214287349082279851
+
+PID 104558 terminou normalmente com status 0
+PID 104559 terminou normalmente com status 0
+->-5205549265377432900
+
+PID 104560 terminou normalmente com status 0
+PID 104561 terminou normalmente com status 0
+->-1758730163426719082
+
+PID 104562 terminou normalmente com status 0
+PID 104563 terminou normalmente com status 0
+->-5717601432851821456
+
+PID 104564 terminou normalmente com status 0
+PID 104565 terminou normalmente com status 0
+->62142687824969406
+
+PID 104566 terminou normalmente com status 0
+PID 104567 terminou normalmente com status 0
+->7001890119066014801
+
+PID 104568 terminou normalmente com status 0
+PID 104569 terminou normalmente com status 0
+->-5048679663503800142
+
+PID 104570 terminou normalmente com status 0
+PID 104571 terminou normalmente com status 0
+->-6339308712654305012
+
+PID 104572 terminou normalmente com status 0
+PID 104573 terminou normalmente com status 0
+->7286690050809696153
+
+PID 104574 terminou normalmente com status 0
+PID 104575 terminou normalmente com status 0
+->3117998970592354001
+
+PID 104576 terminou normalmente com status 0
+PID 104577 terminou normalmente com status 0
+->2287733341219817566
+
+PID 104578 terminou normalmente com status 0
+PID 104579 terminou normalmente com status 0
+->7087231962336995039
+
+PID 104580 terminou normalmente com status 0
+PID 104581 terminou normalmente com status 0
+->-3129986598368141373
+
+PID 104582 terminou normalmente com status 0
+PID 104583 terminou normalmente com status 0
+->4519626144671730125
+
+PID 104584 terminou normalmente com status 0
+PID 104585 terminou normalmente com status 0
+->-443956086171150988
+
+PID 104586 terminou normalmente com status 0
+PID 104587 terminou normalmente com status 0
+->6499657133533250797
+
+PID 104588 terminou normalmente com status 0
+PID 104589 terminou normalmente com status 0
+->-8947102029317662434
+
+PID 104590 terminou normalmente com status 0
+PID 104591 terminou normalmente com status 0
+->-4762079414394087023
+
+PID 104592 terminou normalmente com status 0
+PID 104593 terminou normalmente com status 0
+->2626966165288775594
+
+PID 104594 terminou normalmente com status 0
+PID 104595 terminou normalmente com status 0
+->-7737002223876417407
+
+PID 104596 terminou normalmente com status 0
+PID 104597 terminou normalmente com status 0
+->7199566533436213470
+
+PID 104598 terminou normalmente com status 0
+PID 104599 terminou normalmente com status 0
+->5577359154509135394
+
+PID 104600 terminou normalmente com status 0
+PID 104601 terminou normalmente com status 0
+->-8926019367792664476
+
+PID 104602 terminou normalmente com status 0
+PID 104603 terminou normalmente com status 0
+->-3913280987560967969
+
+PID 104604 terminou normalmente com status 0
+PID 104605 terminou normalmente com status 0
+->-2991767508694952535
+
+PID 104606 terminou normalmente com status 0
+PID 104607 terminou normalmente com status 0
+->-9016697919622037452
+
+PID 104608 terminou normalmente com status 0
+PID 104609 terminou normalmente com status 0
+->3610571580813393415
+
+PID 104610 terminou normalmente com status 0
+PID 104611 terminou normalmente com status 0
+->-24771457454890562
+
+PID 104612 terminou normalmente com status 0
+PID 104613 terminou normalmente com status 0
+->-2878867213987001155
+
+PID 104614 terminou normalmente com status 0
+PID 104615 terminou normalmente com status 0
+->-1569356001053104045
+
+PID 104616 terminou normalmente com status 0
+PID 104617 terminou normalmente com status 0
+->1751800324393882629
+
+PID 104618 terminou normalmente com status 0
+PID 104619 terminou normalmente com status 0
+->1608971351325167772
+
+PID 104620 terminou normalmente com status 0
+PID 104621 terminou normalmente com status 0
+->8753394532449276734
+
+PID 104622 terminou normalmente com status 0
+PID 104623 terminou normalmente com status 0
+->-8167548362995538021
+
+PID 104624 terminou normalmente com status 0
+PID 104625 terminou normalmente com status 0
+->7751342715753640358
+
+PID 104626 terminou normalmente com status 0
+PID 104627 terminou normalmente com status 0
+->-7114486986961766045
+
+PID 104628 terminou normalmente com status 0
+PID 104629 terminou normalmente com status 0
+->-4625124060123291250
+
+PID 104630 terminou normalmente com status 0
+PID 104631 terminou normalmente com status 0
+->-7060947084810423118
+
+PID 104632 terminou normalmente com status 0
+PID 104633 terminou normalmente com status 0
+->6630272554412192076
+
+PID 104634 terminou normalmente com status 0
+PID 104635 terminou normalmente com status 0
+->8919326492857392836
+
+PID 104636 terminou normalmente com status 0
+PID 104637 terminou normalmente com status 0
+->-2578575531492222579
+
+PID 104638 terminou normalmente com status 0
+PID 104639 terminou normalmente com status 0
+->-3049163204569704390
+
+PID 104640 terminou normalmente com status 0
+PID 104641 terminou normalmente com status 0
+->-155426664013536598
+
+PID 104642 terminou normalmente com status 0
+PID 104643 terminou normalmente com status 0
+->-8768274521823505583
+
+PID 104644 terminou normalmente com status 0
+PID 104645 terminou normalmente com status 0
+->-3065312668539134505
+
+PID 104646 terminou normalmente com status 0
+PID 104647 terminou normalmente com status 0
+->-3081946048828997057
+
+PID 104648 terminou normalmente com status 0
+PID 104649 terminou normalmente com status 0
+->-835967048800691250
+
+PID 104650 terminou normalmente com status 0
+PID 104651 terminou normalmente com status 0
+->9162964662089766469
+
+PID 104652 terminou normalmente com status 0
+PID 104653 terminou normalmente com status 0
+->-4709492940844152339
+
+PID 104654 terminou normalmente com status 0
+PID 104655 terminou normalmente com status 0
+->4002187899209015934
+
+PID 104656 terminou normalmente com status 0
+PID 104657 terminou normalmente com status 0
+->-1711239676135222509
+
+PID 104658 terminou normalmente com status 0
+PID 104659 terminou normalmente com status 0
+->8954673341410764193
+
+PID 104660 terminou normalmente com status 0
+PID 104661 terminou normalmente com status 0
+->2870861580328931948
+
+PID 104662 terminou normalmente com status 0
+PID 104663 terminou normalmente com status 0
+->6748858205653625333
+
+PID 104664 terminou normalmente com status 0
+PID 104665 terminou normalmente com status 0
+->-3739728276848260166
+
+PID 104666 terminou normalmente com status 0
+PID 104667 terminou normalmente com status 0
+->-8896941082988180535
+
+PID 104668 terminou normalmente com status 0
+PID 104669 terminou normalmente com status 0
+->1586689431094275798
+
+PID 104670 terminou normalmente com status 0
+PID 104671 terminou normalmente com status 0
+->-4847405745582749410
+
+PID 104672 terminou normalmente com status 0
+PID 104673 terminou normalmente com status 0
+->4091138649355539360
+
+PID 104674 terminou normalmente com status 0
+PID 104675 terminou normalmente com status 0
+->449553085703276449
+
+PID 104676 terminou normalmente com status 0
+PID 104677 terminou normalmente com status 0
+->-1981223321013224711
+
+PID 104678 terminou normalmente com status 0
+PID 104679 terminou normalmente com status 0
+->7285285228839371400
+
+PID 104680 terminou normalmente com status 0
+PID 104681 terminou normalmente com status 0
+->4119169212621683282
+
+PID 104682 terminou normalmente com status 0
+PID 104683 terminou normalmente com status 0
+->-4620724433824156096
+
+PID 104684 terminou normalmente com status 0
+PID 104685 terminou normalmente com status 0
+->2479756061773216888
+
+PID 104686 terminou normalmente com status 0
+PID 104687 terminou normalmente com status 0
+->-7972193056749513365
+
+PID 104688 terminou normalmente com status 0
+PID 104689 terminou normalmente com status 0
+->-7434298047667096586
+
+PID 104690 terminou normalmente com status 0
+PID 104691 terminou normalmente com status 0
+->6077916884753423579
+
+PID 104692 terminou normalmente com status 0
+PID 104693 terminou normalmente com status 0
+->2754536761294963989
+
+PID 104694 terminou normalmente com status 0
+PID 104695 terminou normalmente com status 0
+->2116963567379586427
+
+PID 104696 terminou normalmente com status 0
+PID 104697 terminou normalmente com status 0
+->3678643904921599771
+
+PID 104698 terminou normalmente com status 0
+PID 104699 terminou normalmente com status 0
+->6374796301403806646
+
+PID 104700 terminou normalmente com status 0
+PID 104701 terminou normalmente com status 0
+->-4987961893680509954
+
+PID 104702 terminou normalmente com status 0
+PID 104703 terminou normalmente com status 0
+->-7209692271080101290
+
+PID 104704 terminou normalmente com status 0
+PID 104705 terminou normalmente com status 0
+->6759171479796217410
+
+PID 104706 terminou normalmente com status 0
+PID 104707 terminou normalmente com status 0
+->1277147418236644020
+
+PID 104708 terminou normalmente com status 0
+PID 104709 terminou normalmente com status 0
+->3412625541904772697
+
+PID 104710 terminou normalmente com status 0
+PID 104711 terminou normalmente com status 0
+->2374791712103820084
+
+PID 104712 terminou normalmente com status 0
+PID 104713 terminou normalmente com status 0
+->-377504301877747464
+
+PID 104714 terminou normalmente com status 0
+PID 104715 terminou normalmente com status 0
+->3472347928095055680
+
+PID 104716 terminou normalmente com status 0
+PID 104717 terminou normalmente com status 0
+->4025322593799406779
+
+PID 104718 terminou normalmente com status 0
+PID 104719 terminou normalmente com status 0
+->8230985152008673679
+
+PID 104720 terminou normalmente com status 0
+PID 104721 terminou normalmente com status 0
+->-4921023649344785464
+
+PID 104722 terminou normalmente com status 0
+PID 104723 terminou normalmente com status 0
+->7014138881519108188
+
+PID 104724 terminou normalmente com status 0
+PID 104725 terminou normalmente com status 0
+->6461658559382634198
+
+PID 104726 terminou normalmente com status 0
+PID 104727 terminou normalmente com status 0
+->-8986772291890018725
+
+PID 104728 terminou normalmente com status 0
+PID 104729 terminou normalmente com status 0
+->-7430583922754285390
+
+PID 104730 terminou normalmente com status 0
+PID 104731 terminou normalmente com status 0
+->-5998456094470627173
+
+PID 104732 terminou normalmente com status 0
+PID 104733 terminou normalmente com status 0
+->-6620158315633237177
+
+PID 104734 terminou normalmente com status 0
+PID 104735 terminou normalmente com status 0
+->-1382875612799681198
+
+PID 104736 terminou normalmente com status 0
+PID 104737 terminou normalmente com status 0
+->-1346129952262979338
+
+PID 104738 terminou normalmente com status 0
+PID 104739 terminou normalmente com status 0
+->-8541246672503471705
+
+PID 104740 terminou normalmente com status 0
+PID 104741 terminou normalmente com status 0
+->6253204446643854038
+
+PID 104742 terminou normalmente com status 0
+PID 104743 terminou normalmente com status 0
+->4122072636240124160
+
+PID 104744 terminou normalmente com status 0
+PID 104745 terminou normalmente com status 0
+->891929924335922428
+
+PID 104746 terminou normalmente com status 0
+PID 104747 terminou normalmente com status 0
+->2123256147961683650
+
+PID 104748 terminou normalmente com status 0
+PID 104749 terminou normalmente com status 0
+->-5945625582778216270
+
+PID 104750 terminou normalmente com status 0
+PID 104751 terminou normalmente com status 0
+->-8984478135193872725
+
+PID 104752 terminou normalmente com status 0
+PID 104753 terminou normalmente com status 0
+->-471526909396520403
+
+PID 104754 terminou normalmente com status 0
+PID 104755 terminou normalmente com status 0
+->4985086979441113605
+
+PID 104756 terminou normalmente com status 0
+PID 104757 terminou normalmente com status 0
+->-5789962794739757901
+
+PID 104758 terminou normalmente com status 0
+PID 104759 terminou normalmente com status 0
+->-6444503581920546391
+
+PID 104760 terminou normalmente com status 0
+PID 104761 terminou normalmente com status 0
+->-3235123342139616669
+
+PID 104762 terminou normalmente com status 0
+PID 104763 terminou normalmente com status 0
+->-5196693203112659532
+
+PID 104764 terminou normalmente com status 0
+PID 104765 terminou normalmente com status 0
+->3751817802963760275
+
+PID 104766 terminou normalmente com status 0
+PID 104767 terminou normalmente com status 0
+->3190626337750345008
+
+PID 104768 terminou normalmente com status 0
+PID 104769 terminou normalmente com status 0
+->-2030152978217453995
+
+PID 104770 terminou normalmente com status 0
+PID 104771 terminou normalmente com status 0
+->8828512419996076426
+
+PID 104772 terminou normalmente com status 0
+PID 104773 terminou normalmente com status 0
+->-6201257113388665413
+
+PID 104774 terminou normalmente com status 0
+PID 104775 terminou normalmente com status 0
+->6102543042763344954
+
+PID 104776 terminou normalmente com status 0
+PID 104777 terminou normalmente com status 0
+->4477709960206995386
+
+PID 104778 terminou normalmente com status 0
+PID 104779 terminou normalmente com status 0
+->-4822014451551657450
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 104781 terminou normalmente com status 0
+PID 104782 terminou normalmente com status 0
+->1554005003607799055
+
+PID 104783 terminou normalmente com status 0
+PID 104784 terminou normalmente com status 0
+->5059096179468673193
+
+PID 104785 terminou normalmente com status 0
+PID 104786 terminou normalmente com status 0
+->7479004425115557335
+
+PID 104787 terminou normalmente com status 0
+PID 104788 terminou normalmente com status 0
+->8605992020697164011
+
+PID 104789 terminou normalmente com status 0
+PID 104790 terminou normalmente com status 0
+->851445131135424845
+
+PID 104791 terminou normalmente com status 0
+PID 104792 terminou normalmente com status 0
+->-2701284495995288775
+
+PID 104793 terminou normalmente com status 0
+PID 104794 terminou normalmente com status 0
+->1051825409702893872
+
+PID 104795 terminou normalmente com status 0
+PID 104796 terminou normalmente com status 0
+->5471313552306611002
+
+PID 104797 terminou normalmente com status 0
+PID 104798 terminou normalmente com status 0
+->-8665847547084674301
+
+PID 104799 terminou normalmente com status 0
+PID 104800 terminou normalmente com status 0
+->7470142468703575868
+
+PID 104801 terminou normalmente com status 0
+PID 104802 terminou normalmente com status 0
+->-4420443474763828122
+
+PID 104803 terminou normalmente com status 0
+PID 104804 terminou normalmente com status 0
+->8515402659764557128
+
+PID 104805 terminou normalmente com status 0
+PID 104806 terminou normalmente com status 0
+->8618805441699666060
+
+PID 104807 terminou normalmente com status 0
+PID 104808 terminou normalmente com status 0
+->7695853278210357261
+
+PID 104809 terminou normalmente com status 0
+PID 104810 terminou normalmente com status 0
+->5170714741854098316
+
+PID 104811 terminou normalmente com status 0
+PID 104812 terminou normalmente com status 0
+->7769642152194789686
+
+PID 104813 terminou normalmente com status 0
+PID 104814 terminou normalmente com status 0
+->-2734120184826069963
+
+PID 104815 terminou normalmente com status 0
+PID 104816 terminou normalmente com status 0
+->4467118431807402674
+
+PID 104817 terminou normalmente com status 0
+PID 104818 terminou normalmente com status 0
+->8029870125093238547
+
+PID 104819 terminou normalmente com status 0
+PID 104820 terminou normalmente com status 0
+->8622155874863577300
+
+PID 104821 terminou normalmente com status 0
+PID 104822 terminou normalmente com status 0
+->-3163129923211451141
+
+PID 104823 terminou normalmente com status 0
+PID 104824 terminou normalmente com status 0
+->-9024927576201643248
+
+PID 104825 terminou normalmente com status 0
+PID 104826 terminou normalmente com status 0
+->6119618816172871572
+
+PID 104827 terminou normalmente com status 0
+PID 104828 terminou normalmente com status 0
+->-146165329054312940
+
+PID 104829 terminou normalmente com status 0
+PID 104830 terminou normalmente com status 0
+->2168570332919517768
+
+PID 104831 terminou normalmente com status 0
+PID 104832 terminou normalmente com status 0
+->-7952725130201975724
+
+PID 104833 terminou normalmente com status 0
+PID 104834 terminou normalmente com status 0
+->8744396814217000896
+
+PID 104835 terminou normalmente com status 0
+PID 104836 terminou normalmente com status 0
+->-5508524490969032759
+
+PID 104837 terminou normalmente com status 0
+PID 104838 terminou normalmente com status 0
+->6972915674649913040
+
+PID 104839 terminou normalmente com status 0
+PID 104840 terminou normalmente com status 0
+->7247547473491304282
+
+PID 104841 terminou normalmente com status 0
+PID 104842 terminou normalmente com status 0
+->4681545522096580206
+
+PID 104843 terminou normalmente com status 0
+PID 104844 terminou normalmente com status 0
+->-8488381994935018481
+
+PID 104845 terminou normalmente com status 0
+PID 104846 terminou normalmente com status 0
+->-5783717272340031471
+
+PID 104847 terminou normalmente com status 0
+PID 104848 terminou normalmente com status 0
+->8081562224821859593
+
+PID 104849 terminou normalmente com status 0
+PID 104850 terminou normalmente com status 0
+->-7945278400606891258
+
+PID 104851 terminou normalmente com status 0
+PID 104852 terminou normalmente com status 0
+->-6906494369143042644
+
+PID 104853 terminou normalmente com status 0
+PID 104854 terminou normalmente com status 0
+->-3130642627021555709
+
+PID 104855 terminou normalmente com status 0
+PID 104856 terminou normalmente com status 0
+->852588309025605674
+
+PID 104857 terminou normalmente com status 0
+PID 104858 terminou normalmente com status 0
+->-4555004934389357364
+
+PID 104859 terminou normalmente com status 0
+PID 104860 terminou normalmente com status 0
+->42670793083257772
+
+PID 104861 terminou normalmente com status 0
+PID 104862 terminou normalmente com status 0
+->985864861997657943
+
+PID 104863 terminou normalmente com status 0
+PID 104864 terminou normalmente com status 0
+->5427044282497903663
+
+PID 104865 terminou normalmente com status 0
+PID 104866 terminou normalmente com status 0
+->8822509034078991074
+
+PID 104867 terminou normalmente com status 0
+PID 104868 terminou normalmente com status 0
+->3230383581034806168
+
+PID 104869 terminou normalmente com status 0
+PID 104870 terminou normalmente com status 0
+->1471719329942115419
+
+PID 104871 terminou normalmente com status 0
+PID 104872 terminou normalmente com status 0
+->-2386873892753758238
+
+PID 104873 terminou normalmente com status 0
+PID 104874 terminou normalmente com status 0
+->1643048040741614888
+
+PID 104875 terminou normalmente com status 0
+PID 104876 terminou normalmente com status 0
+->2723632617790664545
+
+PID 104877 terminou normalmente com status 0
+PID 104878 terminou normalmente com status 0
+->4457692277791461835
+
+PID 104879 terminou normalmente com status 0
+PID 104880 terminou normalmente com status 0
+->318880576686805979
+
+PID 104881 terminou normalmente com status 0
+PID 104882 terminou normalmente com status 0
+->-3115758092491174006
+
+PID 104883 terminou normalmente com status 0
+PID 104884 terminou normalmente com status 0
+->-830498440101113901
+
+PID 104885 terminou normalmente com status 0
+PID 104886 terminou normalmente com status 0
+->-2837698696540688300
+
+PID 104887 terminou normalmente com status 0
+PID 104888 terminou normalmente com status 0
+->-1168354501813524424
+
+PID 104889 terminou normalmente com status 0
+PID 104890 terminou normalmente com status 0
+->1173932255336728897
+
+PID 104891 terminou normalmente com status 0
+PID 104892 terminou normalmente com status 0
+->-1695364604068589196
+
+PID 104893 terminou normalmente com status 0
+PID 104894 terminou normalmente com status 0
+->7675172283084063535
+
+PID 104895 terminou normalmente com status 0
+PID 104896 terminou normalmente com status 0
+->8274338613141224511
+
+PID 104897 terminou normalmente com status 0
+PID 104898 terminou normalmente com status 0
+->6694857965522929562
+
+PID 104899 terminou normalmente com status 0
+PID 104900 terminou normalmente com status 0
+->-3057737732695974672
+
+PID 104901 terminou normalmente com status 0
+PID 104902 terminou normalmente com status 0
+->-4272248404487218783
+
+PID 104903 terminou normalmente com status 0
+PID 104904 terminou normalmente com status 0
+->2895805508386109928
+
+PID 104905 terminou normalmente com status 0
+PID 104906 terminou normalmente com status 0
+->4908596320890395586
+
+PID 104907 terminou normalmente com status 0
+PID 104908 terminou normalmente com status 0
+->-5450153072589792255
+
+PID 104909 terminou normalmente com status 0
+PID 104910 terminou normalmente com status 0
+->3325825553127507430
+
+PID 104911 terminou normalmente com status 0
+PID 104912 terminou normalmente com status 0
+->6208185912494010546
+
+PID 104913 terminou normalmente com status 0
+PID 104914 terminou normalmente com status 0
+->-7863378606621275792
+
+PID 104915 terminou normalmente com status 0
+PID 104916 terminou normalmente com status 0
+->7792050350192071808
+
+PID 104917 terminou normalmente com status 0
+PID 104918 terminou normalmente com status 0
+->-7619805160623572388
+
+PID 104919 terminou normalmente com status 0
+PID 104920 terminou normalmente com status 0
+->-7029182678096454932
+
+PID 104921 terminou normalmente com status 0
+PID 104922 terminou normalmente com status 0
+->7220439288583595643
+
+PID 104923 terminou normalmente com status 0
+PID 104924 terminou normalmente com status 0
+->-1546335793223503679
+
+PID 104925 terminou normalmente com status 0
+PID 104926 terminou normalmente com status 0
+->-3508695745394895968
+
+PID 104927 terminou normalmente com status 0
+PID 104928 terminou normalmente com status 0
+->6760846830828399468
+
+PID 104929 terminou normalmente com status 0
+PID 104930 terminou normalmente com status 0
+->-5940938759142434001
+
+PID 104931 terminou normalmente com status 0
+PID 104932 terminou normalmente com status 0
+->-8204568281318963301
+
+PID 104933 terminou normalmente com status 0
+PID 104934 terminou normalmente com status 0
+->-5395126727921598184
+
+PID 104935 terminou normalmente com status 0
+PID 104936 terminou normalmente com status 0
+->-6515559690763742995
+
+PID 104937 terminou normalmente com status 0
+PID 104938 terminou normalmente com status 0
+->7572349546523585609
+
+PID 104939 terminou normalmente com status 0
+PID 104940 terminou normalmente com status 0
+->-3104621092294068682
+
+PID 104941 terminou normalmente com status 0
+PID 104942 terminou normalmente com status 0
+->-7899497979325629169
+
+PID 104943 terminou normalmente com status 0
+PID 104944 terminou normalmente com status 0
+->5634411992328680995
+
+PID 104945 terminou normalmente com status 0
+PID 104946 terminou normalmente com status 0
+->-3034637784440565662
+
+PID 104947 terminou normalmente com status 0
+PID 104948 terminou normalmente com status 0
+->6607731464871673414
+
+PID 104949 terminou normalmente com status 0
+PID 104950 terminou normalmente com status 0
+->-6091999368429541337
+
+PID 104951 terminou normalmente com status 0
+PID 104952 terminou normalmente com status 0
+->-551862477994748417
+
+PID 104953 terminou normalmente com status 0
+PID 104954 terminou normalmente com status 0
+->-4109771081757617141
+
+PID 104955 terminou normalmente com status 0
+PID 104956 terminou normalmente com status 0
+->506204888309645004
+
+PID 104957 terminou normalmente com status 0
+PID 104958 terminou normalmente com status 0
+->1718938760410325123
+
+PID 104959 terminou normalmente com status 0
+PID 104960 terminou normalmente com status 0
+->4352893379906578896
+
+PID 104961 terminou normalmente com status 0
+PID 104962 terminou normalmente com status 0
+->9043019946275327593
+
+PID 104963 terminou normalmente com status 0
+PID 104964 terminou normalmente com status 0
+->-7075364906492349178
+
+PID 104965 terminou normalmente com status 0
+PID 104966 terminou normalmente com status 0
+->8069694770588901385
+
+PID 104967 terminou normalmente com status 0
+PID 104968 terminou normalmente com status 0
+->8541650670259416891
+
+PID 104969 terminou normalmente com status 0
+PID 104970 terminou normalmente com status 0
+->-5292308744739831208
+
+PID 104971 terminou normalmente com status 0
+PID 104972 terminou normalmente com status 0
+->7378888333547012209
+
+PID 104973 terminou normalmente com status 0
+PID 104974 terminou normalmente com status 0
+->-464242069943236061
+
+PID 104975 terminou normalmente com status 0
+PID 104976 terminou normalmente com status 0
+->-900313812920192389
+
+PID 104977 terminou normalmente com status 0
+PID 104978 terminou normalmente com status 0
+->-6834136979448774720
+
+PID 104979 terminou normalmente com status 0
+PID 104980 terminou normalmente com status 0
+->-1674914098526583136
+
+PID 104981 terminou normalmente com status 0
+PID 104982 terminou normalmente com status 0
+->-2646539838648696654
+
+PID 104983 terminou normalmente com status 0
+PID 104984 terminou normalmente com status 0
+->-6887596660230555420
+
+PID 104985 terminou normalmente com status 0
+PID 104986 terminou normalmente com status 0
+->-8730348953179257174
+
+PID 104987 terminou normalmente com status 0
+PID 104988 terminou normalmente com status 0
+->-6404392333044404028
+
+PID 104989 terminou normalmente com status 0
+PID 104990 terminou normalmente com status 0
+->-288559940260156554
+
+PID 104991 terminou normalmente com status 0
+PID 104992 terminou normalmente com status 0
+->3780417764361092566
+
+PID 104993 terminou normalmente com status 0
+PID 104994 terminou normalmente com status 0
+->4081832160360946849
+
+PID 104995 terminou normalmente com status 0
+PID 104996 terminou normalmente com status 0
+->6273396389918247136
+
+PID 104997 terminou normalmente com status 0
+PID 104998 terminou normalmente com status 0
+->-4575476692040860535
+
+PID 104999 terminou normalmente com status 0
+PID 105000 terminou normalmente com status 0
+->4954263002803160939
+
+PID 105001 terminou normalmente com status 0
+PID 105002 terminou normalmente com status 0
+->-7775516275150348820
+
+PID 105003 terminou normalmente com status 0
+PID 105004 terminou normalmente com status 0
+->-3949699127107502466
+
+PID 105005 terminou normalmente com status 0
+PID 105006 terminou normalmente com status 0
+->-1710473858468244985
+
+PID 105007 terminou normalmente com status 0
+PID 105008 terminou normalmente com status 0
+->-1400850555342709582
+
+PID 105009 terminou normalmente com status 0
+PID 105010 terminou normalmente com status 0
+->-3003294476385195011
+
+PID 105011 terminou normalmente com status 0
+PID 105012 terminou normalmente com status 0
+->4897925867976518564
+
+PID 105013 terminou normalmente com status 0
+PID 105014 terminou normalmente com status 0
+->-941319476067256396
+
+PID 105015 terminou normalmente com status 0
+PID 105016 terminou normalmente com status 0
+->-595383885339603036
+
+PID 105017 terminou normalmente com status 0
+PID 105018 terminou normalmente com status 0
+->4268494807357920481
+
+PID 105019 terminou normalmente com status 0
+PID 105020 terminou normalmente com status 0
+->8489684780690801562
+
+PID 105021 terminou normalmente com status 0
+PID 105022 terminou normalmente com status 0
+->2516467003233784961
+
+PID 105023 terminou normalmente com status 0
+PID 105024 terminou normalmente com status 0
+->-4429601081798269486
+
+PID 105025 terminou normalmente com status 0
+PID 105026 terminou normalmente com status 0
+->-1728596035033310300
+
+PID 105027 terminou normalmente com status 0
+PID 105028 terminou normalmente com status 0
+->-1266243256285669943
+
+PID 105029 terminou normalmente com status 0
+PID 105030 terminou normalmente com status 0
+->4430732573442680714
+
+PID 105031 terminou normalmente com status 0
+PID 105032 terminou normalmente com status 0
+->-4974244273077911258
+
+PID 105033 terminou normalmente com status 0
+PID 105034 terminou normalmente com status 0
+->-3936132083002576574
+
+PID 105035 terminou normalmente com status 0
+PID 105036 terminou normalmente com status 0
+->6185931597243153983
+
+PID 105037 terminou normalmente com status 0
+PID 105038 terminou normalmente com status 0
+->591309170258063805
+
+PID 105039 terminou normalmente com status 0
+PID 105040 terminou normalmente com status 0
+->6903597855938752894
+
+PID 105041 terminou normalmente com status 0
+PID 105042 terminou normalmente com status 0
+->4312499494355737104
+
+PID 105043 terminou normalmente com status 0
+PID 105044 terminou normalmente com status 0
+->5965699762838992374
+
+PID 105045 terminou normalmente com status 0
+PID 105046 terminou normalmente com status 0
+->9150868716598759360
+
+PID 105047 terminou normalmente com status 0
+PID 105048 terminou normalmente com status 0
+->8658129194422339537
+
+PID 105049 terminou normalmente com status 0
+PID 105050 terminou normalmente com status 0
+->3017629719916993152
+
+PID 105051 terminou normalmente com status 0
+PID 105052 terminou normalmente com status 0
+->6040702773102074814
+
+PID 105053 terminou normalmente com status 0
+PID 105054 terminou normalmente com status 0
+->4081571747236174751
+
+PID 105055 terminou normalmente com status 0
+PID 105056 terminou normalmente com status 0
+->-2313402430707655978
+
+PID 105057 terminou normalmente com status 0
+PID 105058 terminou normalmente com status 0
+->-4522457420617340901
+
+PID 105059 terminou normalmente com status 0
+PID 105060 terminou normalmente com status 0
+->234984013927011795
+
+PID 105061 terminou normalmente com status 0
+PID 105062 terminou normalmente com status 0
+->3090559344519229335
+
+PID 105063 terminou normalmente com status 0
+PID 105064 terminou normalmente com status 0
+->7170881798436147929
+
+PID 105065 terminou normalmente com status 0
+PID 105066 terminou normalmente com status 0
+->5249758299403680930
+
+PID 105067 terminou normalmente com status 0
+PID 105068 terminou normalmente com status 0
+->2619334944537738271
+
+PID 105069 terminou normalmente com status 0
+PID 105070 terminou normalmente com status 0
+->-7219091245157122979
+
+PID 105071 terminou normalmente com status 0
+PID 105072 terminou normalmente com status 0
+->-2602808624905864630
+
+PID 105073 terminou normalmente com status 0
+PID 105074 terminou normalmente com status 0
+->1452488280768854809
+
+PID 105075 terminou normalmente com status 0
+PID 105076 terminou normalmente com status 0
+->3200915703857780588
+
+PID 105077 terminou normalmente com status 0
+PID 105078 terminou normalmente com status 0
+->-6081404300221585577
+
+PID 105079 terminou normalmente com status 0
+PID 105080 terminou normalmente com status 0
+->7250428727499500224
+
+PID 105081 terminou normalmente com status 0
+PID 105082 terminou normalmente com status 0
+->-7934159939820764540
+
+PID 105083 terminou normalmente com status 0
+PID 105084 terminou normalmente com status 0
+->-4022781054551187822
+
+PID 105085 terminou normalmente com status 0
+PID 105086 terminou normalmente com status 0
+->-2748466638785212468
+
+PID 105087 terminou normalmente com status 0
+PID 105088 terminou normalmente com status 0
+->-2755302367679905043
+
+PID 105089 terminou normalmente com status 0
+PID 105090 terminou normalmente com status 0
+->-8437772293201761629
+
+PID 105091 terminou normalmente com status 0
+PID 105092 terminou normalmente com status 0
+->-806339840954562317
+
+PID 105093 terminou normalmente com status 0
+PID 105094 terminou normalmente com status 0
+->-8828570672334918845
+
+PID 105095 terminou normalmente com status 0
+PID 105096 terminou normalmente com status 0
+->-975416971692458741
+
+PID 105097 terminou normalmente com status 0
+PID 105098 terminou normalmente com status 0
+->439961659417986283
+
+PID 105099 terminou normalmente com status 0
+PID 105100 terminou normalmente com status 0
+->7362377744342471170
+
+PID 105101 terminou normalmente com status 0
+PID 105102 terminou normalmente com status 0
+->-2224131206151456606
+
+PID 105103 terminou normalmente com status 0
+PID 105104 terminou normalmente com status 0
+->-6843398166173819776
+
+PID 105105 terminou normalmente com status 0
+PID 105106 terminou normalmente com status 0
+->-1601529188619142296
+
+PID 105107 terminou normalmente com status 0
+PID 105108 terminou normalmente com status 0
+->6195271048490148949
+
+PID 105109 terminou normalmente com status 0
+PID 105110 terminou normalmente com status 0
+->6848699279210625057
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 105112 terminou normalmente com status 0
+PID 105113 terminou normalmente com status 0
+->-1696162031279949223
+
+PID 105114 terminou normalmente com status 0
+PID 105115 terminou normalmente com status 0
+->8813402116161053771
+
+PID 105116 terminou normalmente com status 0
+PID 105117 terminou normalmente com status 0
+->-2164405174931557116
+
+PID 105118 terminou normalmente com status 0
+PID 105119 terminou normalmente com status 0
+->-4647933942888840986
+
+PID 105120 terminou normalmente com status 0
+PID 105121 terminou normalmente com status 0
+->-9096658085918495842
+
+PID 105122 terminou normalmente com status 0
+PID 105123 terminou normalmente com status 0
+->-3416327331918298214
+
+PID 105124 terminou normalmente com status 0
+PID 105125 terminou normalmente com status 0
+->-2193608898359810917
+
+PID 105126 terminou normalmente com status 0
+PID 105127 terminou normalmente com status 0
+->-4467991155897283419
+
+PID 105128 terminou normalmente com status 0
+PID 105129 terminou normalmente com status 0
+->-2590900762018715142
+
+PID 105130 terminou normalmente com status 0
+PID 105131 terminou normalmente com status 0
+->-1815567580074172479
+
+PID 105132 terminou normalmente com status 0
+PID 105133 terminou normalmente com status 0
+->5301703109537101559
+
+PID 105134 terminou normalmente com status 0
+PID 105135 terminou normalmente com status 0
+->-7487180679132458445
+
+PID 105136 terminou normalmente com status 0
+PID 105137 terminou normalmente com status 0
+->-6305622304210483127
+
+PID 105138 terminou normalmente com status 0
+PID 105139 terminou normalmente com status 0
+->-6688914147440906786
+
+PID 105140 terminou normalmente com status 0
+PID 105141 terminou normalmente com status 0
+->-4066757676954657454
+
+PID 105142 terminou normalmente com status 0
+PID 105143 terminou normalmente com status 0
+->4308705955302551901
+
+PID 105144 terminou normalmente com status 0
+PID 105145 terminou normalmente com status 0
+->7906114816315913293
+
+PID 105146 terminou normalmente com status 0
+PID 105147 terminou normalmente com status 0
+->-5690100765192097731
+
+PID 105148 terminou normalmente com status 0
+PID 105149 terminou normalmente com status 0
+->-2931897606141907702
+
+PID 105150 terminou normalmente com status 0
+PID 105151 terminou normalmente com status 0
+->-7550879573779712647
+
+PID 105152 terminou normalmente com status 0
+PID 105153 terminou normalmente com status 0
+->-5286982575040190438
+
+PID 105154 terminou normalmente com status 0
+PID 105155 terminou normalmente com status 0
+->4665920237289982050
+
+PID 105156 terminou normalmente com status 0
+PID 105157 terminou normalmente com status 0
+->-128562290000935766
+
+PID 105158 terminou normalmente com status 0
+PID 105159 terminou normalmente com status 0
+->-2237781596264298440
+
+PID 105160 terminou normalmente com status 0
+PID 105161 terminou normalmente com status 0
+->-8684085081717822105
+
+PID 105162 terminou normalmente com status 0
+PID 105163 terminou normalmente com status 0
+->2473153877150523202
+
+PID 105164 terminou normalmente com status 0
+PID 105165 terminou normalmente com status 0
+->-4222612355111889224
+
+PID 105166 terminou normalmente com status 0
+PID 105167 terminou normalmente com status 0
+->4982290837332038576
+
+PID 105168 terminou normalmente com status 0
+PID 105169 terminou normalmente com status 0
+->-290815154047308676
+
+PID 105170 terminou normalmente com status 0
+PID 105171 terminou normalmente com status 0
+->407256343252645793
+
+PID 105172 terminou normalmente com status 0
+PID 105173 terminou normalmente com status 0
+->-3962861131398060990
+
+PID 105174 terminou normalmente com status 0
+PID 105175 terminou normalmente com status 0
+->-5602366033712069806
+
+PID 105176 terminou normalmente com status 0
+PID 105177 terminou normalmente com status 0
+->8448783669153831585
+
+PID 105178 terminou normalmente com status 0
+PID 105179 terminou normalmente com status 0
+->-4297087394096380109
+
+PID 105180 terminou normalmente com status 0
+PID 105181 terminou normalmente com status 0
+->-8359047654607747577
+
+PID 105182 terminou normalmente com status 0
+PID 105183 terminou normalmente com status 0
+->460143236629945626
+
+PID 105184 terminou normalmente com status 0
+PID 105185 terminou normalmente com status 0
+->-3580054922870484859
+
+PID 105186 terminou normalmente com status 0
+PID 105187 terminou normalmente com status 0
+->5207225023646686433
+
+PID 105188 terminou normalmente com status 0
+PID 105189 terminou normalmente com status 0
+->1342227227589896947
+
+PID 105190 terminou normalmente com status 0
+PID 105191 terminou normalmente com status 0
+->2663304434631911090
+
+PID 105192 terminou normalmente com status 0
+PID 105193 terminou normalmente com status 0
+->6877810276812625859
+
+PID 105194 terminou normalmente com status 0
+PID 105195 terminou normalmente com status 0
+->6922695026946360377
+
+PID 105196 terminou normalmente com status 0
+PID 105197 terminou normalmente com status 0
+->5853303721719017522
+
+PID 105198 terminou normalmente com status 0
+PID 105199 terminou normalmente com status 0
+->1295083237302267012
+
+PID 105200 terminou normalmente com status 0
+PID 105201 terminou normalmente com status 0
+->-632908484147072116
+
+PID 105202 terminou normalmente com status 0
+PID 105203 terminou normalmente com status 0
+->-4955497640363700112
+
+PID 105204 terminou normalmente com status 0
+PID 105205 terminou normalmente com status 0
+->-4978643351002145773
+
+PID 105206 terminou normalmente com status 0
+PID 105207 terminou normalmente com status 0
+->-2681255230739220877
+
+PID 105208 terminou normalmente com status 0
+PID 105209 terminou normalmente com status 0
+->-7384273611241583587
+
+PID 105210 terminou normalmente com status 0
+PID 105211 terminou normalmente com status 0
+->-4720149984300768242
+
+PID 105212 terminou normalmente com status 0
+PID 105213 terminou normalmente com status 0
+->4232767103071840384
+
+PID 105214 terminou normalmente com status 0
+PID 105215 terminou normalmente com status 0
+->-3767223286435722009
+
+PID 105216 terminou normalmente com status 0
+PID 105217 terminou normalmente com status 0
+->-4742029070626777970
+
+PID 105218 terminou normalmente com status 0
+PID 105219 terminou normalmente com status 0
+->6722605481242216485
+
+PID 105220 terminou normalmente com status 0
+PID 105221 terminou normalmente com status 0
+->-1936145343623473708
+
+PID 105222 terminou normalmente com status 0
+PID 105223 terminou normalmente com status 0
+->-2814740857667381767
+
+PID 105224 terminou normalmente com status 0
+PID 105225 terminou normalmente com status 0
+->3297636147335162220
+
+PID 105226 terminou normalmente com status 0
+PID 105227 terminou normalmente com status 0
+->-2632402569134980807
+
+PID 105228 terminou normalmente com status 0
+PID 105229 terminou normalmente com status 0
+->5901554055601840412
+
+PID 105230 terminou normalmente com status 0
+PID 105231 terminou normalmente com status 0
+->-806108278894098115
+
+PID 105232 terminou normalmente com status 0
+PID 105233 terminou normalmente com status 0
+->-1407658662134222828
+
+PID 105234 terminou normalmente com status 0
+PID 105235 terminou normalmente com status 0
+->-8641042085094710389
+
+PID 105236 terminou normalmente com status 0
+PID 105237 terminou normalmente com status 0
+->-1490011946710287045
+
+PID 105238 terminou normalmente com status 0
+PID 105239 terminou normalmente com status 0
+->-6324058221524447818
+
+PID 105240 terminou normalmente com status 0
+PID 105241 terminou normalmente com status 0
+->-4566696150087136833
+
+PID 105242 terminou normalmente com status 0
+PID 105243 terminou normalmente com status 0
+->-8464889968353669342
+
+PID 105244 terminou normalmente com status 0
+PID 105245 terminou normalmente com status 0
+->1211748766163798078
+
+PID 105246 terminou normalmente com status 0
+PID 105247 terminou normalmente com status 0
+->-3906966024258134387
+
+PID 105248 terminou normalmente com status 0
+PID 105249 terminou normalmente com status 0
+->7866743417338788414
+
+PID 105250 terminou normalmente com status 0
+PID 105251 terminou normalmente com status 0
+->-631064722594453185
+
+PID 105252 terminou normalmente com status 0
+PID 105253 terminou normalmente com status 0
+->-2541708477339068555
+
+PID 105254 terminou normalmente com status 0
+PID 105255 terminou normalmente com status 0
+->-4989470980782626254
+
+PID 105256 terminou normalmente com status 0
+PID 105257 terminou normalmente com status 0
+->-5534011297382885445
+
+PID 105258 terminou normalmente com status 0
+PID 105259 terminou normalmente com status 0
+->-6943344539218409094
+
+PID 105260 terminou normalmente com status 0
+PID 105261 terminou normalmente com status 0
+->-2950360263512120973
+
+PID 105262 terminou normalmente com status 0
+PID 105263 terminou normalmente com status 0
+->8262424934068011939
+
+PID 105264 terminou normalmente com status 0
+PID 105265 terminou normalmente com status 0
+->3921666636435320419
+
+PID 105266 terminou normalmente com status 0
+PID 105267 terminou normalmente com status 0
+->159820379492139995
+
+PID 105268 terminou normalmente com status 0
+PID 105269 terminou normalmente com status 0
+->-7272828339086911073
+
+PID 105270 terminou normalmente com status 0
+PID 105271 terminou normalmente com status 0
+->-7268677818668414962
+
+PID 105272 terminou normalmente com status 0
+PID 105273 terminou normalmente com status 0
+->7652019689046871577
+
+PID 105274 terminou normalmente com status 0
+PID 105275 terminou normalmente com status 0
+->51957946762315666
+
+PID 105276 terminou normalmente com status 0
+PID 105277 terminou normalmente com status 0
+->8875198229670040223
+
+PID 105278 terminou normalmente com status 0
+PID 105279 terminou normalmente com status 0
+->4288363346703602972
+
+PID 105280 terminou normalmente com status 0
+PID 105281 terminou normalmente com status 0
+->-7231611933832139050
+
+PID 105282 terminou normalmente com status 0
+PID 105283 terminou normalmente com status 0
+->-7796236282038069205
+
+PID 105284 terminou normalmente com status 0
+PID 105285 terminou normalmente com status 0
+->1089608150166090502
+
+PID 105286 terminou normalmente com status 0
+PID 105287 terminou normalmente com status 0
+->4638506218220328242
+
+PID 105288 terminou normalmente com status 0
+PID 105289 terminou normalmente com status 0
+->1884679516470399822
+
+PID 105290 terminou normalmente com status 0
+PID 105291 terminou normalmente com status 0
+->-4983970578955011348
+
+PID 105292 terminou normalmente com status 0
+PID 105293 terminou normalmente com status 0
+->-6321984335241515747
+
+PID 105294 terminou normalmente com status 0
+PID 105295 terminou normalmente com status 0
+->658900285754052884
+
+PID 105296 terminou normalmente com status 0
+PID 105297 terminou normalmente com status 0
+->6974699369576670620
+
+PID 105298 terminou normalmente com status 0
+PID 105299 terminou normalmente com status 0
+->-2227723456595182652
+
+PID 105300 terminou normalmente com status 0
+PID 105301 terminou normalmente com status 0
+->7193041239823259330
+
+PID 105302 terminou normalmente com status 0
+PID 105303 terminou normalmente com status 0
+->1761750887022568062
+
+PID 105304 terminou normalmente com status 0
+PID 105305 terminou normalmente com status 0
+->8344946453994841374
+
+PID 105306 terminou normalmente com status 0
+PID 105307 terminou normalmente com status 0
+->-7961357037070754546
+
+PID 105308 terminou normalmente com status 0
+PID 105309 terminou normalmente com status 0
+->783627802038058472
+
+PID 105310 terminou normalmente com status 0
+PID 105311 terminou normalmente com status 0
+->-9190920274495811816
+
+PID 105312 terminou normalmente com status 0
+PID 105313 terminou normalmente com status 0
+->6508343557755251494
+
+PID 105315 terminou normalmente com status 0
+PID 105316 terminou normalmente com status 0
+->-526674528957111655
+
+PID 105318 terminou normalmente com status 0
+PID 105319 terminou normalmente com status 0
+->-250568647649653236
+
+PID 105320 terminou normalmente com status 0
+PID 105321 terminou normalmente com status 0
+->6316928478384035816
+
+PID 105322 terminou normalmente com status 0
+PID 105323 terminou normalmente com status 0
+->-1591905800786222450
+
+PID 105324 terminou normalmente com status 0
+PID 105325 terminou normalmente com status 0
+->8808665723715234323
+
+PID 105326 terminou normalmente com status 0
+PID 105327 terminou normalmente com status 0
+->818604427037472911
+
+PID 105328 terminou normalmente com status 0
+PID 105329 terminou normalmente com status 0
+->-2466471193553881439
+
+PID 105330 terminou normalmente com status 0
+PID 105331 terminou normalmente com status 0
+->-8347311780874874647
+
+PID 105332 terminou normalmente com status 0
+PID 105333 terminou normalmente com status 0
+->-6228966776841081328
+
+PID 105334 terminou normalmente com status 0
+PID 105335 terminou normalmente com status 0
+->524729504604427866
+
+PID 105336 terminou normalmente com status 0
+PID 105337 terminou normalmente com status 0
+->-3965292393536609403
+
+PID 105338 terminou normalmente com status 0
+PID 105339 terminou normalmente com status 0
+->-1003108339222303832
+
+PID 105340 terminou normalmente com status 0
+PID 105341 terminou normalmente com status 0
+->-8991104891715587432
+
+PID 105342 terminou normalmente com status 0
+PID 105343 terminou normalmente com status 0
+->-6139162948518731256
+
+PID 105344 terminou normalmente com status 0
+PID 105345 terminou normalmente com status 0
+->224806553341633552
+
+PID 105346 terminou normalmente com status 0
+PID 105347 terminou normalmente com status 0
+->4456594915294558612
+
+PID 105348 terminou normalmente com status 0
+PID 105349 terminou normalmente com status 0
+->8468810172388617697
+
+PID 105350 terminou normalmente com status 0
+PID 105351 terminou normalmente com status 0
+->-683612904589828978
+
+PID 105352 terminou normalmente com status 0
+PID 105353 terminou normalmente com status 0
+->5239414501890425751
+
+PID 105354 terminou normalmente com status 0
+PID 105355 terminou normalmente com status 0
+->-8114310066537993087
+
+PID 105356 terminou normalmente com status 0
+PID 105357 terminou normalmente com status 0
+->5546253012711206213
+
+PID 105358 terminou normalmente com status 0
+PID 105359 terminou normalmente com status 0
+->6876340574801635626
+
+PID 105360 terminou normalmente com status 0
+PID 105361 terminou normalmente com status 0
+->1204895933619936814
+
+PID 105362 terminou normalmente com status 0
+PID 105363 terminou normalmente com status 0
+->5834265456567034156
+
+PID 105364 terminou normalmente com status 0
+PID 105365 terminou normalmente com status 0
+->2529390562115420620
+
+PID 105366 terminou normalmente com status 0
+PID 105367 terminou normalmente com status 0
+->8480075383736252347
+
+PID 105368 terminou normalmente com status 0
+PID 105369 terminou normalmente com status 0
+->4486697715809374781
+
+PID 105370 terminou normalmente com status 0
+PID 105371 terminou normalmente com status 0
+->-8503814527999740903
+
+PID 105372 terminou normalmente com status 0
+PID 105373 terminou normalmente com status 0
+->887142360415381103
+
+PID 105374 terminou normalmente com status 0
+PID 105375 terminou normalmente com status 0
+->-267083851686257972
+
+PID 105378 terminou normalmente com status 0
+PID 105379 terminou normalmente com status 0
+->-3361336839646988870
+
+PID 105382 terminou normalmente com status 0
+PID 105383 terminou normalmente com status 0
+->3584906071045881895
+
+PID 105385 terminou normalmente com status 0
+PID 105386 terminou normalmente com status 0
+->8208427218341630865
+
+PID 105387 terminou normalmente com status 0
+PID 105388 terminou normalmente com status 0
+->-3476432387788814130
+
+PID 105389 terminou normalmente com status 0
+PID 105390 terminou normalmente com status 0
+->5152976945929550444
+
+PID 105391 terminou normalmente com status 0
+PID 105392 terminou normalmente com status 0
+->-842327492947424722
+
+PID 105393 terminou normalmente com status 0
+PID 105394 terminou normalmente com status 0
+->-3145730822079384049
+
+PID 105395 terminou normalmente com status 0
+PID 105396 terminou normalmente com status 0
+->-6805457539358958489
+
+PID 105397 terminou normalmente com status 0
+PID 105398 terminou normalmente com status 0
+->-4637899157003150543
+
+PID 105399 terminou normalmente com status 0
+PID 105400 terminou normalmente com status 0
+->-8097874756977145724
+
+PID 105401 terminou normalmente com status 0
+PID 105402 terminou normalmente com status 0
+->2799394224376552103
+
+PID 105403 terminou normalmente com status 0
+PID 105404 terminou normalmente com status 0
+->-8309530432451162571
+
+PID 105405 terminou normalmente com status 0
+PID 105406 terminou normalmente com status 0
+->9140178366907460164
+
+PID 105407 terminou normalmente com status 0
+PID 105408 terminou normalmente com status 0
+->4058980857010992204
+
+PID 105409 terminou normalmente com status 0
+PID 105410 terminou normalmente com status 0
+->-8864882117048317084
+
+PID 105411 terminou normalmente com status 0
+PID 105412 terminou normalmente com status 0
+->6316901959573281537
+
+PID 105413 terminou normalmente com status 0
+PID 105414 terminou normalmente com status 0
+->-5457772447846573047
+
+PID 105415 terminou normalmente com status 0
+PID 105416 terminou normalmente com status 0
+->-8190663208789472200
+
+PID 105417 terminou normalmente com status 0
+PID 105418 terminou normalmente com status 0
+->5638974362553642578
+
+PID 105419 terminou normalmente com status 0
+PID 105420 terminou normalmente com status 0
+->904053647541010812
+
+PID 105421 terminou normalmente com status 0
+PID 105422 terminou normalmente com status 0
+->8556359223957800557
+
+PID 105423 terminou normalmente com status 0
+PID 105424 terminou normalmente com status 0
+->-2765584813709886809
+
+PID 105425 terminou normalmente com status 0
+PID 105426 terminou normalmente com status 0
+->-1594474676685602774
+
+PID 105427 terminou normalmente com status 0
+PID 105428 terminou normalmente com status 0
+->-2586513582053170217
+
+PID 105429 terminou normalmente com status 0
+PID 105430 terminou normalmente com status 0
+->5374862128384447466
+
+PID 105431 terminou normalmente com status 0
+PID 105432 terminou normalmente com status 0
+->-3812391685322463348
+
+PID 105433 terminou normalmente com status 0
+PID 105434 terminou normalmente com status 0
+->-2458189727072983444
+
+PID 105435 terminou normalmente com status 0
+PID 105436 terminou normalmente com status 0
+->-7722154268359324784
+
+PID 105437 terminou normalmente com status 0
+PID 105438 terminou normalmente com status 0
+->-5017077523759192675
+
+PID 105439 terminou normalmente com status 0
+PID 105440 terminou normalmente com status 0
+->7298087719270905971
+
+PID 105441 terminou normalmente com status 0
+PID 105442 terminou normalmente com status 0
+->1645808594832079785
+
+PID 105443 terminou normalmente com status 0
+PID 105444 terminou normalmente com status 0
+->5171391663803490179
+
+PID 105445 terminou normalmente com status 0
+PID 105446 terminou normalmente com status 0
+->6769608674343060432
+
+PID 105447 terminou normalmente com status 0
+PID 105448 terminou normalmente com status 0
+->-5811346161996943419
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 105450 terminou normalmente com status 0
+PID 105451 terminou normalmente com status 0
+->-5290850161410932382
+
+PID 105452 terminou normalmente com status 0
+PID 105453 terminou normalmente com status 0
+->-3970505448417044520
+
+PID 105454 terminou normalmente com status 0
+PID 105455 terminou normalmente com status 0
+->5808631587312607980
+
+PID 105456 terminou normalmente com status 0
+PID 105457 terminou normalmente com status 0
+->6137104768326390790
+
+PID 105458 terminou normalmente com status 0
+PID 105459 terminou normalmente com status 0
+->-932515025669639765
+
+PID 105460 terminou normalmente com status 0
+PID 105461 terminou normalmente com status 0
+->298832823031858854
+
+PID 105462 terminou normalmente com status 0
+PID 105463 terminou normalmente com status 0
+->5043512005681430009
+
+PID 105464 terminou normalmente com status 0
+PID 105465 terminou normalmente com status 0
+->7147737769890910648
+
+PID 105466 terminou normalmente com status 0
+PID 105467 terminou normalmente com status 0
+->-5697984272655418276
+
+PID 105468 terminou normalmente com status 0
+PID 105469 terminou normalmente com status 0
+->1583267198423306686
+
+PID 105470 terminou normalmente com status 0
+PID 105471 terminou normalmente com status 0
+->-9174761275837135418
+
+PID 105472 terminou normalmente com status 0
+PID 105473 terminou normalmente com status 0
+->4205840320689459648
+
+PID 105474 terminou normalmente com status 0
+PID 105475 terminou normalmente com status 0
+->7169437169056170894
+
+PID 105476 terminou normalmente com status 0
+PID 105477 terminou normalmente com status 0
+->-8941721455521015583
+
+PID 105478 terminou normalmente com status 0
+PID 105479 terminou normalmente com status 0
+->1168980579824073571
+
+PID 105480 terminou normalmente com status 0
+PID 105481 terminou normalmente com status 0
+->-6604571025956953117
+
+PID 105482 terminou normalmente com status 0
+PID 105483 terminou normalmente com status 0
+->8209206462349784912
+
+PID 105484 terminou normalmente com status 0
+PID 105485 terminou normalmente com status 0
+->396099601098080982
+
+PID 105486 terminou normalmente com status 0
+PID 105487 terminou normalmente com status 0
+->3939887160376811520
+
+PID 105488 terminou normalmente com status 0
+PID 105489 terminou normalmente com status 0
+->547111744035527499
+
+PID 105490 terminou normalmente com status 0
+PID 105491 terminou normalmente com status 0
+->-2092353568168181083
+
+PID 105492 terminou normalmente com status 0
+PID 105493 terminou normalmente com status 0
+->1555994777851753787
+
+PID 105494 terminou normalmente com status 0
+PID 105495 terminou normalmente com status 0
+->-3233380079127957709
+
+PID 105496 terminou normalmente com status 0
+PID 105497 terminou normalmente com status 0
+->6688978357355201877
+
+PID 105498 terminou normalmente com status 0
+PID 105499 terminou normalmente com status 0
+->2891448709540317901
+
+PID 105500 terminou normalmente com status 0
+PID 105501 terminou normalmente com status 0
+->-6272482663516495529
+
+PID 105502 terminou normalmente com status 0
+PID 105503 terminou normalmente com status 0
+->-6296137224608068905
+
+PID 105504 terminou normalmente com status 0
+PID 105505 terminou normalmente com status 0
+->4155006582416330707
+
+PID 105506 terminou normalmente com status 0
+PID 105507 terminou normalmente com status 0
+->8503822259656072357
+
+PID 105508 terminou normalmente com status 0
+PID 105509 terminou normalmente com status 0
+->3332149240028986151
+
+PID 105510 terminou normalmente com status 0
+PID 105511 terminou normalmente com status 0
+->7937377722500003269
+
+PID 105512 terminou normalmente com status 0
+PID 105513 terminou normalmente com status 0
+->-4058303418655650613
+
+PID 105514 terminou normalmente com status 0
+PID 105515 terminou normalmente com status 0
+->6996834958812748479
+
+PID 105516 terminou normalmente com status 0
+PID 105517 terminou normalmente com status 0
+->4667559592219226990
+
+PID 105518 terminou normalmente com status 0
+PID 105519 terminou normalmente com status 0
+->1719011267670067413
+
+PID 105520 terminou normalmente com status 0
+PID 105521 terminou normalmente com status 0
+->2662369898091140150
+
+PID 105522 terminou normalmente com status 0
+PID 105523 terminou normalmente com status 0
+->615184373201205235
+
+PID 105524 terminou normalmente com status 0
+PID 105525 terminou normalmente com status 0
+->-7061283529360337762
+
+PID 105526 terminou normalmente com status 0
+PID 105527 terminou normalmente com status 0
+->-830771697265814627
+
+PID 105528 terminou normalmente com status 0
+PID 105529 terminou normalmente com status 0
+->1181413804878202079
+
+PID 105530 terminou normalmente com status 0
+PID 105531 terminou normalmente com status 0
+->48380787125289033
+
+PID 105532 terminou normalmente com status 0
+PID 105533 terminou normalmente com status 0
+->-3098349643755415537
+
+PID 105534 terminou normalmente com status 0
+PID 105535 terminou normalmente com status 0
+->1398507320845942004
+
+PID 105536 terminou normalmente com status 0
+PID 105537 terminou normalmente com status 0
+->3329657867848704028
+
+PID 105538 terminou normalmente com status 0
+PID 105539 terminou normalmente com status 0
+->-4583106848744125148
+
+PID 105540 terminou normalmente com status 0
+PID 105541 terminou normalmente com status 0
+->-1512549089961163965
+
+PID 105542 terminou normalmente com status 0
+PID 105543 terminou normalmente com status 0
+->-8988099544888828972
+
+PID 105544 terminou normalmente com status 0
+PID 105545 terminou normalmente com status 0
+->-2859826124434797515
+
+PID 105546 terminou normalmente com status 0
+PID 105547 terminou normalmente com status 0
+->6044959374725043517
+
+PID 105548 terminou normalmente com status 0
+PID 105549 terminou normalmente com status 0
+->-7163974330831118759
+
+PID 105550 terminou normalmente com status 0
+PID 105551 terminou normalmente com status 0
+->3872107109073981838
+
+PID 105552 terminou normalmente com status 0
+PID 105553 terminou normalmente com status 0
+->-7104255595806648595
+
+PID 105554 terminou normalmente com status 0
+PID 105555 terminou normalmente com status 0
+->-4237183640284103206
+
+PID 105556 terminou normalmente com status 0
+PID 105557 terminou normalmente com status 0
+->5495192617816028547
+
+PID 105558 terminou normalmente com status 0
+PID 105559 terminou normalmente com status 0
+->-8240570749652696169
+
+PID 105560 terminou normalmente com status 0
+PID 105561 terminou normalmente com status 0
+->7335202292034274651
+
+PID 105562 terminou normalmente com status 0
+PID 105563 terminou normalmente com status 0
+->2454305574071087185
+
+PID 105564 terminou normalmente com status 0
+PID 105565 terminou normalmente com status 0
+->2159264895584505853
+
+PID 105566 terminou normalmente com status 0
+PID 105567 terminou normalmente com status 0
+->-202114674830346119
+
+PID 105568 terminou normalmente com status 0
+PID 105569 terminou normalmente com status 0
+->-1918735165647351763
+
+PID 105570 terminou normalmente com status 0
+PID 105571 terminou normalmente com status 0
+->-6692041116712422948
+
+PID 105572 terminou normalmente com status 0
+PID 105573 terminou normalmente com status 0
+->7550934552162168816
+
+PID 105574 terminou normalmente com status 0
+PID 105575 terminou normalmente com status 0
+->-1557857486320087868
+
+PID 105576 terminou normalmente com status 0
+PID 105577 terminou normalmente com status 0
+->5936598510697856697
+
+PID 105578 terminou normalmente com status 0
+PID 105579 terminou normalmente com status 0
+->4033505819961707263
+
+PID 105580 terminou normalmente com status 0
+PID 105581 terminou normalmente com status 0
+->9082412780459900309
+
+PID 105582 terminou normalmente com status 0
+PID 105583 terminou normalmente com status 0
+->8214206245858903140
+
+PID 105584 terminou normalmente com status 0
+PID 105585 terminou normalmente com status 0
+->-2193416346321870217
+
+PID 105586 terminou normalmente com status 0
+PID 105587 terminou normalmente com status 0
+->-3124896577271742215
+
+PID 105588 terminou normalmente com status 0
+PID 105589 terminou normalmente com status 0
+->1886591626462249540
+
+PID 105590 terminou normalmente com status 0
+PID 105591 terminou normalmente com status 0
+->5515824664726908662
+
+PID 105592 terminou normalmente com status 0
+PID 105593 terminou normalmente com status 0
+->1704320607231940145
+
+PID 105594 terminou normalmente com status 0
+PID 105595 terminou normalmente com status 0
+->-6189635016502656296
+
+PID 105596 terminou normalmente com status 0
+PID 105597 terminou normalmente com status 0
+->-3632877682752422700
+
+PID 105598 terminou normalmente com status 0
+PID 105599 terminou normalmente com status 0
+->4899480728379725769
+
+PID 105600 terminou normalmente com status 0
+PID 105601 terminou normalmente com status 0
+->-2155960753103284936
+
+PID 105602 terminou normalmente com status 0
+PID 105603 terminou normalmente com status 0
+->8678856458291974196
+
+PID 105604 terminou normalmente com status 0
+PID 105605 terminou normalmente com status 0
+->-5027606636184616231
+
+PID 105606 terminou normalmente com status 0
+PID 105607 terminou normalmente com status 0
+->-3500856022226528376
+
+PID 105608 terminou normalmente com status 0
+PID 105609 terminou normalmente com status 0
+->5268604382841908043
+
+PID 105610 terminou normalmente com status 0
+PID 105611 terminou normalmente com status 0
+->-7161459777015991088
+
+PID 105612 terminou normalmente com status 0
+PID 105613 terminou normalmente com status 0
+->-5009814144196918813
+
+PID 105614 terminou normalmente com status 0
+PID 105615 terminou normalmente com status 0
+->4172457308554442004
+
+PID 105616 terminou normalmente com status 0
+PID 105617 terminou normalmente com status 0
+->2945349751621017113
+
+PID 105618 terminou normalmente com status 0
+PID 105619 terminou normalmente com status 0
+->5703389576457767609
+
+PID 105620 terminou normalmente com status 0
+PID 105621 terminou normalmente com status 0
+->-6903541494363582804
+
+PID 105622 terminou normalmente com status 0
+PID 105623 terminou normalmente com status 0
+->5202398494629412911
+
+PID 105624 terminou normalmente com status 0
+PID 105625 terminou normalmente com status 0
+->-5483935221968304614
+
+PID 105626 terminou normalmente com status 0
+PID 105627 terminou normalmente com status 0
+->9008204620692886541
+
+PID 105628 terminou normalmente com status 0
+PID 105629 terminou normalmente com status 0
+->-1699009861558828899
+
+PID 105630 terminou normalmente com status 0
+PID 105631 terminou normalmente com status 0
+->4577039144167781262
+
+PID 105632 terminou normalmente com status 0
+PID 105633 terminou normalmente com status 0
+->-3465348466244916923
+
+PID 105634 terminou normalmente com status 0
+PID 105635 terminou normalmente com status 0
+->6245889033205549593
+
+PID 105636 terminou normalmente com status 0
+PID 105637 terminou normalmente com status 0
+->7037405329522385079
+
+PID 105638 terminou normalmente com status 0
+PID 105639 terminou normalmente com status 0
+->4601892767071501565
+
+PID 105640 terminou normalmente com status 0
+PID 105641 terminou normalmente com status 0
+->-5248390477860131646
+
+PID 105642 terminou normalmente com status 0
+PID 105643 terminou normalmente com status 0
+->-3639679684139205301
+
+PID 105644 terminou normalmente com status 0
+PID 105645 terminou normalmente com status 0
+->7203711593195391177
+
+PID 105646 terminou normalmente com status 0
+PID 105647 terminou normalmente com status 0
+->-7591509943101282248
+
+PID 105648 terminou normalmente com status 0
+PID 105649 terminou normalmente com status 0
+->8954523137788604326
+
+PID 105650 terminou normalmente com status 0
+PID 105651 terminou normalmente com status 0
+->8808295823857058529
+
+PID 105652 terminou normalmente com status 0
+PID 105653 terminou normalmente com status 0
+->-259355255141724443
+
+PID 105654 terminou normalmente com status 0
+PID 105655 terminou normalmente com status 0
+->8566764953057060829
+
+PID 105656 terminou normalmente com status 0
+PID 105657 terminou normalmente com status 0
+->-5187676534776117964
+
+PID 105658 terminou normalmente com status 0
+PID 105659 terminou normalmente com status 0
+->-4371758682572236641
+
+PID 105660 terminou normalmente com status 0
+PID 105661 terminou normalmente com status 0
+->825746300293538015
+
+PID 105662 terminou normalmente com status 0
+PID 105663 terminou normalmente com status 0
+->6446715232444701977
+
+PID 105664 terminou normalmente com status 0
+PID 105665 terminou normalmente com status 0
+->-5950093556909122622
+
+PID 105666 terminou normalmente com status 0
+PID 105667 terminou normalmente com status 0
+->-7004307511895144957
+
+PID 105668 terminou normalmente com status 0
+PID 105669 terminou normalmente com status 0
+->-3624968484156101459
+
+PID 105670 terminou normalmente com status 0
+PID 105671 terminou normalmente com status 0
+->-7517950673334055662
+
+PID 105672 terminou normalmente com status 0
+PID 105673 terminou normalmente com status 0
+->8447187040460321419
+
+PID 105674 terminou normalmente com status 0
+PID 105675 terminou normalmente com status 0
+->7543672680995050757
+
+PID 105676 terminou normalmente com status 0
+PID 105677 terminou normalmente com status 0
+->1104943106744114147
+
+PID 105678 terminou normalmente com status 0
+PID 105679 terminou normalmente com status 0
+->-1101436570234910268
+
+PID 105680 terminou normalmente com status 0
+PID 105681 terminou normalmente com status 0
+->9105722714268938849
+
+PID 105682 terminou normalmente com status 0
+PID 105683 terminou normalmente com status 0
+->2557581848817592662
+
+PID 105684 terminou normalmente com status 0
+PID 105685 terminou normalmente com status 0
+->-1856304745809227862
+
+PID 105686 terminou normalmente com status 0
+PID 105687 terminou normalmente com status 0
+->6905395009927059115
+
+PID 105688 terminou normalmente com status 0
+PID 105689 terminou normalmente com status 0
+->-1549841454105222702
+
+PID 105690 terminou normalmente com status 0
+PID 105691 terminou normalmente com status 0
+->2351319538660776563
+
+PID 105692 terminou normalmente com status 0
+PID 105693 terminou normalmente com status 0
+->-8825588289415957372
+
+PID 105694 terminou normalmente com status 0
+PID 105695 terminou normalmente com status 0
+->-196607770745346456
+
+PID 105696 terminou normalmente com status 0
+PID 105697 terminou normalmente com status 0
+->-326962997975407831
+
+PID 105698 terminou normalmente com status 0
+PID 105699 terminou normalmente com status 0
+->6309322358242932189
+
+PID 105700 terminou normalmente com status 0
+PID 105701 terminou normalmente com status 0
+->-8303127295560529659
+
+PID 105702 terminou normalmente com status 0
+PID 105703 terminou normalmente com status 0
+->722381174989499355
+
+PID 105704 terminou normalmente com status 0
+PID 105705 terminou normalmente com status 0
+->-4137668012282453017
+
+PID 105706 terminou normalmente com status 0
+PID 105707 terminou normalmente com status 0
+->-1805427967917018642
+
+PID 105708 terminou normalmente com status 0
+PID 105709 terminou normalmente com status 0
+->5909714327478956462
+
+PID 105710 terminou normalmente com status 0
+PID 105711 terminou normalmente com status 0
+->3434743367759885607
+
+PID 105712 terminou normalmente com status 0
+PID 105713 terminou normalmente com status 0
+->-3514152042177464711
+
+PID 105714 terminou normalmente com status 0
+PID 105715 terminou normalmente com status 0
+->3886375465340710130
+
+PID 105716 terminou normalmente com status 0
+PID 105717 terminou normalmente com status 0
+->5908119229834448369
+
+PID 105718 terminou normalmente com status 0
+PID 105719 terminou normalmente com status 0
+->2711516102319326312
+
+PID 105720 terminou normalmente com status 0
+PID 105721 terminou normalmente com status 0
+->4154745485106842812
+
+PID 105722 terminou normalmente com status 0
+PID 105723 terminou normalmente com status 0
+->-5089222117476365019
+
+PID 105724 terminou normalmente com status 0
+PID 105725 terminou normalmente com status 0
+->-8571171705634136492
+
+PID 105726 terminou normalmente com status 0
+PID 105727 terminou normalmente com status 0
+->2590211096307436373
+
+PID 105728 terminou normalmente com status 0
+PID 105729 terminou normalmente com status 0
+->-7271807996326918226
+
+PID 105730 terminou normalmente com status 0
+PID 105731 terminou normalmente com status 0
+->-2124435887617741802
+
+PID 105732 terminou normalmente com status 0
+PID 105733 terminou normalmente com status 0
+->-1855281167333824721
+
+PID 105734 terminou normalmente com status 0
+PID 105735 terminou normalmente com status 0
+->-134864773539917917
+
+PID 105736 terminou normalmente com status 0
+PID 105737 terminou normalmente com status 0
+->-3955984122753320538
+
+PID 105738 terminou normalmente com status 0
+PID 105739 terminou normalmente com status 0
+->-7443535510509309907
+
+PID 105740 terminou normalmente com status 0
+PID 105741 terminou normalmente com status 0
+->5543878883220782529
+
+PID 105742 terminou normalmente com status 0
+PID 105743 terminou normalmente com status 0
+->168460162207475969
+
+PID 105744 terminou normalmente com status 0
+PID 105745 terminou normalmente com status 0
+->5155150426009135045
+
+PID 105746 terminou normalmente com status 0
+PID 105747 terminou normalmente com status 0
+->-3156907155809437343
+
+PID 105748 terminou normalmente com status 0
+PID 105749 terminou normalmente com status 0
+->1250539252209999375
+
+PID 105750 terminou normalmente com status 0
+PID 105751 terminou normalmente com status 0
+->-2074375150554231444
+
+PID 105752 terminou normalmente com status 0
+PID 105753 terminou normalmente com status 0
+->-3090199339792343413
+
+PID 105754 terminou normalmente com status 0
+PID 105755 terminou normalmente com status 0
+->-5936606306962340671
+
+PID 105756 terminou normalmente com status 0
+PID 105757 terminou normalmente com status 0
+->2503289339486157979
+
+PID 105758 terminou normalmente com status 0
+PID 105759 terminou normalmente com status 0
+->-4913289389093280164
+
+PID 105760 terminou normalmente com status 0
+PID 105761 terminou normalmente com status 0
+->5857335246629140312
+
+PID 105762 terminou normalmente com status 0
+PID 105763 terminou normalmente com status 0
+->1645683949777541150
+
+PID 105764 terminou normalmente com status 0
+PID 105765 terminou normalmente com status 0
+->-4095687356688735192
+
+PID 105766 terminou normalmente com status 0
+PID 105767 terminou normalmente com status 0
+->2635293902127900163
+
+PID 105768 terminou normalmente com status 0
+PID 105769 terminou normalmente com status 0
+->7944736796327565255
+
+PID 105770 terminou normalmente com status 0
+PID 105771 terminou normalmente com status 0
+->-3672106134966289282
+
+PID 105772 terminou normalmente com status 0
+PID 105773 terminou normalmente com status 0
+->8190476857389094669
+
+PID 105774 terminou normalmente com status 0
+PID 105775 terminou normalmente com status 0
+->7859338371647595441
+
+PID 105776 terminou normalmente com status 0
+PID 105777 terminou normalmente com status 0
+->2348269244421727224
+
+PID 105778 terminou normalmente com status 0
+PID 105779 terminou normalmente com status 0
+->-6714056226336894716
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 105781 terminou normalmente com status 0
+PID 105782 terminou normalmente com status 0
+->3538212732025146990
+
+PID 105783 terminou normalmente com status 0
+PID 105784 terminou normalmente com status 0
+->7492563969425932480
+
+PID 105785 terminou normalmente com status 0
+PID 105786 terminou normalmente com status 0
+->-172569660770264287
+
+PID 105787 terminou normalmente com status 0
+PID 105788 terminou normalmente com status 0
+->-8678797371719465427
+
+PID 105789 terminou normalmente com status 0
+PID 105790 terminou normalmente com status 0
+->-520085730631635625
+
+PID 105791 terminou normalmente com status 0
+PID 105792 terminou normalmente com status 0
+->7877758192242665235
+
+PID 105793 terminou normalmente com status 0
+PID 105794 terminou normalmente com status 0
+->5071398817419794062
+
+PID 105795 terminou normalmente com status 0
+PID 105796 terminou normalmente com status 0
+->1936006063838427542
+
+PID 105797 terminou normalmente com status 0
+PID 105798 terminou normalmente com status 0
+->8364716501185629040
+
+PID 105799 terminou normalmente com status 0
+PID 105800 terminou normalmente com status 0
+->1031401614986143377
+
+PID 105801 terminou normalmente com status 0
+PID 105802 terminou normalmente com status 0
+->-5611511999461718771
+
+PID 105803 terminou normalmente com status 0
+PID 105804 terminou normalmente com status 0
+->840103843324741750
+
+PID 105805 terminou normalmente com status 0
+PID 105806 terminou normalmente com status 0
+->-1207848448228929558
+
+PID 105807 terminou normalmente com status 0
+PID 105808 terminou normalmente com status 0
+->-5134185074745125923
+
+PID 105809 terminou normalmente com status 0
+PID 105810 terminou normalmente com status 0
+->2537478696000864374
+
+PID 105811 terminou normalmente com status 0
+PID 105812 terminou normalmente com status 0
+->2067939801628784370
+
+PID 105813 terminou normalmente com status 0
+PID 105814 terminou normalmente com status 0
+->3916078899261569657
+
+PID 105815 terminou normalmente com status 0
+PID 105816 terminou normalmente com status 0
+->8521161267890895670
+
+PID 105817 terminou normalmente com status 0
+PID 105818 terminou normalmente com status 0
+->-2497949925845944312
+
+PID 105819 terminou normalmente com status 0
+PID 105820 terminou normalmente com status 0
+->6475569706934642858
+
+PID 105821 terminou normalmente com status 0
+PID 105822 terminou normalmente com status 0
+->7522236659940301462
+
+PID 105823 terminou normalmente com status 0
+PID 105824 terminou normalmente com status 0
+->2868833037806369587
+
+PID 105825 terminou normalmente com status 0
+PID 105826 terminou normalmente com status 0
+->8206167981677733193
+
+PID 105827 terminou normalmente com status 0
+PID 105828 terminou normalmente com status 0
+->7606044203910719464
+
+PID 105829 terminou normalmente com status 0
+PID 105830 terminou normalmente com status 0
+->5360970674147187869
+
+PID 105831 terminou normalmente com status 0
+PID 105832 terminou normalmente com status 0
+->3901149554168040015
+
+PID 105833 terminou normalmente com status 0
+PID 105834 terminou normalmente com status 0
+->-4083870123373073277
+
+PID 105835 terminou normalmente com status 0
+PID 105836 terminou normalmente com status 0
+->3048905197724165840
+
+PID 105837 terminou normalmente com status 0
+PID 105838 terminou normalmente com status 0
+->-3768426540297970449
+
+PID 105839 terminou normalmente com status 0
+PID 105840 terminou normalmente com status 0
+->4878636551917271022
+
+PID 105841 terminou normalmente com status 0
+PID 105842 terminou normalmente com status 0
+->6098387537033861919
+
+PID 105843 terminou normalmente com status 0
+PID 105844 terminou normalmente com status 0
+->-6990709786754575966
+
+PID 105845 terminou normalmente com status 0
+PID 105846 terminou normalmente com status 0
+->2556639122471930013
+
+PID 105847 terminou normalmente com status 0
+PID 105848 terminou normalmente com status 0
+->-1193549147856233054
+
+PID 105849 terminou normalmente com status 0
+PID 105850 terminou normalmente com status 0
+->565221110728609227
+
+PID 105851 terminou normalmente com status 0
+PID 105852 terminou normalmente com status 0
+->8619081717033212502
+
+PID 105853 terminou normalmente com status 0
+PID 105854 terminou normalmente com status 0
+->7152064599315570032
+
+PID 105855 terminou normalmente com status 0
+PID 105856 terminou normalmente com status 0
+->-4888686532064537640
+
+PID 105857 terminou normalmente com status 0
+PID 105858 terminou normalmente com status 0
+->8645311636754905384
+
+PID 105859 terminou normalmente com status 0
+PID 105860 terminou normalmente com status 0
+->-2022650053205360779
+
+PID 105861 terminou normalmente com status 0
+PID 105862 terminou normalmente com status 0
+->4034693870390543057
+
+PID 105863 terminou normalmente com status 0
+PID 105864 terminou normalmente com status 0
+->7639264030131010979
+
+PID 105865 terminou normalmente com status 0
+PID 105866 terminou normalmente com status 0
+->-8165519032467947657
+
+PID 105867 terminou normalmente com status 0
+PID 105868 terminou normalmente com status 0
+->-3265939418876260626
+
+PID 105869 terminou normalmente com status 0
+PID 105870 terminou normalmente com status 0
+->-7500448573625221774
+
+PID 105871 terminou normalmente com status 0
+PID 105872 terminou normalmente com status 0
+->-4883630209652558793
+
+PID 105873 terminou normalmente com status 0
+PID 105874 terminou normalmente com status 0
+->8781676691326151399
+
+PID 105875 terminou normalmente com status 0
+PID 105876 terminou normalmente com status 0
+->-6917835734726187786
+
+PID 105877 terminou normalmente com status 0
+PID 105878 terminou normalmente com status 0
+->-466328704487512351
+
+PID 105879 terminou normalmente com status 0
+PID 105880 terminou normalmente com status 0
+->7889023295077152331
+
+PID 105881 terminou normalmente com status 0
+PID 105882 terminou normalmente com status 0
+->-472621074768629560
+
+PID 105883 terminou normalmente com status 0
+PID 105884 terminou normalmente com status 0
+->6335767772506567304
+
+PID 105885 terminou normalmente com status 0
+PID 105886 terminou normalmente com status 0
+->2197969569319732565
+
+PID 105887 terminou normalmente com status 0
+PID 105888 terminou normalmente com status 0
+->5449024146079979369
+
+PID 105889 terminou normalmente com status 0
+PID 105890 terminou normalmente com status 0
+->-3341370820972340007
+
+PID 105891 terminou normalmente com status 0
+PID 105892 terminou normalmente com status 0
+->-2597815071762223937
+
+PID 105893 terminou normalmente com status 0
+PID 105894 terminou normalmente com status 0
+->3750754579194884994
+
+PID 105895 terminou normalmente com status 0
+PID 105896 terminou normalmente com status 0
+->6605284956345272558
+
+PID 105897 terminou normalmente com status 0
+PID 105898 terminou normalmente com status 0
+->56990803641201675
+
+PID 105899 terminou normalmente com status 0
+PID 105900 terminou normalmente com status 0
+->-4865027235735970943
+
+PID 105901 terminou normalmente com status 0
+PID 105902 terminou normalmente com status 0
+->-616685424964282402
+
+PID 105903 terminou normalmente com status 0
+PID 105904 terminou normalmente com status 0
+->-740229756394571979
+
+PID 105905 terminou normalmente com status 0
+PID 105906 terminou normalmente com status 0
+->9130944975132146540
+
+PID 105907 terminou normalmente com status 0
+PID 105908 terminou normalmente com status 0
+->5513809393277196706
+
+PID 105909 terminou normalmente com status 0
+PID 105910 terminou normalmente com status 0
+->9053736535019942928
+
+PID 105911 terminou normalmente com status 0
+PID 105912 terminou normalmente com status 0
+->2862718388716370776
+
+PID 105913 terminou normalmente com status 0
+PID 105914 terminou normalmente com status 0
+->2360109356035084769
+
+PID 105915 terminou normalmente com status 0
+PID 105916 terminou normalmente com status 0
+->-6144872669210603127
+
+PID 105917 terminou normalmente com status 0
+PID 105918 terminou normalmente com status 0
+->3068679784817218720
+
+PID 105919 terminou normalmente com status 0
+PID 105920 terminou normalmente com status 0
+->-6785299844206533053
+
+PID 105921 terminou normalmente com status 0
+PID 105922 terminou normalmente com status 0
+->-3820103591507794193
+
+PID 105923 terminou normalmente com status 0
+PID 105924 terminou normalmente com status 0
+->-2509809631651893731
+
+PID 105925 terminou normalmente com status 0
+PID 105926 terminou normalmente com status 0
+->-7537758745672044945
+
+PID 105927 terminou normalmente com status 0
+PID 105928 terminou normalmente com status 0
+->3788370810324088824
+
+PID 105929 terminou normalmente com status 0
+PID 105930 terminou normalmente com status 0
+->-1516863905544354778
+
+PID 105931 terminou normalmente com status 0
+PID 105932 terminou normalmente com status 0
+->-1044893984484281554
+
+PID 105933 terminou normalmente com status 0
+PID 105934 terminou normalmente com status 0
+->-900435535733424113
+
+PID 105935 terminou normalmente com status 0
+PID 105936 terminou normalmente com status 0
+->-6348218345807593724
+
+PID 105937 terminou normalmente com status 0
+PID 105938 terminou normalmente com status 0
+->3018566587982679260
+
+PID 105939 terminou normalmente com status 0
+PID 105940 terminou normalmente com status 0
+->2851743660888918353
+
+PID 105941 terminou normalmente com status 0
+PID 105942 terminou normalmente com status 0
+->6703348178835820169
+
+PID 105943 terminou normalmente com status 0
+PID 105944 terminou normalmente com status 0
+->9207035734300501669
+
+PID 105945 terminou normalmente com status 0
+PID 105946 terminou normalmente com status 0
+->5744689288265590577
+
+PID 105947 terminou normalmente com status 0
+PID 105948 terminou normalmente com status 0
+->-427821511592521902
+
+PID 105949 terminou normalmente com status 0
+PID 105950 terminou normalmente com status 0
+->6546110646431957436
+
+PID 105951 terminou normalmente com status 0
+PID 105952 terminou normalmente com status 0
+->-4811792119171612918
+
+PID 105953 terminou normalmente com status 0
+PID 105954 terminou normalmente com status 0
+->6880520765776913470
+
+PID 105955 terminou normalmente com status 0
+PID 105956 terminou normalmente com status 0
+->-1948998369539032030
+
+PID 105957 terminou normalmente com status 0
+PID 105958 terminou normalmente com status 0
+->9180395047280953858
+
+PID 105959 terminou normalmente com status 0
+PID 105960 terminou normalmente com status 0
+->215296078051033353
+
+PID 105961 terminou normalmente com status 0
+PID 105962 terminou normalmente com status 0
+->5435425862899435258
+
+PID 105963 terminou normalmente com status 0
+PID 105964 terminou normalmente com status 0
+->-2167915325495938106
+
+PID 105965 terminou normalmente com status 0
+PID 105966 terminou normalmente com status 0
+->-4925399337294019064
+
+PID 105967 terminou normalmente com status 0
+PID 105968 terminou normalmente com status 0
+->4817015347698740102
+
+PID 105969 terminou normalmente com status 0
+PID 105970 terminou normalmente com status 0
+->1455693080281576469
+
+PID 105971 terminou normalmente com status 0
+PID 105972 terminou normalmente com status 0
+->5944447013656560272
+
+PID 105973 terminou normalmente com status 0
+PID 105974 terminou normalmente com status 0
+->-1887427752373909364
+
+PID 105975 terminou normalmente com status 0
+PID 105976 terminou normalmente com status 0
+->-3812841360510828405
+
+PID 105977 terminou normalmente com status 0
+PID 105978 terminou normalmente com status 0
+->1162469695129274215
+
+PID 105979 terminou normalmente com status 0
+PID 105980 terminou normalmente com status 0
+->1801474626389799015
+
+PID 105981 terminou normalmente com status 0
+PID 105982 terminou normalmente com status 0
+->-2446841264789823363
+
+PID 105983 terminou normalmente com status 0
+PID 105984 terminou normalmente com status 0
+->4248643322853817767
+
+PID 105985 terminou normalmente com status 0
+PID 105986 terminou normalmente com status 0
+->-1853738101735468770
+
+PID 105987 terminou normalmente com status 0
+PID 105988 terminou normalmente com status 0
+->4185348537361736504
+
+PID 105989 terminou normalmente com status 0
+PID 105990 terminou normalmente com status 0
+->5309553551115601428
+
+PID 105991 terminou normalmente com status 0
+PID 105992 terminou normalmente com status 0
+->1005135517625645746
+
+PID 105993 terminou normalmente com status 0
+PID 105994 terminou normalmente com status 0
+->2186286977153464725
+
+PID 105995 terminou normalmente com status 0
+PID 105996 terminou normalmente com status 0
+->7162303777033327222
+
+PID 105997 terminou normalmente com status 0
+PID 105998 terminou normalmente com status 0
+->7889108254131045651
+
+PID 105999 terminou normalmente com status 0
+PID 106000 terminou normalmente com status 0
+->-363296814287132742
+
+PID 106001 terminou normalmente com status 0
+PID 106002 terminou normalmente com status 0
+->-1490633309890194354
+
+PID 106003 terminou normalmente com status 0
+PID 106004 terminou normalmente com status 0
+->-1597157598362651938
+
+PID 106005 terminou normalmente com status 0
+PID 106006 terminou normalmente com status 0
+->4475964973660090935
+
+PID 106007 terminou normalmente com status 0
+PID 106008 terminou normalmente com status 0
+->2396787166112897003
+
+PID 106009 terminou normalmente com status 0
+PID 106010 terminou normalmente com status 0
+->2216879027554387246
+
+PID 106011 terminou normalmente com status 0
+PID 106012 terminou normalmente com status 0
+->4491707313188709613
+
+PID 106013 terminou normalmente com status 0
+PID 106014 terminou normalmente com status 0
+->-1474481291778584478
+
+PID 106015 terminou normalmente com status 0
+PID 106016 terminou normalmente com status 0
+->7741664238587875428
+
+PID 106017 terminou normalmente com status 0
+PID 106018 terminou normalmente com status 0
+->-3116745842893795697
+
+PID 106019 terminou normalmente com status 0
+PID 106020 terminou normalmente com status 0
+->2377424632918318049
+
+PID 106021 terminou normalmente com status 0
+PID 106022 terminou normalmente com status 0
+->4297503568366626343
+
+PID 106023 terminou normalmente com status 0
+PID 106024 terminou normalmente com status 0
+->-468344058137710580
+
+PID 106025 terminou normalmente com status 0
+PID 106026 terminou normalmente com status 0
+->2589595687295018693
+
+PID 106027 terminou normalmente com status 0
+PID 106028 terminou normalmente com status 0
+->-1280062296664922110
+
+PID 106029 terminou normalmente com status 0
+PID 106030 terminou normalmente com status 0
+->-5686210875639796447
+
+PID 106031 terminou normalmente com status 0
+PID 106032 terminou normalmente com status 0
+->13139179902476735
+
+PID 106033 terminou normalmente com status 0
+PID 106034 terminou normalmente com status 0
+->-1490422092604064626
+
+PID 106035 terminou normalmente com status 0
+PID 106036 terminou normalmente com status 0
+->1643431407965809598
+
+PID 106037 terminou normalmente com status 0
+PID 106038 terminou normalmente com status 0
+->4657504084296576430
+
+PID 106039 terminou normalmente com status 0
+PID 106040 terminou normalmente com status 0
+->7398931761715169117
+
+PID 106041 terminou normalmente com status 0
+PID 106042 terminou normalmente com status 0
+->-2495027564751203881
+
+PID 106043 terminou normalmente com status 0
+PID 106044 terminou normalmente com status 0
+->-2885590890296559247
+
+PID 106045 terminou normalmente com status 0
+PID 106046 terminou normalmente com status 0
+->3172669619079734218
+
+PID 106047 terminou normalmente com status 0
+PID 106048 terminou normalmente com status 0
+->2988493998497232165
+
+PID 106049 terminou normalmente com status 0
+PID 106050 terminou normalmente com status 0
+->-8788090454909116554
+
+PID 106051 terminou normalmente com status 0
+PID 106052 terminou normalmente com status 0
+->-576287381372917562
+
+PID 106053 terminou normalmente com status 0
+PID 106054 terminou normalmente com status 0
+->-5090517486935998476
+
+PID 106055 terminou normalmente com status 0
+PID 106056 terminou normalmente com status 0
+->2863155053511857632
+
+PID 106057 terminou normalmente com status 0
+PID 106058 terminou normalmente com status 0
+->7888721025785228093
+
+PID 106059 terminou normalmente com status 0
+PID 106060 terminou normalmente com status 0
+->8120707697808711184
+
+PID 106061 terminou normalmente com status 0
+PID 106062 terminou normalmente com status 0
+->-4188114113960453134
+
+PID 106063 terminou normalmente com status 0
+PID 106064 terminou normalmente com status 0
+->-3679614278038914888
+
+PID 106065 terminou normalmente com status 0
+PID 106066 terminou normalmente com status 0
+->-5079294927787033036
+
+PID 106067 terminou normalmente com status 0
+PID 106068 terminou normalmente com status 0
+->3382634957362196118
+
+PID 106069 terminou normalmente com status 0
+PID 106070 terminou normalmente com status 0
+->-2479369930488508347
+
+PID 106071 terminou normalmente com status 0
+PID 106072 terminou normalmente com status 0
+->-4845061641572362034
+
+PID 106073 terminou normalmente com status 0
+PID 106074 terminou normalmente com status 0
+->-2346249592247922703
+
+PID 106075 terminou normalmente com status 0
+PID 106076 terminou normalmente com status 0
+->1912931162700477558
+
+PID 106077 terminou normalmente com status 0
+PID 106078 terminou normalmente com status 0
+->-1796952557693426637
+
+PID 106079 terminou normalmente com status 0
+PID 106080 terminou normalmente com status 0
+->5768630381319635954
+
+PID 106081 terminou normalmente com status 0
+PID 106082 terminou normalmente com status 0
+->-3104403170308126735
+
+PID 106083 terminou normalmente com status 0
+PID 106084 terminou normalmente com status 0
+->2886082796381799829
+
+PID 106085 terminou normalmente com status 0
+PID 106086 terminou normalmente com status 0
+->8529299951406259659
+
+PID 106087 terminou normalmente com status 0
+PID 106088 terminou normalmente com status 0
+->-34666254348757706
+
+PID 106089 terminou normalmente com status 0
+PID 106090 terminou normalmente com status 0
+->8987200248643020999
+
+PID 106091 terminou normalmente com status 0
+PID 106092 terminou normalmente com status 0
+->-3163019806757728801
+
+PID 106093 terminou normalmente com status 0
+PID 106094 terminou normalmente com status 0
+->-7790917558831366188
+
+PID 106095 terminou normalmente com status 0
+PID 106096 terminou normalmente com status 0
+->4544961470057811391
+
+PID 106097 terminou normalmente com status 0
+PID 106098 terminou normalmente com status 0
+->-136417457076158930
+
+PID 106099 terminou normalmente com status 0
+PID 106100 terminou normalmente com status 0
+->-435021039941223320
+
+PID 106101 terminou normalmente com status 0
+PID 106102 terminou normalmente com status 0
+->137846504424208306
+
+PID 106103 terminou normalmente com status 0
+PID 106104 terminou normalmente com status 0
+->-6443768679649020794
+
+PID 106105 terminou normalmente com status 0
+PID 106106 terminou normalmente com status 0
+->7542691200528032502
+
+PID 106107 terminou normalmente com status 0
+PID 106108 terminou normalmente com status 0
+->3018559692560450219
+
+PID 106109 terminou normalmente com status 0
+PID 106110 terminou normalmente com status 0
+->248444960094564380
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 106112 terminou normalmente com status 0
+PID 106113 terminou normalmente com status 0
+->-678974156538993347
+
+PID 106114 terminou normalmente com status 0
+PID 106115 terminou normalmente com status 0
+->5839951428868945534
+
+PID 106116 terminou normalmente com status 0
+PID 106117 terminou normalmente com status 0
+->-5029168875780987918
+
+PID 106118 terminou normalmente com status 0
+PID 106119 terminou normalmente com status 0
+->1279491557642517969
+
+PID 106120 terminou normalmente com status 0
+PID 106121 terminou normalmente com status 0
+->-6704553539012220607
+
+PID 106122 terminou normalmente com status 0
+PID 106123 terminou normalmente com status 0
+->-8099889861324283590
+
+PID 106124 terminou normalmente com status 0
+PID 106125 terminou normalmente com status 0
+->1150784712541424505
+
+PID 106126 terminou normalmente com status 0
+PID 106127 terminou normalmente com status 0
+->-2425667669422111547
+
+PID 106128 terminou normalmente com status 0
+PID 106129 terminou normalmente com status 0
+->-6553616638019895238
+
+PID 106130 terminou normalmente com status 0
+PID 106131 terminou normalmente com status 0
+->-486008906985226552
+
+PID 106132 terminou normalmente com status 0
+PID 106133 terminou normalmente com status 0
+->-3059199799580744214
+
+PID 106134 terminou normalmente com status 0
+PID 106135 terminou normalmente com status 0
+->-1889038934768029306
+
+PID 106136 terminou normalmente com status 0
+PID 106137 terminou normalmente com status 0
+->-2175543887944239797
+
+PID 106138 terminou normalmente com status 0
+PID 106139 terminou normalmente com status 0
+->-5785165922543929887
+
+PID 106140 terminou normalmente com status 0
+PID 106141 terminou normalmente com status 0
+->-5676925808716768008
+
+PID 106142 terminou normalmente com status 0
+PID 106143 terminou normalmente com status 0
+->-1194068599345143083
+
+PID 106144 terminou normalmente com status 0
+PID 106145 terminou normalmente com status 0
+->-8888956079108077659
+
+PID 106146 terminou normalmente com status 0
+PID 106147 terminou normalmente com status 0
+->-6801905058095408607
+
+PID 106148 terminou normalmente com status 0
+PID 106149 terminou normalmente com status 0
+->5701502565017439048
+
+PID 106150 terminou normalmente com status 0
+PID 106151 terminou normalmente com status 0
+->4638082918552284562
+
+PID 106152 terminou normalmente com status 0
+PID 106153 terminou normalmente com status 0
+->-3479044782150374391
+
+PID 106154 terminou normalmente com status 0
+PID 106155 terminou normalmente com status 0
+->4776113242286222214
+
+PID 106156 terminou normalmente com status 0
+PID 106157 terminou normalmente com status 0
+->2571593245070099330
+
+PID 106158 terminou normalmente com status 0
+PID 106159 terminou normalmente com status 0
+->-2118962604692060547
+
+PID 106160 terminou normalmente com status 0
+PID 106161 terminou normalmente com status 0
+->-906528987740773143
+
+PID 106162 terminou normalmente com status 0
+PID 106163 terminou normalmente com status 0
+->-4621436401566359427
+
+PID 106164 terminou normalmente com status 0
+PID 106165 terminou normalmente com status 0
+->-757664020767059817
+
+PID 106166 terminou normalmente com status 0
+PID 106167 terminou normalmente com status 0
+->-6266582875158720002
+
+PID 106168 terminou normalmente com status 0
+PID 106169 terminou normalmente com status 0
+->827764115804626364
+
+PID 106170 terminou normalmente com status 0
+PID 106171 terminou normalmente com status 0
+->-315812148852554000
+
+PID 106172 terminou normalmente com status 0
+PID 106173 terminou normalmente com status 0
+->8251633317655668979
+
+PID 106174 terminou normalmente com status 0
+PID 106175 terminou normalmente com status 0
+->-6704697532368740124
+
+PID 106176 terminou normalmente com status 0
+PID 106177 terminou normalmente com status 0
+->-7374679486288047313
+
+PID 106178 terminou normalmente com status 0
+PID 106179 terminou normalmente com status 0
+->562664678847559137
+
+PID 106180 terminou normalmente com status 0
+PID 106181 terminou normalmente com status 0
+->-7030617037348851567
+
+PID 106182 terminou normalmente com status 0
+PID 106183 terminou normalmente com status 0
+->6031131728655026088
+
+PID 106184 terminou normalmente com status 0
+PID 106185 terminou normalmente com status 0
+->-4907025178821553915
+
+PID 106186 terminou normalmente com status 0
+PID 106187 terminou normalmente com status 0
+->2167548072515621793
+
+PID 106188 terminou normalmente com status 0
+PID 106189 terminou normalmente com status 0
+->6618964075370774939
+
+PID 106190 terminou normalmente com status 0
+PID 106191 terminou normalmente com status 0
+->-2928315645563500182
+
+PID 106192 terminou normalmente com status 0
+PID 106193 terminou normalmente com status 0
+->-2524210086650809846
+
+PID 106194 terminou normalmente com status 0
+PID 106195 terminou normalmente com status 0
+->7071653610268038117
+
+PID 106196 terminou normalmente com status 0
+PID 106197 terminou normalmente com status 0
+->9185436482367599954
+
+PID 106198 terminou normalmente com status 0
+PID 106199 terminou normalmente com status 0
+->-2034122140805087784
+
+PID 106200 terminou normalmente com status 0
+PID 106201 terminou normalmente com status 0
+->4760631754012312039
+
+PID 106202 terminou normalmente com status 0
+PID 106203 terminou normalmente com status 0
+->3769938350845396020
+
+PID 106204 terminou normalmente com status 0
+PID 106205 terminou normalmente com status 0
+->5690857675935170644
+
+PID 106206 terminou normalmente com status 0
+PID 106207 terminou normalmente com status 0
+->-7317830221623333805
+
+PID 106208 terminou normalmente com status 0
+PID 106209 terminou normalmente com status 0
+->5795734428851178731
+
+PID 106210 terminou normalmente com status 0
+PID 106211 terminou normalmente com status 0
+->-6151502045535436234
+
+PID 106212 terminou normalmente com status 0
+PID 106213 terminou normalmente com status 0
+->-4332933796383533875
+
+PID 106214 terminou normalmente com status 0
+PID 106215 terminou normalmente com status 0
+->-906323147314078955
+
+PID 106216 terminou normalmente com status 0
+PID 106217 terminou normalmente com status 0
+->7838758695794192810
+
+PID 106218 terminou normalmente com status 0
+PID 106219 terminou normalmente com status 0
+->4671967576638979398
+
+PID 106220 terminou normalmente com status 0
+PID 106221 terminou normalmente com status 0
+->-5330988115608621933
+
+PID 106222 terminou normalmente com status 0
+PID 106223 terminou normalmente com status 0
+->2831206703036620154
+
+PID 106224 terminou normalmente com status 0
+PID 106225 terminou normalmente com status 0
+->-4523616816821796286
+
+PID 106226 terminou normalmente com status 0
+PID 106227 terminou normalmente com status 0
+->-3135524556227486439
+
+PID 106228 terminou normalmente com status 0
+PID 106229 terminou normalmente com status 0
+->6899981465534878737
+
+PID 106230 terminou normalmente com status 0
+PID 106231 terminou normalmente com status 0
+->-8423102120445972644
+
+PID 106232 terminou normalmente com status 0
+PID 106233 terminou normalmente com status 0
+->-663563662456388452
+
+PID 106234 terminou normalmente com status 0
+PID 106235 terminou normalmente com status 0
+->-2835390474678847192
+
+PID 106236 terminou normalmente com status 0
+PID 106237 terminou normalmente com status 0
+->1859592198335769732
+
+PID 106238 terminou normalmente com status 0
+PID 106239 terminou normalmente com status 0
+->-7947915197646746313
+
+PID 106240 terminou normalmente com status 0
+PID 106241 terminou normalmente com status 0
+->-2649029425461963476
+
+PID 106242 terminou normalmente com status 0
+PID 106243 terminou normalmente com status 0
+->8382645403357621115
+
+PID 106244 terminou normalmente com status 0
+PID 106245 terminou normalmente com status 0
+->-5612562587004637532
+
+PID 106246 terminou normalmente com status 0
+PID 106247 terminou normalmente com status 0
+->2570586641625947282
+
+PID 106248 terminou normalmente com status 0
+PID 106249 terminou normalmente com status 0
+->-3544735688901189581
+
+PID 106251 terminou normalmente com status 0
+PID 106252 terminou normalmente com status 0
+->3341602664569602386
+
+PID 106253 terminou normalmente com status 0
+PID 106254 terminou normalmente com status 0
+->8359319872930873877
+
+PID 106255 terminou normalmente com status 0
+PID 106256 terminou normalmente com status 0
+->4562098650922706996
+
+PID 106257 terminou normalmente com status 0
+PID 106258 terminou normalmente com status 0
+->-6175271685578974035
+
+PID 106259 terminou normalmente com status 0
+PID 106260 terminou normalmente com status 0
+->3727126864056416500
+
+PID 106261 terminou normalmente com status 0
+PID 106262 terminou normalmente com status 0
+->-1211073135451812995
+
+PID 106263 terminou normalmente com status 0
+PID 106264 terminou normalmente com status 0
+->541746288921644527
+
+PID 106265 terminou normalmente com status 0
+PID 106266 terminou normalmente com status 0
+->7415510370446800995
+
+PID 106267 terminou normalmente com status 0
+PID 106268 terminou normalmente com status 0
+->-6415984517989550431
+
+PID 106269 terminou normalmente com status 0
+PID 106270 terminou normalmente com status 0
+->7535465480715594631
+
+PID 106271 terminou normalmente com status 0
+PID 106272 terminou normalmente com status 0
+->-243457604227973240
+
+PID 106273 terminou normalmente com status 0
+PID 106274 terminou normalmente com status 0
+->4702033044399526975
+
+PID 106275 terminou normalmente com status 0
+PID 106276 terminou normalmente com status 0
+->-4758825030692000971
+
+PID 106277 terminou normalmente com status 0
+PID 106278 terminou normalmente com status 0
+->823336846588513293
+
+PID 106279 terminou normalmente com status 0
+PID 106280 terminou normalmente com status 0
+->-3751517373917485758
+
+PID 106281 terminou normalmente com status 0
+PID 106282 terminou normalmente com status 0
+->-4815719986193139742
+
+PID 106283 terminou normalmente com status 0
+PID 106284 terminou normalmente com status 0
+->6158117531248302256
+
+PID 106285 terminou normalmente com status 0
+PID 106286 terminou normalmente com status 0
+->3400526927706572646
+
+PID 106287 terminou normalmente com status 0
+PID 106288 terminou normalmente com status 0
+->2318340905782685596
+
+PID 106289 terminou normalmente com status 0
+PID 106290 terminou normalmente com status 0
+->-3519568244238216039
+
+PID 106291 terminou normalmente com status 0
+PID 106292 terminou normalmente com status 0
+->6404996081078629308
+
+PID 106293 terminou normalmente com status 0
+PID 106294 terminou normalmente com status 0
+->7998219464277991492
+
+PID 106295 terminou normalmente com status 0
+PID 106296 terminou normalmente com status 0
+->-4576860225353699455
+
+PID 106297 terminou normalmente com status 0
+PID 106298 terminou normalmente com status 0
+->671585519883051128
+
+PID 106299 terminou normalmente com status 0
+PID 106300 terminou normalmente com status 0
+->-1317297726512383228
+
+PID 106301 terminou normalmente com status 0
+PID 106302 terminou normalmente com status 0
+->-3325645436216943259
+
+PID 106303 terminou normalmente com status 0
+PID 106304 terminou normalmente com status 0
+->5845449221899805788
+
+PID 106305 terminou normalmente com status 0
+PID 106306 terminou normalmente com status 0
+->-5526616867965791514
+
+PID 106307 terminou normalmente com status 0
+PID 106308 terminou normalmente com status 0
+->-4794980833835415666
+
+PID 106309 terminou normalmente com status 0
+PID 106310 terminou normalmente com status 0
+->6949797830149788158
+
+PID 106311 terminou normalmente com status 0
+PID 106312 terminou normalmente com status 0
+->-3912625061947024007
+
+PID 106313 terminou normalmente com status 0
+PID 106314 terminou normalmente com status 0
+->6535368791852749809
+
+PID 106315 terminou normalmente com status 0
+PID 106316 terminou normalmente com status 0
+->197868501357793336
+
+PID 106317 terminou normalmente com status 0
+PID 106318 terminou normalmente com status 0
+->807642464351072178
+
+PID 106319 terminou normalmente com status 0
+PID 106320 terminou normalmente com status 0
+->-2859058141938302613
+
+PID 106321 terminou normalmente com status 0
+PID 106322 terminou normalmente com status 0
+->2797246069760523263
+
+PID 106323 terminou normalmente com status 0
+PID 106324 terminou normalmente com status 0
+->-3455293878408856631
+
+PID 106325 terminou normalmente com status 0
+PID 106326 terminou normalmente com status 0
+->9165895001272130650
+
+PID 106327 terminou normalmente com status 0
+PID 106328 terminou normalmente com status 0
+->5751815004516837138
+
+PID 106329 terminou normalmente com status 0
+PID 106330 terminou normalmente com status 0
+->-8376312254994443670
+
+PID 106331 terminou normalmente com status 0
+PID 106332 terminou normalmente com status 0
+->-8458144198808028755
+
+PID 106333 terminou normalmente com status 0
+PID 106334 terminou normalmente com status 0
+->2799474507358419062
+
+PID 106335 terminou normalmente com status 0
+PID 106336 terminou normalmente com status 0
+->-9135279921722566872
+
+PID 106337 terminou normalmente com status 0
+PID 106338 terminou normalmente com status 0
+->-7568640731817686365
+
+PID 106339 terminou normalmente com status 0
+PID 106340 terminou normalmente com status 0
+->2417867978970278771
+
+PID 106341 terminou normalmente com status 0
+PID 106342 terminou normalmente com status 0
+->9003430271505498892
+
+PID 106343 terminou normalmente com status 0
+PID 106344 terminou normalmente com status 0
+->-3255292359593645081
+
+PID 106345 terminou normalmente com status 0
+PID 106346 terminou normalmente com status 0
+->-8386660368764940580
+
+PID 106347 terminou normalmente com status 0
+PID 106348 terminou normalmente com status 0
+->7182477923165492208
+
+PID 106349 terminou normalmente com status 0
+PID 106350 terminou normalmente com status 0
+->-7332285868562701419
+
+PID 106351 terminou normalmente com status 0
+PID 106352 terminou normalmente com status 0
+->-2757761687221031143
+
+PID 106353 terminou normalmente com status 0
+PID 106354 terminou normalmente com status 0
+->-2750370362163217159
+
+PID 106355 terminou normalmente com status 0
+PID 106356 terminou normalmente com status 0
+->-2865064701110326061
+
+PID 106357 terminou normalmente com status 0
+PID 106358 terminou normalmente com status 0
+->-6455539897720244001
+
+PID 106359 terminou normalmente com status 0
+PID 106360 terminou normalmente com status 0
+->-9100966597822512325
+
+PID 106361 terminou normalmente com status 0
+PID 106362 terminou normalmente com status 0
+->18667723630178336
+
+PID 106363 terminou normalmente com status 0
+PID 106364 terminou normalmente com status 0
+->-8553336214541733358
+
+PID 106365 terminou normalmente com status 0
+PID 106366 terminou normalmente com status 0
+->-7754937457170877779
+
+PID 106367 terminou normalmente com status 0
+PID 106368 terminou normalmente com status 0
+->2113239156341016577
+
+PID 106369 terminou normalmente com status 0
+PID 106370 terminou normalmente com status 0
+->-7315718445635649860
+
+PID 106371 terminou normalmente com status 0
+PID 106372 terminou normalmente com status 0
+->4787398378089094423
+
+PID 106373 terminou normalmente com status 0
+PID 106374 terminou normalmente com status 0
+->-1898927726665226897
+
+PID 106375 terminou normalmente com status 0
+PID 106376 terminou normalmente com status 0
+->-629180542100313477
+
+PID 106377 terminou normalmente com status 0
+PID 106378 terminou normalmente com status 0
+->-367101663570704331
+
+PID 106379 terminou normalmente com status 0
+PID 106380 terminou normalmente com status 0
+->-7059893530323133084
+
+PID 106381 terminou normalmente com status 0
+PID 106382 terminou normalmente com status 0
+->7243846311592992415
+
+PID 106383 terminou normalmente com status 0
+PID 106384 terminou normalmente com status 0
+->-4028138741995303758
+
+PID 106385 terminou normalmente com status 0
+PID 106386 terminou normalmente com status 0
+->1499025740234801943
+
+PID 106387 terminou normalmente com status 0
+PID 106388 terminou normalmente com status 0
+->2184501507649428732
+
+PID 106389 terminou normalmente com status 0
+PID 106390 terminou normalmente com status 0
+->1966162329136533120
+
+PID 106391 terminou normalmente com status 0
+PID 106392 terminou normalmente com status 0
+->-7298445663641777827
+
+PID 106393 terminou normalmente com status 0
+PID 106394 terminou normalmente com status 0
+->-849027344618255395
+
+PID 106395 terminou normalmente com status 0
+PID 106396 terminou normalmente com status 0
+->-6505091273191163287
+
+PID 106397 terminou normalmente com status 0
+PID 106398 terminou normalmente com status 0
+->-7402610156405944175
+
+PID 106399 terminou normalmente com status 0
+PID 106400 terminou normalmente com status 0
+->-7092991921198316261
+
+PID 106401 terminou normalmente com status 0
+PID 106402 terminou normalmente com status 0
+->8700576576628388217
+
+PID 106403 terminou normalmente com status 0
+PID 106404 terminou normalmente com status 0
+->7334529568511066353
+
+PID 106405 terminou normalmente com status 0
+PID 106406 terminou normalmente com status 0
+->2958697644967316535
+
+PID 106407 terminou normalmente com status 0
+PID 106408 terminou normalmente com status 0
+->-7501509018218648829
+
+PID 106409 terminou normalmente com status 0
+PID 106410 terminou normalmente com status 0
+->-746402494820419997
+
+PID 106411 terminou normalmente com status 0
+PID 106412 terminou normalmente com status 0
+->9002774431715777
+
+PID 106413 terminou normalmente com status 0
+PID 106414 terminou normalmente com status 0
+->5660620880744451427
+
+PID 106415 terminou normalmente com status 0
+PID 106416 terminou normalmente com status 0
+->-7273914813051982210
+
+PID 106417 terminou normalmente com status 0
+PID 106418 terminou normalmente com status 0
+->-7247813775968143483
+
+PID 106419 terminou normalmente com status 0
+PID 106420 terminou normalmente com status 0
+->2432450049064528966
+
+PID 106421 terminou normalmente com status 0
+PID 106422 terminou normalmente com status 0
+->6056398963361080457
+
+PID 106423 terminou normalmente com status 0
+PID 106424 terminou normalmente com status 0
+->-8273100735368466345
+
+PID 106425 terminou normalmente com status 0
+PID 106426 terminou normalmente com status 0
+->7673697107896130984
+
+PID 106427 terminou normalmente com status 0
+PID 106428 terminou normalmente com status 0
+->-8047137610217116412
+
+4.txt
+->Key: 161468179213344740
+Bytes lidos: 496
+FOI LIDO QUALQUER COISA
+Número de Ficheiros indexados: 1643
+Número máximo de índices a ler por processo: 165
+PID 103111 terminou normalmente com status 0
+PID 103442 terminou normalmente com status 0
+PID 103773 terminou normalmente com status 0
+PID 104104 terminou normalmente com status 0
+PID 104449 terminou normalmente com status 0
+PID 104780 terminou normalmente com status 0
+PID 105111 terminou normalmente com status 0
+PID 105449 terminou normalmente com status 0
+PID 105780 terminou normalmente com status 0
+PID 106111 terminou normalmente com status 0
+server_to_client_103109
+FOI LIDO QUALQUER COISA
+A Chave não se encontra indexada em cache
+O ficheiro não estava indexado no ficheiro
+O ficheiro não estava indexado
+server_to_client_105317
+FOI LIDO QUALQUER COISA
+Chave de procura: 2432450049064528966
+A Chave não se encontra indexada em meta-data
+Key encontrada
+server_to_client_106507
