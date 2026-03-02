@@ -1,4 +1,4 @@
-# Sistema de Indexação e Procura de Metadados (Project Gutenberg)
+# Sistema de Indexação e Procura de Metadados 
 
 Este projeto consiste num sistema cliente-servidor desenvolvido em C para gerir e pesquisar metadados de e-books. O sistema utiliza Named Pipes (FIFOs) para comunicação entre processos e implementa multiprocessamento para pesquisas paralelas.
 
